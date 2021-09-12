@@ -7,6 +7,8 @@ title:
 creator:
 - role: author
   text: Robert Barclay
+- role: publisher
+  text: Olaf Radicke
 - role: editor
   text: Olaf Radicke
 # identifier:
