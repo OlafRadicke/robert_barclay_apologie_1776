@@ -1,0 +1,3 @@
+#!/bin/bash
+
+pandoc markdown_source/*.md -o ./apologie_r_barclay.pdf
