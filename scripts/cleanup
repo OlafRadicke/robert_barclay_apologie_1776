@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rm apologie_r_barclay.epub
+rm -R ./var

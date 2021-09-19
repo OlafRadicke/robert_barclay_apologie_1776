@@ -1,8 +1,10 @@
 #!/bin/bash
 
+mkdir -p ./var
+
 pandoc \
   markdown_source/*.md \
-  -o ./apologie_r_barclay.epub
+  -o ./var/apologie_r_barclay.epub
 
 
   # --metadata title="Apologie" \
