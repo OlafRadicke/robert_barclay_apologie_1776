@@ -1,14 +1,15 @@
-<!-- Seite 41 -->
+<!-- Seite 41, content-0061.xml -->
 
 
 APOLOGIE ODER VERTEIDIGUNGSSCHRIFT DER WAHREN CHRISTLICHEN GOTTESGELAHRHEIT.
 ============================================================================
 
-SATZ 1.
-=======
+DER 1. SATZ
+===========
 
+***Von dem wahren Grund der Erkenntnis.***
 
-Von dem wahren Grund der Erkenntniß. Dadie höchste Glückseeligkeit in der
+Dadie höchste Glückseeligkeit in der
 walren Erkennt: niß GOttes bestehet, (das ist aber das ewige Les Joh. 1713.
 ben, daß sie dich, daß du allein wahrer GOtr bist, und den ou gesandt hast,
 Jesum Christum erkennen,)fo ist der wahre und richtige Verstand, den man
