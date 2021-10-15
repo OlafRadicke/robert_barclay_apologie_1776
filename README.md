@@ -1,14 +1,16 @@
 Apologie von Robert Barclay in der Übersetzung von 1776
 =======================================================
 
-Der Text basiert auf die Digitalisierung von Google und der OCR von Google. Der Eingescannte Text
-ist eine übersetzung von 1776. Es gibt noch eine ältere übersetzung von 1684. Diese von 1776 scheint
-mir aber die besser verständlichere.
+Der Text basiert auf die Digitalisierung von Google und der OCR von Google.
+Der Eingescannte Text ist eine übersetzung von 1776. Es gibt noch eine ältere
+übersetzung von 1684. Diese von 1776 scheint mir aber die besser
+verständlichere.
 
 Bearbeitungen und Anpassungen
 -----------------------------
 
-Der Text wurde behutsam in der Rechtschribung sowei angepasst, das es der Lesbarkeit dient.
+Der Text wurde behutsam in der Rechtschreibung soweit angepasst, das es der
+Lesbarkeit dient.
 
 Formatierung
 ------------
