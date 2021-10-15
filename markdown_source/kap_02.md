@@ -180,74 +180,144 @@ zu vernehmen bat.
 
 #### 3. ####
 
->  "Tertullianus spricht, wie es káme, daß, da der .
-  Teufel niemals můßig ist, und das Gemüth zur Bos:
-  heit anreißet, GOttes Werk entweder aufhören und
-  fich geschäftig zu erweisen nadılassen sollte? Da der
-  HErr den Trøjter zu diesem Endi gefandt hat, daß,
-  weil die menschliche Schwachheit nicht alles auf einmal
-  tragen konnte, die Erkenntniß durch den heiligen
-  Geist, als des HErrn Statthalter, und nach und nach
-  unterwiesen, formiret und zur Vollkommenheit ge-
-  bracht würde. Ich habe euch, spricht Er, noch
-  viel zu sagen, ihr könnet es aber jest nicht tragen.
+>  "*Tertullianus spricht, wie es káme, daß, da der .
+Teufel niemals můßig ist, und das Gemüth zur Bos:
+heit anreißet, GOttes Werk entweder aufhören und
+fich geschäftig zu erweisen nadılassen sollte? Da der
+HErr den Trøjter zu diesem Endi gefandt hat, daß,
+weil die menschliche Schwachheit nicht alles auf einmal
+tragen konnte, die Erkenntniß durch den heiligen
+Geist, als des HErrn Statthalter, und nach und nach
+unterwiesen, formiret und zur Vollkommenheit ge-
+bracht würde. Ich habe euch, spricht Er, noch
+viel zu sagen, ihr könnet es aber jest nicht tragen.<!-- Seite 50,  content-0066.xml -->
+Wenn aber der Geist der Wahrheitkommen
+wird, so wird er euch in alle Wahrheit leiten,
+und euch verfündigen was noch zukünftig
+ist. Von diesem reinem Werk aber haben wir schon
+vorher gebandeit. Was ist denn nun die Verwaltung
+des Trösters anders, als daß die Zucht angeswiesen,
+die Schrift geuffenbaret, der Verstand verändert
+und alles verbessert werde.*"
 
-<!-- Seite 50,  content-0066.xml -->
+| Hieronymus Ep. Paul. 103 |
+|--------------------------|
 
-Athanas,
+#### 4. ####
 
-  "**gen. Wenn aber der Geist der Wahrheit koms men wird, so wird er euch in alle Wahrheit lei;
+> "*Das Gesetz, spridyt Hieronymus, ist geistlich,
+und man bat einer Offenbarung nöthig, solches zu verstehen
+Und in feinein 150. Brief an die Hedibia,
+Quæst. II. schreibet er: 'Die ganze Epistel an die Romier
+bedarf einer Auslegung, weil sie in fo grosse
+Dunkelheit verwickelt ist, daß wir, dieselbe zu verstehen,
+der Hülfe des heiligen Geistes nöthig haben,
+der solche dein Apostel in die Feder digtiert hat.*"
 
-cen, und euch verfündigen was noch zukünftig vist. Von diesem reinem Werk aber haben wir schon i, vorher gebandeit. Was ist denn nun die Verwals ,,tung des Eróliers anders, als daß die Zucht anges , wiefen, die Schrift geuffenbaret, der Verstand vers
+#### 5. ####
 
-1, åndert und alles verbcisert werde ze. Hierony- 4. ,,Das Gesetz, spridyt Hieronymus, ist geistlich, Paul. Toz. i, und man bat einer Offenbarung nöthig, solches zu vers
+| Athanas. de incarn. Verbi Dei. |
+|--------------------------------|
 
-in reisen. Und in feinein 150. Brief an die Hedibia, Quæst. II. schreibet er: ,, Die ganze Epistel an die Romier bedarf einer Auslegung, weil sie in fo grosse i, Dunkelheit verwickelt ist, daß wir, dieselbe zu vers
+> "*Athanafius redet hiervon also: 'Solche grosse
+Dinge thut unser Herland täglich. Er treibet zur
+Gottseligkeit an, er überredet zur Tugend, er lehret
+Unsterblichkcit, er erwecket zum Verlangen nach
+himmlischen Dingen, er offenbaret die Erkenntniß
+des Vaters, er flöset Kraft wider den Tod ein, und
+giebet sich einem jeglichen zu erkennen."
 
-stehen, der Hülfe des heiligen Geistes nöthig haben, l, der solche dein Apostel in die Feder dictiret hat.
+#### 6. ####
 
-5. Athanafius redet hiervon also: , Solche grosse Verbi Dei: w Dinge thut unser Herland täglich. "Er treibet zur
+| Gregor. Magn. Hom. 30. über das Evangel. |
+|------------------------------------------|
 
-Il Gottseligkeit an, er überredet zur Tugend, er lebs i, ret Unsterblichkcit, or erwecket zum Verfangen nady l, lyimmlischen Dingen, er offenbaret die Erkenntniß i, des Vaters, cr fiðfet Kraft wider den Tod ein, und i giebet sich einem jeglichen zu erkennen.
+> "*Gregorius Magnus gedenket dessen über die
+Worte: Der wird euch alles lehren, auf folgende
+Weise: 'Wo ferne nicht derselbe Geist in des Žuhörers
+Herzen wohnet, so ist die Predigt des Lehrers versgeblich.
+Niemand schreibe demnach dem Menschen zu,
+was er aus dem Mund dessen, der da redet, vernimmet.
+Denn wo derjenige, so da lehret, nicht inwendig ist,
+so arbeitet die Zunge des Lehrers von aussen umsonst.
 
-6. Gregorius Magnus gedenket dessen über die
+#### 7. ####
 
-Worte: Der wird euch alles lehren, auf folgende über das Weise: ,, Wuferne nicht derselbe Geijt in des Žulyós
+| Cyrill. Alex. in Thesaur. lib. 13.c.3. |
+|----------------------------------------|
 
-of rers Herzen wohnet, so ist die Predigt des Lehrers vers 1 geblich. Niemand sdyreibe deinnachdem Menschen zu, ,, was er aus dem Mund dessen der da redet, vernimmet. ni Denn wo derienige, foda felret; nicht inwendig ist, i fo arbeitet die Zunge des Lehrers von aussen umsonji.
 
-7. Cyrillus Alexandrinus bekräftiget deutlich, daß
+> "*Cyrillus Alexandrinus bekräftiget deutlich, daß
+die Menschen durch den heiligen Geist auf keine anderer
+Weife erkennen, daß Jesus Christus der
+Herr sey, als derjenige, der Honig kostet, vermöge
+dessen natürlichen Eigenschaft weiß, daß es süsse ist.<!-- Seite 51 -->
+Daher vermahmen wir euch, täglich, lieben Brüder,
+sind Bernhardi Worte, daß ihr die Wege des
+Herzens wandelt, und cure Seelen allezeit in euren
+Händen traget, auf daß ilir vernehmen möget, was
+der Herr in euch redet. Und über des Apostels Worte,
+wer sich růhmen will, der růhnie sich des Herren,
+saget er: Mit welchem dreifachen Laster alle Arten
+der Kloster-Leute mchr oder weniger gefährlich angesteckt
+sind. Weil sie mit den Dhren des Herzens
+nicht so fleißig auf dasjenige merken, was der Geist
+der Wahrheit, der nicht schmeichelt, in ihnen redet.
+Dieses war eben die rechte Grundfejte, worauf die
+ersten Reformatores baueten.
 
-y die Menschen durch den heiligen Geist auf keine ans lib.13.c.3. 1, dere Weife erkennen, daß Jesus Christus der
+| Luther. Tom. 5. pag. 76 |
+|-------------------------|
 
-1, DErr sey, als derjenige, der Honig kostet, vermoge i, dessen natürlichen Eigenschaft weiß, daß es füsse ist.
+> Lutherus,in seinem Büchlein an den Adel in Deutschland,
+Schireibet: 'Dieses ist gewiß, daß sich niemand
+selbst zu einem Lehrer der heiligen Schrift machen
+kan; fondern der heilige Geist allein muß es tlun.
+Und über den Lobgefang der heiligen Jungfrau Maria
+lässet er sid, vernehmen: ,Niemand kan Gott recht
+erkennen, oder das Wort GOttes recht verstehen, der
+solches nicht unmittelbar von dem Heil. Geist empfanget.
+So kan es aud) keiner von dem Heil. Geist
+empfangen, wenn er es nicht durch, die Erfahrung in
+sich selbst empfindet; und in dieser Erfahrung lehret
+der heilige Geist, als in seiner eigenen Schule, ausser
+welcher weiter nichts als ein bloses Geschwäz gelehret wird.
 
-Gregor. Magn. Hom. 3.
+| Phi. Melanton. |
+|----------------|
 
-Evangel.
+</br>
 
-Cyrill.
-Alex. in
-Thesaur.
+| Durch den Geist allein wird Gott erkant. |
+|------------------------------------------|
 
-1. Daher
+</br>
 
-in Pfalm.
+> Philippus Melanchton, in seinen Anmerkungen über
+das 6. Kap. Johannis, schreibet: 'Wer nur eine äusserliche
+und leiblide Stimme höret, der höret das
+Geschöpf. Gott aber ist ein Geist, und wird weder
+gesehen, noch erkannt und geboret, als durch den
+Geist. Die Stimine GOttes demnach höhren, und
+GOtt sehen, heißt den Geist kennen und höhren. Durch
+den Geist allein wird GDtt erkannt und empfunden.
+Welches auch diejenigen, denen ihr Christentum ein <!-- Seite 52,  content-0070.xml -->
+Ernst ist, nämlich alle solche, die sich an dem äusserlichen
+Wesen der Religion nicht begnügen lassen, und sich deren
+nicht als eines Deckels oder Kunstgriffs bedienen, bis auf den heutigen Tag erkennen. Ja, alle diejenis gen, die ihr Christenthum in der That zu beweisen sus chen, und nicht eher rulyen können, als bis sie dessen kräftige Wurkung an ihrem Herzen spüren, die sie von Sånden erloset; diese empfinden wahrhaftig, daß zu dessen Herfürbringung keine Wissenschaft kräftig genug sey, als diejenige, welche von dem feurigen Einfluß des Geisies GOttes in ihr Herz, und von dem erfreus lichen Schein feines ilyren Verstand erleuchtenden Lichts berfür gebracht wird.
 
-84.
+Hiervon bat ohnlangsi ein neuer Scribent, námlich D. Smith der Doctor Smith zu Cambridge, in feinen auserleses tu Cambr. nen Reden (von den Mitteln, wodurch man zur Gottesge: wahren Erkenntniß GOttes gelangen kan) sehr lahrheit so wohl geredet, wenn er unter andern alio schreibet:
 
-Daher vermahmen wir euc, táglich, lieben Brů: Bernhard. ,, der, sind Bernhardi Worte, daß ihr die Wege des ., Herzens wandelt, und cure Seelen allezeit in curen » Händen traget, auf daß ilir vernehmen möget, mas i, der HErr in euch redet. Und über des Apostels Worte; i, wer sich růhmen will, der růhnie sich des Errn, i faget er: Mit welchem dreifachen Lajter alle Arten i, der Kloster-Leute mchr oder weniger gefährlid) ans i gesieckt sind. Weil sie mit den Dhren des Herzens ,, nidt so fleißig auf dasjenige merken, was der Geist 1, der Wahrheit, der nicht schneid;elt, in ihnen redet.
+Unsere Gottesgelalyrheit nur bloß in Büdern und
+Schriften suchen wollen, beißt den Lebendigen bey den
+Todten suchen. Wir suchen GOtt in diesen gar viela
 
-Dieses war eben die rechte Grundfejte, worauf die ersten Reformatores baueten.
+mals nur vergeblid), allwo seine Wahrheit öfters ,, nicht so wohl eingeschlossen als vergraben ijt. Intra te is quære Deum. Suche GOtt in deiner eigenen Soes lile. Er wird (nach des Plotinus Ausdruck) am besten i, rosçã exepă durch eine Berührung des Verstans 11 des, erkannt. Wir müssen das Wort des Lebens ji mit unsern Augen seben, mit unsern Ohren hören, und
 
-Lutherus,in seinem Büchlein an den Adel in Teutsch. Luther. land, [direibet: ,, Dieses ist gewiß, daß sich niemand.pag. 76. er selbst zu einem Lehrer der heiligen Schrift machen ,, kan; fondern der heilige Geist allein muß es tlun.. Und über den Lobgefang der heiligen Jungfrau Maria låsset er sid, vernclimen: ,, Niemand kan GOtt recht ,, erkennen, oder das Wort GOttes recht verstehen, der i, soldes nicht unmittelbar vondem Heil. Geist empfas li het. So kan es aud) keiner von dem Heil. Geist w empfangen, wenn er es nicht durd, die Erfahrung in ll sich selbst empfindet; und in dieser Erfahrung lehret i, der heilige Geist, als in seiner eigenen Schule, ausser e, welcher weiter ni dyts als ein bloses Gefchwuß gelehs
+mit unsern Händen betasten, (daß ich mich S. Johans nis Worte bediene) isu xás iluxūs ärat nous tas, &c. Die
 
-Philippus Melanchton, in seinen Anmerkungen über Phil. Meins 6. Cap. Johannis, schreibet: „Wer nur eine åus ,, ferliche urið leiblide Stimme höret, der høret das ,, Geschöpf. GOtt aber ist ein Geist, und wird wédéć ,, gesehen, noch erkannt und geboret, als durch den 1 Geist. Die Stimine GOttes demnac) hdren, und Durch den 1, GOtt sehen, bycißt den Geist kennen und lyóren. Durch
+Seele selbst hat ihre Sinnen sowohl als der Leib. i Daher denn auc) David, wenn er uns lebren will,
 
-Geift allein den Geist allein wird GDtt erkannt und empfunden. erfanat. Welches aud) diejenigen, deen ihr Christenthuin ein D 2
+worinnen die göttliche Gútigkeit bestehet, sich nidyt 1 auf nachdenkliche Erfindung, sondern auf die Empfins dung berufet, wenn er faget: Schmecker und fehet, wie freundlich der Err ist. Diejenige ist nicht
 
-Ernit
-
-1, ret wird.
-
-lanchton.
+chern er: leruer wird
