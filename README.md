@@ -10,14 +10,12 @@ Bearbeitungen und Anpassungen
 
 Der Text wurde behutsam in der Rechtschribung sowei angepasst, das es der Lesbarkeit dient.
 
-
 Formatierung
 ------------
 
 Der Text wurde mit Markdown gesetzt.
 
 * [Index](INDEX.md)
-
 
 Scripts
 -------
@@ -27,6 +25,7 @@ PDF erstellen:
 ```bash
 $ ./scripts/create_pdf
 ```
+
 ePub (eBook) erstellen:
 
 ```bash
@@ -39,9 +38,9 @@ Clean-up-Skript:
 $ ./scripts/cleanup
 ```
 
-
 Quellen
 -------
+
 * [OCR and scan picures on google.de/books ](https://www.google.de/books/edition/Robert_Barclay_s_Apologie_oder_Vertheidi/hb5jAAAAcAAJ?hl=de&gbpv=0&kptab=overview)
 * [About the author (R. Barclay)](https://de.wikipedia.org/wiki/Robert_Barclay_(Qu%C3%A4ker))
 
