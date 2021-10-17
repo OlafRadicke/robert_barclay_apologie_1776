@@ -301,23 +301,173 @@ gesehen, noch erkannt und geboret, als durch den
 Geist. Die Stimine GOttes demnach höhren, und
 GOtt sehen, heißt den Geist kennen und höhren. Durch
 den Geist allein wird GDtt erkannt und empfunden.
+
 Welches auch diejenigen, denen ihr Christentum ein <!-- Seite 52,  content-0070.xml -->
 Ernst ist, nämlich alle solche, die sich an dem äusserlichen
 Wesen der Religion nicht begnügen lassen, und sich deren
-nicht als eines Deckels oder Kunstgriffs bedienen, bis auf den heutigen Tag erkennen. Ja, alle diejenis gen, die ihr Christenthum in der That zu beweisen sus chen, und nicht eher rulyen können, als bis sie dessen kräftige Wurkung an ihrem Herzen spüren, die sie von Sånden erloset; diese empfinden wahrhaftig, daß zu dessen Herfürbringung keine Wissenschaft kräftig genug sey, als diejenige, welche von dem feurigen Einfluß des Geisies GOttes in ihr Herz, und von dem erfreus lichen Schein feines ilyren Verstand erleuchtenden Lichts berfür gebracht wird.
+nicht als eines Deckels oder Kunstgriffs bedienen,
+bis auf den heutigen Tag erkennen. Ja, alle diejenigen,
+die ihr Christenthum in der That zu beweisen suchen,
+und nicht eher ruhen können, als bis sie dessen
+kräftige Wurkung an ihrem Herzen spüren, die sie von
+Sünden erloset; diese empfinden wahrhaftig, daß zu
+dessen Herfürbringung keine Wissenschaft kräftig genug
+sey, als diejenige, welche von dem feurigen Einfluß
+des Geisies GOttes in ihr Herz, und von dem erfreulichen
+Schein feines ilyren Verstand erleuchtenden
+Lichts berfür gebracht wird.
 
-Hiervon bat ohnlangsi ein neuer Scribent, námlich D. Smith der Doctor Smith zu Cambridge, in feinen auserleses tu Cambr. nen Reden (von den Mitteln, wodurch man zur Gottesge: wahren Erkenntniß GOttes gelangen kan) sehr lahrheit so wohl geredet, wenn er unter andern alio schreibet:
+</br>
 
-Unsere Gottesgelalyrheit nur bloß in Büdern und
+| D. Smith zu Cambr. Von der Gottesgelährteit so aus Büchern erlernet wird |
+|--------------------------------------------------------------------------|
+
+</br>
+
+Hiervon bat ohnlangsi ein neuer Scribent, námlich
+der Doctor Smith zu Cambridge, in feinen auserlesenen
+Reden (von den Mitteln, wodurch man zur
+wahren Erkenntniß GOttes gelangen kan) sehr
+wohl geredet, wenn er unter andern alio schreibet:
+
+> Unsere Gottesgelalyrheit nur bloß in Büdern und
 Schriften suchen wollen, beißt den Lebendigen bey den
-Todten suchen. Wir suchen GOtt in diesen gar viela
+Todten suchen. Wir suchen GOtt in diesen gar vielmals
+nur vergeblid), allwo seine Wahrheit öfters
+nicht so wohl eingeschlossen als vergraben ist. Intra te
+quære Deum. Suche GOtt in deiner eigenen Seele.
+Er wird (nach des Plotinus Ausdruck) am besten
+rosçã exepă durch eine Berührung des Verstandes,
+erkannt. Wir müssen das Wort des Lebens
+mit unsern Augen seben, mit unsern Ohren hören, und
+mit unsern Händen betasten, (daß ich mich S. Johannis
+Worte bediene) isu xás iluxūs ärat nous tas, &c. Die
+Seele selbst hat ihre Sinnen sowohl als der Leib.
+Daher denn auch David, wenn er uns lebren will,
+worinnen die göttliche Gútigkeit bestehet, sich nicht
+auf nachdenkliche Erfindung, sondern auf die Empfindung
+berufet, wenn er faget: Schmecker und sehet,
+wie freundlich der HErr ist. Diejenige ist nicht<!-- Seite 52 -->
+die beste und wahreste Erkenntniß GOttes, welche
+durch Arbeit und Schweiß des Gehirns erlanget
+wird, sondern diejenige, so sich durch eine himmlische
 
-mals nur vergeblid), allwo seine Wahrheit öfters ,, nicht so wohl eingeschlossen als vergraben ijt. Intra te is quære Deum. Suche GOtt in deiner eigenen Soes lile. Er wird (nach des Plotinus Ausdruck) am besten i, rosçã exepă durch eine Berührung des Verstans 11 des, erkannt. Wir müssen das Wort des Lebens ji mit unsern Augen seben, mit unsern Ohren hören, und
+und heilige Brunst in unfern Herzen entzündet.,, Und wiederum an einem andern Ort schreiber dieser Engs lische Lehrer: ,, Es ist eine Erkenntniß der Wahrheit, ,, wie sie in JEsu ist, wie sie in einer Christo gleichen 1 Natur ist; wie sie in dem sanften, milden und demůs i, thigen Geisi JEsu ist, welche sich, wie die Morgens
 
-mit unsern Händen betasten, (daß ich mich S. Johans nis Worte bediene) isu xás iluxūs ärat nous tas, &c. Die
+Sonne, über die Seelen der Frommen, voller Licht
 
-Seele selbst hat ihre Sinnen sowohl als der Leib. i Daher denn auc) David, wenn er uns lebren will,
+und Leben ausbreitet. Es núßet wenig, Christum I felbfi nur nach dem Fleisdh zu kennen; fondern er 1. schenket gottseligen Herzen seinen Geist, der die 1. Tieffe der Gottheit erforschet.,, Er fålyret ferner fort: „Es ist eine gar magere und leere Erkenntniß, 1, die nur durch blosjes Speculiren erlanget, und durch li Vernunft-Schlüsse und Beweißthümer eingebleuet
 
-worinnen die göttliche Gútigkeit bestehet, sich nidyt 1 auf nachdenkliche Erfindung, sondern auf die Empfins dung berufet, wenn er faget: Schmecker und fehet, wie freundlich der Err ist. Diejenige ist nicht
+, wird. Diejenige aber, fo aus der wahren Gútigs rikcit cutspringet, ist (wie Origenes redet) Febrsedo no
 
-chern er: leruer wird
+séons i todeičias . Sie erfüllet das Gemütli mit einem ir solchen göttlichen Licht, welches viel klarer und übers is zeugender ist, als alle Beweißthümer, so aus, der
+
+Vernunft-Kunst hergeholet werden.,;
+
+S. III. Daß diese gewisse und unzweifelbare Lehr- Der Abfall Art von der wahren Erkenntniß GOttes abgebracht falsche er: worden, ist kein geringer Kunstgriffdes Teufels gemes kenntnis fen, das menschliche Geschlecht sich und seinem Reich find einges unterwürffig zu machen. Denn nadidem das Licht des worden. Evangelii und die Fürtreflichkeit der Clyrisilichen Reli: gion sich über einen guten Theil der Welt ausgebreitet, und die dicken Nebei der heydnischen Lehre von der Viels heit der Götter zertrieben hatte, so bließ die höllische Schlange, als sie falsc, es poy keine Wahrscheinlichkeit mehr, die Welt auf solche Art långer zu bethören, dem Menschen eine falsche Erkenntniß des wahren GOttes ein, daß er sich angelegen seyn liesse, GOtt auf eine uns
+
+rechte
+
+ [ocr errors]
+rechte Weise zu suchen, und überredete ilyn, daß er mit
+ciner solchen Erkenntniß zufrieden seyn möchte, die er
+aus eigenem Würken erlanget, und die ihm nicht von
+GOtt gelehret worden. Und dieser listige Anfdlag ist
+ihın desto giücklicher gelungen, weil er nach der natürlis
+chen und verderbten Gemütlis-Art des Menschen einges
+richtet ili, welcher nach nichts so sehr trebet, als sich
+selbst zu crheben und groß zu machen. Gleichnie aber
+GØtt durch diese feine Selbst-Erhöhung hòchstens vers
+unchret wird; also hat der Teufel seinen Endzweck hiers
+innen erhalten. Dieser bekümninert sich nicht so felr cas
+rum, wie felir GOtt mit Worten erkannt werde, das
+fern ihm nur in der That selbst gedienet wird. Es
+liegt ihm wenig dran, was vor grosse und hohe Bes
+
+         trachtungen der natürliche Mensch von GOtt beget, fo
+Das Chri- lange er nur seinen Lüften und Begierden folget, und
+et ju einer seinen bösen Eingebungen und Versuchungen Gehors
+ Stunft wor- ram leistet. Solchergelialt ist das Christenthum zu
+den, so
+durch
+
+einer Kunst worden, fo wie eine jedwede andere Pros menschlis feßion oder Wissenschaft durch menschliches Nachsins for lums nen und Fleiß erlanget wird; und die Menschen baben Fleiß er: sid, nicht nur des Namens der Christen angemasset,
+
+sondern es auch durch gewisse künstliche Practiquen das
+bin gebracht, daß man sie für Meister des Christens
+thums bålt, da sie doch von dem Geist und Leben
+JEsu gånzlid) entfremdet sind. Wenn wir aber die
+Beschrcibung eines Christen recht nach der Schrift
+einrichten wollen, daß nämlich ein Christ ein solcher ist,
+der den Geist hat, und von demselben getrieben
+wird, wie vielen Chrisien, ja auch solchen also geachtes
+ten grossen Meistern und Lehrern des Christens
+thums, werden wir diesen herrlichen Titul abspres
+den müssen?
+
+  Wann dann nun folche, die alle andere Mittel der Ers
+Kenntniß haben, und mehr als zu geleiyrt darinnen sind, es
+rey nun der Budystabe der Schrift, oder die alten Mens
+
+schen-Sukungen
+
+langet wird.
+
+fchen-Sagungen der Kirchen, oder die Werke der Schöpfung und göttlichen Vorfehung, ivoraus sie siars ke und unleugbare Beweisthümer (die auch wolí an sich selbst wahrseyn mögen) heraus ziehen können, nady der obbemeldten gewissen und ohnfehlbaren Beschreibung der Schrift, noch für keine Christen zu achten sind: und wenn die innerliche und unmittelbare Offenbarung des Geistes GOttes in dem Herzen, in solchen, die in cinis gen von diesen Mitteln, die Erkenntniß zu erlangen, ganz unwissend, und in andern sehr wenig beschlagen gewesen, sie dennoch zur Seligkeit gebracht hat; lo Durch die wird nothwendig und unriderspredylich folgen, daß die rung wird innerliche und unmittelbare Offenbarung der die wahre einzige sichere und gewisse Weg rey, zur wahren nifGOttet und feligmachenden Erkenntniß GOttes zu ges erlanget. langen.
+
+Nun ist aber das erste walir; derobalben muß auch das leßte wahr feyn.
+
+Gleichwie nun dieser Beweiß diesen Weg der Ers kenntniß fchr nachdrücklich behauptet, und denenjenigen, die solchen leugnen, gånzlid) zuwider iji; also erlanget er dadurch ein desto grösseres Gewicht; weildie Süße, aus welchen er heraus gezogen ist, so klar sind, daß fie unsere Widersádher selbst nicht leugnen können. Denn was das ersie anbelanget, so wird zugestanden, daß viele gelehrte Leute verdammt werden mögen, und vers dammt worden seyn. Ind wer wil bey dem zweyten Punct leugnen, daß viele ungelehrte Leute felig werden mögen, und selig worden sind? So darf sich auch nies mand unterstehen, dieses zu bekräftigen, als ob niemand durd, die innerliche Offenburung des Geistes, ohne diese andern äusserlichen Mittel, zur Erkenntniß GOts tes und der Seligkeit gelangete, wenn sie nicht auch fo Abel, dreiste feyn wollen, Åbel, Seth, Vioah, Abraham, Sethy
+
+Noaby, toer: Siob, und alle heiligen Erz-Väter von der waliren den als, Erkenntniß und Seligkeit auszuschliessen.
+
+angefüh: $. IV.
+
+Erettipel
+
+ret.
+
+1
+
+S. IV. Jimittelst wolle man mich nicht also verste: hen, als ob ich diesen andern Mitteln der Erkenntniß alien Nutzen und Diensi absprechen wolte, den sie unter den Menschen haben können. Es sei) ferne von mir, dat ich also urtheilen folte; wie in dem folgenden Saß von der Seil. Schrift auch deutlidier erhellen wird. Die Frage ist nicht, was nützlich oder behülflich seyn mag, fondern was unumgänglich nothwendig ist. Es können viele Dinge zu Beförderung eines Werks beytragen, welche doch nicht eben die Haupt-Sache sind, die da machet, daß solches Werk von statten gehet.
+
+So läuft denn die Summe des besagten dahin aus, daß, wo die wahre innerliche Erkenntniß GOttes durch die Offenbarung seines Geistes ist, da ist alles, und és findet sich da keine unumgängliche Nothwendigs keit einer andern Erkenntniß. Wo aber gleich die fürs treflichste, böchste und tiefste Erkenntniß anzutreffen, wenn sie ohne diese ist, so bilft sie zu Erhaltung des gros fen Endzwecks der Šeligkeit so viel als nichts. Diese Wahrheit wird durch den ersten Theildes Sates selbst nachdrücklich bekräftiget, als welcher in wenig Wors ten unterschiedene unstreitige Beweißthúmer, die ich kürzlich aus einander seken will, in sich begreifet. Erstlich, daß keine Erkenntniß des Vaters ist, oh
+
+ne durch den Sohn. Zweytens, daß keine Erkenntniß des Sohnes ist,
+
+als durch den (Sjeist. Drittens, das sich GOtt durch den Geist seinen
+
+Kindern jederzeit selbst geoffenbaret habe. Viertens, daß diese Offenbarungen das Objec
+
+rum formale, oder ver wůrkliche und eigentliche Gegenstand gewesen, worauf si h der Heiligen
+
+Glaube gegründet. - Und legtens, daß eben dieselben noch auf den beus
+
+tigen Tag das Object oder der Gegensiand von der Heiligen ihrem Glauben bleiben.
+
+Bey
+
+I.
+
+II.
+
+III.
+
+IV.
+
+V.
+
+2. 3.
+
+Bey einem jeglichen dieser Puncte will ich eins und das andere insbesondere erinnern, und alsdenn zu dem legten Stück schreiten.
+
+S. V. Was das erste betrift, daß nämlich keine Beweiß Erkenntniß des Vaters ist, ausser durch den des ersten
+
+Sages. Sohn, wird solches keines weitläuftigen Beweises bedürfen, weil es auf die klaren Worte der Schrift gegründet, und deßwegen ein geschicktes Mittel ist, die übrigen Beweißthúmer heraus zu ziehen.
+
+Denn der unendliche und allweise GOtt, der der Grund, die Wurzel, und die Quelle aller Würs kung ist, hat alle Dinge durch sein ewiges Wort und Sohn gewürket. Dieser ist dasjenige Wort, welches Joh. 1, 1. im Anfang bey GOtt war, und GOtt selbst war, durch welches alle Dinge gemacht worden, und obne welches nichts gemacht worden ist, das ges macht ist. Dieses ist derjenige Jesus Cristus, durch welchen GOtt alles geschaffen hat, das im Simmel und auf Erden ist, das Sichtbare und Ephef.319. Unsichtbare, beydes die Thronen und Berrschaften, Sürstenthüme und Obrigkeiten, Col. 1, 16. welcher Dahero genennet wird der Erstgebohrne uns ter allen Creaturen, Col. 1, 15. Gleichwie nun dies fer unendliche unbegreifliche Brunnquell des Lebens und aller Bewegung durch sein eigenes ewiges Wort und Kraft in denen Geschöpfen würket; also hat kein Ges schopf einen Zutritt zu ihm, als in und durch den Sohn; wie er selbst mit ausdrücklichen Worten bezeuget, wenn er spridt: Niemand kennet den Vater, denn nur Der Sohn, und welchem ihn der Sohn will offens baren. Matth. II, 27. Luc. 10,22. Und wiederum spricht er felbit an einem andern Orte: Ich bin der Weg, die Wahrheit und das Leben: iemand Edmmet zum Vater denn durch mich, Joh. 14,6.
+
+Dannenhero wird er mit Recht der Mittler zwis fchen GOtt und Menschen genennet. Denn, da
+
+Menschen
+er
