@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sigil robert-barclay-s-apologie-1776-google-scan.epub &
-okular robert-barclay-s-apologie-1776-google-scan.pdf &
+sigil ../../fremd_texte/brclay_robert/robert-barclay-s-apologie-1776-google-scan.epub &
+okular ../../fremd_texte/brclay_robert/robert-barclay-s-apologie-1776-google-scan.pdf &
