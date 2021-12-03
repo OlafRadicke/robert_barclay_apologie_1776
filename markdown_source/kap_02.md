@@ -747,7 +747,7 @@ Werkzeug hervor gebracht worden, und keines weges
 von dem geifilichen Ursprungherrühret: Und zwar eben
 so wenig, als die durch Kunst erlangten Worte eines
 Menschen, so durch den Mund eines Vogels herfür gebracht
-werden, weil sie aus feinem vernünftigen Ursprung<!-- Seite 62 -->
+werden, weil sie aus feinem vernünftigen Ursprung<!-- Seite 63 -->
 hervor kommen, in Ansehung des Vogels, der sie
 forbringet, wahr sind. Dahero will ich noch ferner
 folgenden Bemeiß aus dieser Schrift-Stelle beifügen.
@@ -791,7 +791,7 @@ Grund-Säzen ganz ungezwungen von sich selbst
 folget; also kan es von denen, so die Schriften des alten 
 Tesiamentes vor Wahrheit erkennen, die durch
 Eingebung des heiligen Geistes aufgezeichnet worden,
-nicht geleugnet werden. Denn diese Schriften geben<!-- Seite 62 -->
+nicht geleugnet werden. Denn diese Schriften geben<!-- Seite 64 -->
 von Mose bis auf Malachiam deutlich zu erkennien,
 daß alle diese Zeit über GOtt sich seinen Keindern
 durch seinen Geist geoffenbaret babe. 
@@ -809,77 +809,166 @@ GOttes kund thate, so, daß diese unmittelbare Unterredung
 oder Offenbarung zu keiner Zeit aufgehöret
 habe. 
 
-Von diefer Zweytens, von dieser unmittelbaren Gemeinschaft unmittels
+Zweytens, von dieser unmittelbaren Gemeinschaft
+waren diejenigen nicht ausgeschlossen, die solche ernstlich
+suchten, und darauf warteten. Massen, ausser dem
+Hohen-Priester, noch viele, die nicht einmal aus dem
+Geschlecht Levi, noch auch der Propheten waren, dieselbe
+erlangeten und davon redeten. Wie im 4 Buch Morse
+11,25. geschrieben stehet, wo gesagt wird, daß der
+Geist auf den siebenzig Ältesten geruhet habe.
+Welcher Geist auch auf zweyen ruhete, die nicht in der
+Hütte des Stifts, sondern im Lager waren. Und als
+etliche solchen verbieten wollten, wollte es Moses nicht
+zulassen, sondern freuete sich vielmehr darüber, und
+wünschte, daß alle das Volk des Herrn weissagete
+und der Herr seinen Geist über sie gäbe. v.29.
 
-, waren diejenigen nicht ausgeschlossen, die solche ernstmeinschaft lich suchten, und darauf warteten. Massen, ausser dem ift nies Hohen-Priester, noch viele, die nicht einmal aus dem mand ausgreichloffen Geschlecht Levi, noch auch der Propheten waren, dies
+Dieses wird auch Rehem. 9. bekräftiget. Allwo
+die Ältesten des Volks, nach ihrer Zurückkunft aus
+der Gefangenschaft, als sie angefangen hatten, sich
+durch Fasten und Beten zu heiligen, bey Erzehlung
+der vielfältigen Barmherzigkeiten Gottes gegen ihre
+Väter, v. 20. unter andern auch also sagen: Du
+gabest ihnen den guten Geist, sie zu unterweisen.<!-- Seite 65 -->
+Und im 30. Vers, du hieltest viele Jahre über ihnen,
+und liessest sie bezeugen durch deinen Geist
+in deinen Propheten. Sehr viele dergleichen Sprüche
+hören wir aus dem Munde des geistreichen Königs
+und Propheten Davids. Psalm 51, II. 12. seufzet
+er: Verwirff mich nicht von deinem Angesicht,
+und nimm deinen heiligen Geist nicht von mir.
+Und Psalm 139,7. spricht er: Wo soll ich hingehen
+vor deinem Geist? Und wo soll ich hinflieben vor
+deinem Angesicht? Diesem Geist schreibet der Prophet
+Elaias die Glaubwürdigkeit seines Zeugnisses zu, 
+wenn er saget, und nun sendet mich der Herr Herr
+und sein Geist, 2c[^k2f1]. Und daß sich Gott der Herr seinen [^k2f2],
+Kindern im neuen Testament, nämlich den Aposteln, 
+Evangelisten und ersten Jüngern geoffenbaret habe,
+wird von niemand geleugnet und in Zweifel gezogen.
+Ob nun, und wie Ferne dieses noch beut zu Tage ges
+schichet und zu erwarten sey, Davon werden wir hernach
+zu reden haben.
 
-felbe erlangeten und davon redeten. Wie im 4 B. Mor. 11,25. geschrieben siebet, wo gesagt wird, daß der Geist auf den siebenzig Aeltesten geruhet habe. Welcher Geist auch auf zweyen ruhete,
+#### S. VIII. ####
 
-die nicht in deč Hütte des Stifts, sondern im Lager waren. Und als etliche folchen verbieten wollten, wollte es Moses nicht zulassen, sondern freuete sich vielmehr darüber, und wünschte, daß alle das Volk des HErrn weissagete und der Err seinen Geist über sie gåbe. v.29.
+Das vierte Stück, so wir bekräftigten, [^k2f3]
+war dieses, daß diese Offenbarung ehemals das
+Object, oder der Gegenstand gewesen, wornach 
+die Heiligen ihren Glauben gerichtet.
 
-Dieses wird auch Nehem. 9. bekräftiget. Allwo die Zeltesten des Volks, nach ihrer Zurückkunft aus der Gefangenschaft, als sie angefangen hatten, fic durch Fasten und Båten zu heiligen, bey Erzehlung der vielfältigen Barmherzigkeiten
+Dieses wird nun gar leichtlich daraus abzunehmen
+sein, wenn wir beschreiben, was der Glaube eigentlich
+sei, und dessen Object oder Gegenstand, wornach er sich
+richtet, betrachten. Wir wollen uns hierbey keineswegs
+in die spitzfindigen und mancherlei fürwizigen
+Grillen der Schul-Gelehrten vertieffen, sondern bei
+den klaren und ausdrücklichen Worten des Apostels
+Pauli bleiben, der denselben Hebr. 11. auf zweierlei
+Weise beschreibet. Es ist aber der Glaube (spricht [^k2f4]
+er) eine gewisse Zuversicht deß,das man hoffet, und
+nicht zweifelt an dem, das man nicht siehet. (Oder 
+wie es nach der Engelischen Übersezung lautet: Der 
+Glaube ist die Selbstständigkeit, [oder das selbstsständige<!-- Seite 66 -->
+Wesen) der Dinge die man hoffer, und die 
+Gewißheit [Evidenz oder klare Ueberzeugung] der 
+Dinge, die man nicht siehet.) Und dieses ist, wie es 
+der Apostel in eben demselben Capitel durch viele Eyempel [^k2f5]
+erläutert, nichts anders, als cine feite und gewisse
+Meinung oder Ueberzeugung des Gemüths, worinnen
+es beruber, und durch sein Vertrauen auf Gottes
+Verheissung die Selbstitandigkeit der Sache, die es
+hoffet, einiger Massen besiset, Und solcher Gestalt hat
+die Seele, vermoge ihres Glaubens, eine grosse Gewißheit
+und starke und klare Ueberzeugung der Dinge,
+die sie noch nicht geschen oder erlanget bat.
 
-GOttes gegen ihre Vater, v. 20. unter andern auch also sagen: Du gabest ihnen den guten Geist, sie zu unterweisen.
+Das Object, oder der Gegenstand dieses Glaubens,
+(oder dasjenige, worauf ein Christ seine Glaubens-Ausrichtet,) [^k2f6]
+ist die Verbeissung, das Wort oder Zeugniß
+Gottes, der in dem Gemüthe redet. Daher es
+ein ausgemachter Sat ist, quod Objectum fidei fit
+Deus loquens, oder daß dasjenige, worauf ein
+Christ die Augen seines Glaubens zu richten babe,
+Gott sei, der da reder. Welches auch aus allen denjenigen
+Erempeln [^k2f7], lo von dem Apostel durch diefes ganze
+Kapitel hindurch angezogen und angeführet werden, erhellet,
+deren Glaube weder auf ein äusserlich Zeugniß,
+noch auch auf die Schrift und Stimme der Menschen,
+sondern auf dic Offenbarung des ihnen, und in ihnen
+kund gethanen göttlichen Willens gegründet gewesen. 
+Wie aus dem Erempel des Noch zu sehen, v. 7. Durch
+den Glauben hat Noha Gott geehret, und die
+Arche zubereitet, zum Heil seines Hauses, da er
+einen göttlichen Befehl empfieng, von dem, das
+man nod; nicht sabe, durch welchen er die Welt
+verdaminet, und hat ererber die Gerechtigkeit, die
+durch den Glauben kommer. (Oder wie es im
+Englischen nach dem Griechischen lautet, weil Noah
+durch den Glauben von Gott gewarnet worden, wegen
+solcher Dinge, die man noch nicht sahe, so wurde er aus<!-- Seite 67 -->
+Furcht bewogen, zu Erhaltung seines Hauses eine Arche
+zu bereiten; wodurch er die Welt verdammte, und
+wurde Erbe der Gerechtigkeit, die durch den Glauben
+geschicht.) Was war hier dasjenige, worauf Noah die [^k2r1]
+Augen seines Glaubens richtete, anders, als Gott der
+Herr, der mit ihm redete? Er hatte keine Schriften
+noch Weissagungen irgend eines Menschen, der vor ihm
+hergegangen, auch nicht den einhelligen Beifall einer
+Kirche oder Volkes, ihn darinnen zu stärken; und dennoch
+errettete sein Glaube an das Wort, wodurch er
+der ganzen Welt widersprach, ihn und sein ganzes
+Haus. Wobei auch Abraham als ein besonders Erempel [^k2r2]
+angeführet wird, als welcher deswegen den Namen
+eines Vaters aller Gläubigen erhalten, von welchem
+stehet, dat er geglaubet auf Hoffnung, da nichts zu
+hoffen war. Darum, daß er nicht nur sein Vaterland
+wilig verließ, ober schon nid)t wuste, wo er hingienge.
+Daß er die Geburt Isaacs glaubte, ob fchon dieselbe
+aller natürlichen Wahrscheinlichkeit zuwider lief. Inonderheit 
+aber, daß er sich nicht weigerte, ihn aufzuopfern,
+weiler keinesiveges zweifelte, daß GOtt almächtig
+sei, ihn wiederum von den Todten aufzuwecken.
+Als von welchem gesagt worden, in Isaac wird dein
+Saame genennet werden. Und endlich darum, daß
+er in der Verheissung berubete, fein Saame werde das
+Land besiken, worinnen er doch selbit noch ein Pilgrim
+und Fremdling war, und die an ihnen nicht eher als erst
+unterschiedene hundert Jahr hernach erfüllet werden
+sollte. Der Gegenstand, auf welchen Ábraham bei
+allen diesen feinen Glauben richtete, war kein anderer
+als die innerliche und unmittelbare Offenbarung, oder
+Gott der HErr, der ihm feinen Willen innerlich und
+unmittelbar durch seinen Geist offenbarete.
 
-Und
+Weil wir aber in diesein Theil des Satzes auch unter
+andern der aufserlichen Stimmen, Erscheinungen 
+und Träume Meldung gethan haben, so kan ich nicht<!-- Seite 68 -->
+umhin, etwas davon anzumerken, und zu zeigen, was
+etwan in diesem Stück eingewendet werden möchte,
+und zwar dieses: [^k2r3]
 
-Und im 30. Vers, du hieltest viele Jahre über iho nen, und liefsest sie bezeugen durch deinen Geist in deinen Propheten. Sehr viele dergleichen Sprů: che hören wir aus dem Munde des geistreichen Königs und Propheten Davids. Psalm 51, II. 12. seufzet er: Verwirff mich nicht von deinem Angesicht, und nimm deinen heiligen Geist nicht von mir. Und Psalm 139, 7. spricht er: Wo soll ich hingeben vor deinem Geist? Und wo soll ich hinflieben vor deinem Angesicht? Diesem Geist schreibet der Pros phet Esaias die Glaubwürdigkeit seines Zeugnisses zu, wenn er laget, und nun sendet mich der Err HErr und sein Geist, 2c. Und daß sich GOtt der HErr seinen Jes. 48,16, Kindern im neuen Testament, nämlich den Aposteln, Evangelisten und ersten Jüngern geoffenbaret habe, wird von niemand geleugnet und in Zweifel gezogen. Ob nun, und wie Ferne dieses noch beut zu Tage ges schichet und zu erwarten sey, Davon werden wir her: nach zu reden haben.
+Daß diejenigen, die ihren Glauben auf unmittelbare
+und objective Offenbarung gründen, auch
+äusserliche Stimmen oder Gesichte, Träume oder
+Erscheinungen deßwegen haben müssen?
 
-S. VIII. Das vierte Stück, so wir bekräftigten, Beweiß war dieses, daß diese Offenbarung ehemals das Object, oder der Gegenstand gewesen, wornach die Seiligen ihren Glauben gerichtet.
-
-Dieses wird nun gar leichtlich daraus abzunehmen feyn, wenn wir beschreiben, was der Glaube eigentlich rey, und dessen Object oder Gegenstand, wornach cr sich richtet, betrachten. Wir wollen uns hierbey keineswegs in die spitfindigen und mancherley fürwißigen Grillen der Schul-Sclehrten vertieffen, sondern bey den klaren und ausdrücklichen Worten des Apostels Pauli bleiben, der denselben Hebr. 11. auf zweyerley Weise beschreibet. Es ist aber der Glaube (spricht Was der er) eine gewisse Zuversicht deß,das man hoffet, und nicht zweifelt an dem, das man nicht siehet. (Oder wie es nach der Engelischen Uebersekung lautet: Der Glaube ist die Selbstständigkeit, [oder das selbsts
-
-F
-
-ständige
-
-des IV. Sakes.
-
-Glaube fey.
-
-Objectum
-
-ständige Wesen) der Dinge die man hoffer, und die Gewißheit [Evidenzoder klare Ueberzeugung] der Dinge, die man nicht siehet.) Und dieses ist, wie es der Apostel in eben demselben Capitel durch viele Eyempel erläutert, nichts anders, als cine feite und gewisse Meynung oder Ueberzeugung des Gemüths, worinnen es beruber, und durch sein Vertrauen auf GOttes Verheissung die Selbstitandigkeit der Sache, die es 'hoffet, einiger Massen besiset, Und solcher Gestalt hat die Seele, vermoge ihres Glaubens, eine grosse Ges wißheit und starke und klare Ueberzeugung der Dins ge, die sie noch nidyt geschen oder erlanget bat.
-
-Das Object, oder der Gegenstand dieses Glaubens, loquens." (oder dasjenige, worauf ein Christ seine Glaubens-Aus
-
-gen richtet,)ist die Verbeissung, das Wort oder Jeugs niß GOttes, der in dem Gemüthe redet. Daher es ein ausgemachter Sat ist, quod Objeétum fidei fit Deus loquens, oder daß dasjenige, worauf ein Christdie Augen seines Glaubens zu richten babe, GOtt sey, der da reder. Welches auch aus allen dens jenigen Erempeln, lo von dem Apostel durch diefes ganze Capitel hindurch angezogen und angeführet werden, erhellet, deren Glaube weder auf ein äusserlich Zeugniß, noch auch auf die Schrift und Stimme der Menschen, sondern auf dic Offenbarung des ilynen, und in ihnen kund gethanen göttlichen Willens gegründet gewesen. Wiraus dem Erempel des Nváb ju fehen, v. 7. Durch den Glauben hat Moab GOtt geehret, und die Arche zubereitet, zum Scyl seines Saujes, da er einen göttlichen Befehl empfieng, von dem, das man nod; nicht sabe, durch welchen er die Welt verdaminet, und hat ererber die Gerechtigkeit, die durch den Glauben kommer. (Oder wie es im Englischen nach dem Griechischen lautet, meil Noah durch den Glauben von GOtt gewarnet worden, wegin solcher Dinge, die man noch nicht sabe, so wurde er aus
-
-Furcht
-
-Glaube.
-
-Furcht bewogen, zu Erhaltung seines Hauses eine Arche zu bereiten; wodurch er die Welt verdammte, und wurde Erbe der Gerechtigkeit, die durch den Glauben geschicht.) Was war hier dasjenige, worauf Noahdie Des Noah Augen seines Glaubens richtete, anders, als GOtt der HErr, der mit ihm redete? Er hatte keine Schriften
-
-noch Weissagungen irgend eines Menschen, der vor ihm · bergegangen, auch nicht den einhelligen Beyfall einer
-
-Kirche oder Volkes, ihn darinnen zu stärken; und dens noch errettete sein Glaube an das Wort, wodurd) er der ganzen Welt widersprach, ihn und sein ganzes Haus. Wobey auch Abraham als ein besondersErem- Abrahams pel angeführet wird, als welcher deswegen den Na: Glaube. men eines Vaters aller Gläubigen erhalten, von wels chem stebet, dat er geglaubet auf Hoffnung, da nichts zu hoffen war. Darum, daß er nicht nur sein Vaterland wilig verließ, ober schon nid)t wuste, wo er hingienge. Daß er die Geburt Isaacs glaubte, ob fchon dieselbe aller natürlichen Wahrscheinlichkeit zuwider lief. In: sonderheit aber, daß er sich nicht weigerte, ihn aufzuops fern, weiler keinesiveges zweifelte, daß GOtt almich. tig sey, ihn wiederum von den Todten aufzurecken. Als von welchem gesagt worden, in Isaac wird dein. Saame genennet werden. Und endlich darum, daß er in der Verheissung berubete, fein Saame werde das Land besiken, worinnen er doch selbit nod) ein Pilgrim und Fremdling war, und die an ihnen nicht eher als erst unterschiedene hundert Jahr hernach erfüllet werden sollte. Der Gegenstand, auf welchen Ábraham bey allen diesen feinen Glauben richtete, war kein anderer als die innerliche und unmittelbare Offenbarung, oder GOtt der HErr, der ihm feinen Willen innerlich und unmittelbar durch seinen Geist offenbarete.
-
-Weil wir aber in diesein Theil des Sages auch uns ter andern der aufserlichen Stimmen,
-
-Erscheinungen und Träume Meldung gethan haben, fo kan ich nicht
-
-F 2
-
-umhin,
-
-Antwort.
-
-und mit
-
-det.
-
-umhin, etwas davon anzumerken, und zu zeigen, was etwan in diesem Stück eingewendet werden möchte,
-
-und zirar dieses: Einwurf. Daß diejenigen, die ihren Glauben auf unmits
-
-telbare und objective Offenbarung gründen, auch åusserliche Stimmen oder Gesichte, Träume oder Erscheinungen deßwegen haben múljen?
-
-Es jiehet nicht zu leugnen, daß sich GOtt des Diens. Der Dienft stes der Engel bedienet hat, welche in Menschen Gestalt per Engels erschienen, und ehemals aufserlich mit denen Heiligen in Mens geredet haben; imgleichen, daß er ihnen einige Dinge fchen-Ges in Fråuinen und Gesichtern geoffenbaret habe. Wir ftalt er: schienen, getrauen uns nicht zu behaupten, daß eines von diesen den Heili
-
-aufgehöret babe, so, daß wir der Allmad)t und Freybeit gen geres GOttes Ziel und Maaßreben, oder dieselbe einsdyrána
-
-ken sollten, wie sich derselbe feinen Findern offenbaren wolle. Allein, wir müssen bey Betrachtung des Gegens standes, worauf der Glaube gerichtet ist, nicht bey demjenigen stehen bleiben, was nur den Umständen nach und zufälliger Weise also ist, sondern wir müssen bei dem jes nigen bleiben, was allgemein und wesentlich fo befchafa fen ist.
+Es jiehet nicht zu leugnen, daß sich GOtt des Dienstes [^k2r4]
+der Engel bedienet hat, welche in Menschen Gestalt
+erschienen, und ehemals aufserlich mit denen Heiligen
+geredet haben; imgleichen, daß er ihnen einige Dinge
+in Träumen und Gesichtern geoffenbaret habe. Wir
+getrauen uns nicht zu behaupten, daß eines von diesen
+aufgehöret babe, so, daß wir der Allmacht und Freiheit
+Gottes Ziel und Maaß sebzen, oder dieselbe einschränken
+sollten, wie sich derselbe feinen Findern offenbaren
+wolle. Allein, wir müssen bey Betrachtung des Gegenstandes,
+worauf der Glaube gerichtet ist, nicht bey demjenigen
+stehen bleiben, was nur den Umständen nach und
+zufälliger Weise also ist, sondern wir müssen bei dem jenigen
+bleiben, was allgemein und wesentlich fo beschaffen
+ist.
 
 Hiernachit müssen wir einen Unterscheid machen, zwischen demjenigen, was an sich selbst dem Zweifel und der Bethórung unterworfen ist, und dahero vor cts was anders und wegen etwas anders angenommen wird, und zwischen derijenigen, welches keinem Zweifel unterworfen ist, sondern bloß und schlechterdings um
 
