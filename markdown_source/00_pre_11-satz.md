@@ -1,8 +1,8 @@
 
 <!-- Seie 36; content-0054.xml -->
 
-Der 11. Satz: *Von dem Gottesdienst.*
-=====================================
+### Der 11. Satz: *Von dem Gottesdienst.*
+
 
 Aller wahre und angenehme Gottes - Dienst wird
 

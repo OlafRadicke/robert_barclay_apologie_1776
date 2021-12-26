@@ -2,7 +2,7 @@
 <!-- Seie 38; content-0058.xml -->
 
 
-Der 14 Satz: *Von der Gewalt der Bürgerlichen Obrigkeit in Sachen, die bloß die Religion und das Gewissen angehen.*
+### Der 14 Satz: *Von der Gewalt der Bürgerlichen Obrigkeit in Sachen, die bloß die Religion und das Gewissen angehen.*
 
 
 Nachdem sich GOtt die Macht und Herrschaft über

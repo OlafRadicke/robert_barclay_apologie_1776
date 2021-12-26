@@ -1,8 +1,8 @@
 
 <!-- Seie 38; content-0058.xml -->
 
-Der 13. Satz: *Von der Gemeinschaft, Geniesung oder Theilhaftigwerdung des Leibes und Bluts Christi.*
-=====================================================================================================
+### Der 13. Satz: *Von der Gemeinschaft, Geniesung oder Theilhaftigwerdung des Leibes und Bluts Christi.*
+
 
 
  1 Cor. 10, Die Gemeinschaft des Leibes und Bluts Christi

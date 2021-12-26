@@ -3,8 +3,7 @@ OCR: content-0042.xml - content-0044.xml
 Buchseite: 25 - 27
 -->
 
-Der 2. Satz: *Von der innerlichen und unmittelbaren Offenbarung*
-================================================================
+### Der 2. Satz: *Von der innerlichen und unmittelbaren Offenbarung*
 
 
 Weil niemand den Vater Kennet, denn nur der Matth. 15p

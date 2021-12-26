@@ -1,7 +1,7 @@
 <!-- Seite 34; content-0052.xml -->
 
-Der 10. Satz: *Von den Kirchen-Dienern, und Hirten der Gemeinen.*
-================================================================
+### Der 10. Satz: *Von den Kirchen-Dienern, und Hirten der Gemeinen.*
+
 
 Gleichmie durch diese Gabe, oder Licht GOttes
    alle wahre Erkenntniß in Geistlichen Dingen er:

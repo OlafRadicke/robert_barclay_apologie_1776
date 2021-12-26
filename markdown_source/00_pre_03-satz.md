@@ -4,8 +4,7 @@ Buchseite 27
 -->
 
 
-Der 3. Satz: *Von der Heiligen Schrift.*
-========================================
+### Der 3. Satz: *Von der Heiligen Schrift.*
 
 Aus diesen Offenbarungen des Geistes GOttes, so
 

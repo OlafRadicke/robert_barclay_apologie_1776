@@ -3,9 +3,7 @@ OCR: content-0051.xml, content-0052.xml
 Buchseite: 32,33
 -->
 
-Der 7. Satz: *Von der Rechtfertigung.*
-======================================
-
+### Der 7. Satz: *Von der Rechtfertigung.*
 
 
 So viele ihrer der Erleuchtung dieses Lichts nicht wis derstehen, sondern dasselbe annehmen, in denen

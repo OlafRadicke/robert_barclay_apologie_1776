@@ -3,12 +3,11 @@ OCR: content-0050.
 Buchseite: 30
 -->
 
-Der 5. und 6. Satz: *Von der allgemeinen Erlösung durch Chriftum, und von dem heylsamen geistlichen und übernatürlichen Licht, das alle Menschen erleuchtet hat.*
-=================================================================================================================================================================
+<!-- ### Der 5. und 6. Satz: *Von der allgemeinen Erlösung durch Chriftum, und von dem heylsamen geistlichen und übernatürlichen Licht, das alle Menschen erleuchtet hat.* -->
 
 
-Der 5. Statz
-------------
+### Der 5. Satz
+
 
 GOer, der keinen Gefallen am Tode des Sünders
 

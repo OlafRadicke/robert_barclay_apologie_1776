@@ -1,7 +1,7 @@
 <!-- Seite 34; content-0052.xml -->
 
-Der 9. Satz: *Von der Beharrlichkeit in der Gnade GOEtes, und der Möglichkeit solche wieder zu verlieren.*
-==========================================================================================================
+### Der 9. Satz: *Von der Beharrlichkeit in der Gnade GOEtes, und der Möglichkeit solche wieder zu verlieren.*
+
 
 Dbschon diese Gabe und innerliche Gnade GOttes
 

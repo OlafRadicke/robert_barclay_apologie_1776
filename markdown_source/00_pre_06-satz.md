@@ -3,8 +3,7 @@ OCR: content-0050.xml, content-0051.xml
 Buchseite: 30,31,32
 -->
 
-Der 6. Satz
-===========
+### Der 6. Satz
 
 Nach welchem Grund - Sak werden alle Einwürffe
 

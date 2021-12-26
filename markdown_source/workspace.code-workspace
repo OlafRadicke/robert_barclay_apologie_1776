@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"cSpell.language": ",de"
+		"cSpell.language": "de-DE",
+		"cSpell.checkLimit": 50000
 	}
 }

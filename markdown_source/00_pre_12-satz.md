@@ -1,8 +1,8 @@
 
 <!-- Seie 37; content-0056.xml -->
 
-Der 12. Staz: *Von der Tauffe.*
-===============================
+### Der 12. Staz: *Von der Tauffe.*
+
 
 Gleichwie ein Err und ein Glaube ist; also ist auch Ephef.4.5.
 
@@ -21,8 +21,8 @@ eine blosse Menschen - Sakung, wozu in der ganzen Schrift weder Gebot noch
 Exempel des Gebrauchs anzus treffen ist.
 
 [blocks in formation]
-16. 17
+1.  17
 
-33. 34.
+2.  34.
 
 1 Cor. 5, 8.

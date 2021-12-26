@@ -2,8 +2,8 @@
 <!-- Seie 40; content-0058.xml -->
 
 
-Der 15. Satz: *Von Begrüssungen, Ergoglichkeiten, und dergleichen Dingen.*
-==========================================================================
+### Der 15. Satz: *Von Begrüssungen, Ergoglichkeiten, und dergleichen Dingen.*
+
 
 Da der fürnehmste Endzweck aller Religion ist, die Ephef.5,11
 

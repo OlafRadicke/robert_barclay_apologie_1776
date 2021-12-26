@@ -1,7 +1,7 @@
 <!-- Seite: 33; content-0052.xml -->
 
-Der 8. Satz: **
-======================================
+### Der 8. Satz: **
+
 
 Der a dyte Sab. Von der Vollkommenheit, oder Möglich
 keit nicht zu sindigen. Bey welchem diese heilige und reine Geburt völlig hers

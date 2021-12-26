@@ -4,7 +4,11 @@ Apologie von Robert Barclay in der Übersetzung von 1776
 Der Text basiert auf die Digitalisierung von Google und der OCR von Google.
 Der Eingescannte Text ist eine übersetzung von 1776. Es gibt noch eine ältere
 übersetzung von 1684. Diese von 1776 scheint mir aber die besser
-verständlichere.
+verständlichere. Die Ausgabe von 1776 hat sehr viele Randbemerkungen
+die die Ausgabe von 1684 nicht hat. Diese sind in aller Regel aber nur 
+Zusammenfassungen der Kernaussagen des eigentlichen Textes. Bieten
+also keinen substanziellen Mehrwert und werden deshalb hier auch nicht
+übernommen.
 
 Bearbeitungen und Anpassungen
 -----------------------------
@@ -39,6 +43,15 @@ Clean-up-Skript:
 ```bash
 $ ./scripts/cleanup
 ```
+
+Hilfreiche Tools
+----------------
+
+#### Unter Linux ####
+
+- calibre (eBook-Reader)
+- sigil (WYSIWYG eBook-Editor)
+
 
 Quellen
 -------

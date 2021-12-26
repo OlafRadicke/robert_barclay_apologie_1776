@@ -4,8 +4,7 @@ Buchseite: 28 - 29
 -->
 
 
-Der 4. Satz: *Vou dem Zustand des Menschen in dem Fall.*
-========================================================
+### Der 4. Satz: *Vou dem Zustand des Menschen in dem Fall.*
 
 Kom. 5. Ale Nachkommlinge Adams, (oder, das ganze
 
@@ -17,7 +16,7 @@ Zeugnifles, oder gócrlichen Saainens beraubet,
 
 und
 
-12. LS
+1.  LS
 
 und der Gewalt, Natur und Saamen der Schlans ge, den sie in der Menschen
 Herzen aussået so lans ge sie in diesem natürlichen und verderbten Zus

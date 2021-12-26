@@ -3,9 +3,7 @@ OCR: content-0042.xml
 Buchseite: 25
 -->
 
-Der 1. Satz: *Vom wahren Grund der Erkenntnis.*
-===============================================
-
+### Der 1. Satz: *Vom wahren Grund der Erkenntnis.* ###
 
 
 Weil in der wahren Erkenntniß GOttes die höchste
