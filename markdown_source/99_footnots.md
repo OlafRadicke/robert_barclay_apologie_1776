@@ -1,8 +1,8 @@
 Fussnoten
 ---------
 
-### Kapitel 2 ###
 
+<!-- Kapitel 2 -->
 
 [^k2f1]: Unleserlich
 [^k2f2]: Jes. 48,16
@@ -17,3 +17,7 @@ Fussnoten
 [^k2f11]: Unleserliches Zeichen
 [^k2f12]: Im Original wird das Frühneuhochdeutsche Wort "***Dannenhero***" verwendet.
 [^k2f13]: Gnosticorum=Gnostiker
+
+<!-- Kapitel 3 -->
+
+[^k3f1]: Concil. Laod. Can. 58. in Cod. Ec. 163. das Concil. zu Laodicza ward gehalten im Jahr 364. und schloß von seiner Kirchen-Regul aus das Buch der Weisheit, Judith, Tobia, die Bücher der Maccabäer, welche alle in dem Anno 399. zu Cathago gehaltenen Concilio angenommen wurden.
