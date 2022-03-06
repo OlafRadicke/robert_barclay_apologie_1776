@@ -53,3 +53,6 @@ Randbemerkungen
 [^k2r48]: Conc. Flor. Seff. 5. decreto quodam Conc. Eph. act. 6. Seff. 11. & 12. Conc. Flor. Seff. 18.20. Concil. Flor. Seff. 21. p. 480. feqq. 
 [^k2r49]: 2. Der Vernunft.
 [^k2r50]: Die Streitigkeiten so zwischen den alten und neuern Philosopen daher entstehen.
+[^k3r1]: Gal. 1:18
+[^k4r1]: Röm. 5, 12.+15.
+[^k4r2]: Eph 2,1
