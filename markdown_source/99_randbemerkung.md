@@ -56,3 +56,5 @@ Randbemerkungen
 [^k3r1]: Gal. 1:18
 [^k4r1]: Röm. 5, 12.+15.
 [^k4r2]: Eph 2,1
+[^k4r3]: Rom. 3,9.
+[^k4r4]: Matth. 7, v. 16

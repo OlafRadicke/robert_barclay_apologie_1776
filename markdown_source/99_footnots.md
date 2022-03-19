@@ -21,3 +21,5 @@ Fussnoten
 <!-- Kapitel 3 -->
 
 [^k3f1]: Concil. Laod. Can. 58. in Cod. Ec. 163. das Concil. zu Laodicza ward gehalten im Jahr 364. und schloß von seiner Kirchen-Regul aus das Buch der Weisheit, Judith, Tobia, die Bücher der Maccabäer, welche alle in dem Anno 399. zu Cathago gehaltenen Concilio angenommen wurden.
+
+[^k4f1]: Die Griechischen Zeichen sind nicht lesbar in Scann.
