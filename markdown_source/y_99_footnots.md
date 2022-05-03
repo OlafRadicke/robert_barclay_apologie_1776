@@ -26,3 +26,13 @@ Fussnoten
 
 [^k4f1]: Die Griechischen Zeichen sind nicht lesbar in Scann.
 [^k4f2]: Die Griechischen Zeichen sind nicht lesbar in Scann.
+[^k4f3]: Die Griechischen Zeichen sind nicht lesbar in Scann.
+[^k4f4]: Die Griechischen Zeichen sind nicht lesbar in Scann.
+
+<!-- Kapitel 5 -->
+
+[^k5f1]: Ezech. 18,32. und 33,11
+
+<!-- Kapitel 6 -->
+
+[^k6f1]: 1. Cor. 12,7
