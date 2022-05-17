@@ -36,3 +36,4 @@ Fussnoten
 <!-- Kapitel 6 -->
 
 [^k6f1]: 1. Cor. 12,7
+[^k6f2]: Calvin. in Cap. 3. Gen. Ld. 1. Inft. c. 18.S. 1. ld. lib. de Prxd. Ldem. lib. de. Provid. Ld. Inft. c. 23. S. i.
