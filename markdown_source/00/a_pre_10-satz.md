@@ -3,7 +3,7 @@
 ### Der 10. Satz: *Von den Kirchen-Dienern, und Hirten der Gemeinen.*
 
 
-Gleichmie durch diese Gabe, oder Licht GOttes
+Gleichmie durch diese Gabe, oder Licht Gottes
    alle wahre Erkenntniß in Geistlichen Dingen er:
 
 langet
@@ -33,7 +33,7 @@ heis lige und unbefleckte Gabe empfangen haben, gleichs wie sie solche umsonst
 empfangen haben, also auch dieselbe umsonst, ohne Miethe-Lohn oder vorher
 aus: Matth. 10, gedingte Besoldung und geschlossenen Vergleich, mittheilen,
 noch vielweniger aber dieselbe als ein Gewerbe oder Handthierung, Geld dadurch
-zu gewinnen, gebrauchen. Jedennoch aber, wenn GOtt einen oder den andern von
+zu gewinnen, gebrauchen. Jedennoch aber, wenn Gott einen oder den andern von
 seinen Geschäften oder von seiner Profeßion, wodurch er seinen Uns terhalt
 erlanget, beruffen hat, so ist es nicht uns recht, wenn folche (nach der
 Freyheit, die ihnen der HErr in ihrem Gewissen ertheilet) von zeitlis dhen

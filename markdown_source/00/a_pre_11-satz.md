@@ -16,7 +16,7 @@ nach der äusserlichen Bedeutung desselben im Ges
  båt, Lob und Predigten nicht verrichten, wo und
 wenn wir wollen, fondern wo und wenn wir, durch
  die geheimen Eingebungen seines Geistes, in uns
- sern Herzen darzu beweget werden, welche GOtt
+ sern Herzen darzu beweget werden, welche Gott
  erhöret und annimmet, der miemals unterlasset,
 wenn es nöthig ist, darzu anzutrciben, davon er
  felbst der einzige geschickte Richter ist. Aller an:
@@ -39,7 +39,7 @@ weiter nichts als blosser Aberglauben, felbsterwahlMatth. 10,
 ter
 
 ter Gottes - Dienste eigenwillige Verehrung und Act. 2, 4. abscheuliche
-Abgötterey in den Augen GOttes, Joh?? 3; 6. welche nun an dicjem Tage
+Abgötterey in den Augen Gottes, Joh?? 3; 6. welche nun an dicjem Tage
 feiner geistlichen Aufer- und 4, 21. stehung zu verleugnen, zu verwerfen
 und von uns Jud. 19. abzusondern sind: Ob es ihm schon (als er die Zeit
 Act. 17,23. der Unwissenheit übersehen, in ansehung der Einfatt und

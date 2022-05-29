@@ -6,16 +6,16 @@ Buchseite 27
 
 ### Der 3. Satz: *Von der Heiligen Schrift.*
 
-Aus diesen Offenbarungen des Geistes GOttes, so
+Aus diesen Offenbarungen des Geistes Gottes, so
 
 den Heiligen geschehen, sind die Sdhriften der Wahrheit berfür gekommen,
 welche in sich begreife fen,
 
-1. Eine getreue historische Erzehlung der Thas ten des Volks GOttes, zu unterschiedenen Zeiten, mit vielen sonderbaren und merkwürdigen Umstans den der göttlichen Vorsehung, fo dieselben begleitet.
+1. Eine getreue historische Erzehlung der Thas ten des Volks Gottes, zu unterschiedenen Zeiten, mit vielen sonderbaren und merkwürdigen Umstans den der göttlichen Vorsehung, fo dieselben begleitet.
 
 2. Eine prophetische Nachricht von allerhand Dingen, davon einige bereits geschehen, einige aber nod) zukünftig sind.
 
-3. Ein völliges und weitläuftiges Zeugniß aller Haupt-Stücke und fürnehmsten Grund - Säße der Lehre Chrifti, wie folche in unterschiedenen herrlichen Erklärungen, Vermahnungen und Sprůs chen vorgetragen, und durch die Bewegung des Geistes GOttes, zu unterschiedenen Zeiten und bey unterschiedenen Gelegenheiten, an gewisse Gemeis nen und ihre Hirten geredet und geschrieben wors den.
+3. Ein völliges und weitläuftiges Zeugniß aller Haupt-Stücke und fürnehmsten Grund - Säße der Lehre Chrifti, wie folche in unterschiedenen herrlichen Erklärungen, Vermahnungen und Sprůs chen vorgetragen, und durch die Bewegung des Geistes Gottes, zu unterschiedenen Zeiten und bey unterschiedenen Gelegenheiten, an gewisse Gemeis nen und ihre Hirten geredet und geschrieben wors den.
 
 Nichts destoweniger, weil sie nur eine Anzeige der Quelle, und nicht die Quelle felbst sind, so find
 

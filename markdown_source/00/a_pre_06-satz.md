@@ -57,7 +57,7 @@ vermeidlichen Zufall von der Wohithat dieser Wiß
 senschaft nothwendiger Weise ausgeschlossen sind.
 Wir gestehen ganz gerne, daß diese Wissenschaft
 und Erkenntniß sehr nüglich und beylsam ist, wir
-fagen nur, daß dieselbe solchen, denen sie GOtt der
+fagen nur, daß dieselbe solchen, denen sie Gott der
 HErr selbst vorenthalten hat, nicht unumgänglich
 nöthig rey. Denn solche können des Geheimnisses
 feines Todes theilhaftig gemacht werden, (ob sie
@@ -68,7 +68,7 @@ schon
 
 fchon von der Historie nichts wissen,) wenn sie seinem Saamen und Licht Raum
 geben, (ihr Herz zu ers leuchten,) in welchem Lichte die Gemeinsdift mit Vater
-und Sohn genosen wird. So, daß sie aus gottlofen Leuten heilige Leute und
+und Sohn genosen wird. So, daß sie aus Gottlofen Leuten heilige Leute und
 Liebhaber derjes nigen Gewalt werden, durch deren innerliche und gelcime
 Kührungen sie sid) vom Bösen zum Guten bekehret fühlen, und lernen, andern zu
 thun, wie sie wollen, daß man ihnen thun folle. Wors innen, nach Christi

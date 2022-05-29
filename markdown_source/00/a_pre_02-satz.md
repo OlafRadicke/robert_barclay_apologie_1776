@@ -9,7 +9,7 @@ Buchseite: 25 - 27
 Weil niemand den Vater Kennet, denn nur der Matth. 15p
 Sohn, und wem es der Sohn will offenbas ren, die Offenbarung des Sohnes aber
 in und durch den heiligen Geist geschiebet; So ist es das Zeugniß des Geistes
-allein, wodurch die wahre Ers kenntnißGOttes jederzeit geoffenbaret worden,
+allein, wodurch die wahre Ers kenntnißGottes jederzeit geoffenbaret worden,
 noch geoffenbaret wird, und nur allein geoffenbaret wers den kan. Denn
 gleichwie derselbe durch die Bewes jung seines Geistes das Chaos, oder den
 vermische ten ungestalten Klumpen dieser Welt, in diejenige wunderbare Ordnung

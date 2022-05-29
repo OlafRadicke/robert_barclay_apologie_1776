@@ -22,10 +22,10 @@ und der Gewalt, Natur und Saamen der Schlans ge, den sie in der Menschen
 Herzen aussået so lans ge sie in diesem natürlichen und verderbten Zus
 stande verharren, unterworfen. Daher kommt es, daß nicht nur ihre Worte
 und Werke, sondern auch alle ihre Gedanken, ihr Dichten und Trachs ten
-bofe sind, in den Augen GOttes, inimerdar, weil folche von diesem
+bofe sind, in den Augen Gottes, inimerdar, weil folche von diesem
 verderbten und bösen Saas men herrühren. Derohalben kan der Mensch, fo
 lange er in diesem Zustande ist, nichts recht erkens nen, ja, auch seine
-Gedanken und Begriffe von GOtt, und geistlichen Dingen, find so wohl ilm
+Gedanken und Begriffe von Gott, und geistlichen Dingen, find so wohl ilm
 felbst als auch andern ganz unnúke, bis er von dies sem bösen Saamen
 abgeschieden,
 
