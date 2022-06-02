@@ -4,9 +4,6 @@ Randbemerkungen
 #### Kapitel 2 ####
 
 
-[^k2r4]: Antwort. Der Dienst der Engel, so ehemals in Menschengestalt erschienen, und mit den heiligen geredet.
-[^k2r5]: Offenbarung durch Träume und Gesichte (Anmerkung: "Gesichte" im Sinne von "Visionen")
-[^k2r6]: Einwurf
 [^k2r7]: Antwort. Der Geist redet zu dem geistlichen Ohr, nicht zu dem äusserlichen.
 [^k2r8]: Der Geist redet zu dem geistlichen Ohr, nicht zu dem äusserlichen.
 [^k2r9]: Beweiß des V. Satzes.
@@ -52,8 +49,11 @@ Randbemerkungen
 [^k2r49]: 2. Der Vernunft.
 [^k2r50]: Die Streitigkeiten so zwischen den alten und neuern Philosopen daher entstehen.
 
+#### Kapitel 3 ####
 
 [^k3r1]: Gal. 1:18
+
+#### Kapitel 4 ####
 
 [^k4r1]: Röm. 5, 12.+15.
 [^k4r2]: Eph 2,1
