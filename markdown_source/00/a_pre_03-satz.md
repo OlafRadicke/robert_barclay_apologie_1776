@@ -21,7 +21,7 @@ Nichts destoweniger, weil sie nur eine Anzeige der Quelle, und nicht die Quelle 
 
  [ocr errors]
 sie auch nicht für den Haupt- Grund aller Wahrs
-heit und Erkenntniß, oder für die gleiche, ebens
+heit und Erkenntnis, oder für die gleiche, ebens
 maßige und erste Richtschnur des Glaubens
 und des Lebens zu halten. Da sie aber ein wahs
 res und getreues Zeugniß von dem ersten Grund
@@ -47,4 +47,4 @@ dem in den Schulen aufgenommenen Grund-Sat,
 propter quod unumquodque est tale, illud ip-
 fum eft magis cale: Dasjenige, weswegen ein
 Ding ein solches ist, ist an sich selbst noch viels
-mebr ein folches.
+mebr ein solches.

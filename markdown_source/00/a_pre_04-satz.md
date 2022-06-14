@@ -8,7 +8,7 @@ Buchseite: 28 - 29
 
 Kom. 5. Ale Nachkommlinge Adams, (oder, das ganze
 
-menschliche Geschlecht) beydes Juden und Heyden,
+menschliche Geschlecht) beides Juden und Heyden,
  sind dem ersten (oder irdischen Menschen) nachges
  fallen, aus der Art geschlagen und gestorben, der
 Empfindung (oder Fühlung) dieses innerlichen

@@ -27,7 +27,7 @@ Gnade recht gebraucht haben, und an solchen Drs
 ten der Welt leben, wo die äusserliche Predigt des
 Evangelii unbekannt ist. Denn hieraus folget, daß,
 gleichwie einige von den alten Philosophen möchten
-selig worden seyn, also auch noch einige (welche
+selig worden sein, also auch noch einige (welche
 durch die Vorsehung an diese entlegenen Theile
 der Welt verfekt worden, wo die historische Ers
 kenntniß mangeit,) des göttlichen Geheimnisses
@@ -56,7 +56,7 @@ sondern auch über diejenigen, welche durch einen uns
 vermeidlichen Zufall von der Wohithat dieser Wiß
 senschaft nothwendiger Weise ausgeschlossen sind.
 Wir gestehen ganz gerne, daß diese Wissenschaft
-und Erkenntniß sehr nüglich und beylsam ist, wir
+und Erkenntnis sehr nüglich und beylsam ist, wir
 fagen nur, daß dieselbe solchen, denen sie Gott der
 HErr selbst vorenthalten hat, nicht unumgänglich
 nöthig rey. Denn solche können des Geheimnisses

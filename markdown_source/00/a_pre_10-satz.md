@@ -4,7 +4,7 @@
 
 
 Gleichmie durch diese Gabe, oder Licht Gottes
-   alle wahre Erkenntniß in Geistlichen Dingen er:
+   alle wahre Erkenntnis in Geistlichen Dingen er:
 
 langet
 
@@ -26,7 +26,7 @@ werden. Wer diese Macht ůberkommen hat, der mag und soll das Evangelis um
 predigen, ob er schon keinen Befehl von Mens schen darzu erlanget hat, und
 keine menschliche Ges lehrsamkeit besiket. Als im Gegentheil diejenis gen,
 denen es an dem Zeugniß dieser göttlichen Gas be fehlet, sie mogen noch so
-gelehrt seyn; und noch so viel Vollmacht von Menschen und Geineinen aufs
+gelehrt sein; und noch so viel Vollmacht von Menschen und Geineinen aufs
 zuweisen haben, sind für nichts besser als Betrůs ger, und keinesweges für
 wahre Diener des Evane gelii zu halten. Auch sollen diejenigen, die diese
 heis lige und unbefleckte Gabe empfangen haben, gleichs wie sie solche umsonst
@@ -43,6 +43,6 @@ Dingen so viel, als ihnen nemlich zur Speis
 
 <!-- Seie 36; content-0054.xml -->
 
-fe und Kleidung nöthig seyn mag, und ihnen von Denen, welchen sie das
+fe und Kleidung nöthig sein mag, und ihnen von Denen, welchen sie das
 Geistliche mitgetheilet has ben freywillig und von Herzen dargereidet wird,
 annehinen.

@@ -48,8 +48,8 @@ den wohlgeordneten Verstand zum Beyfall; indem sie denfelben auf eine eben
 so unwiderstrebliche Weis fe dazu beweget, wie die gemeinen Grund - Sake Der
 natürlichen Wahrheiten das Gemütby zu einem natürlichen Beyfall antreiben
 und geneigt machen. Als daß, zum Erempel, das Ganze grosser ist, als ein
-Theil desselben: Daß zwey einander widers sprechende Såge nicht beyde
-zugleich wahr, und auch beyde zugleich falsch seyn können, und dergleichen.
+Theil desselben: Daß zwei einander widers sprechende Såge nicht beide
+zugleich wahr, und auch beide zugleich falsch sein können, und dergleichen.
 
 [ocr errors]
 Welches
@@ -62,4 +62,4 @@ Offenbarungen voraus reken) nichts destoweniger mit uns gestehen were den, daß
 weder die Schrift noch gesande Vere nunft derselben widersprechen wird. Und
 dennoch will, nach ihrer Meynung, nicht folgen, daß die Sdyrift oder gesunde
 Vernunft der Untersuchung der göttlichen Offenbarungen im Herzen unterworfs
-fen seyn fou.
+fen sein fou.
