@@ -17,5 +17,5 @@ Versuchungen des bösen Feindes Raum ges
 ben, sondern von mürklicher Sünde und Uebertrets tung der Gebote Gottes frey,
 und solcher Ges sialt vollkommen werden. Jedoc, låsset diese Volls kornmenheit
 noch inimer ein Wachsthum zu ; es blcibet eine Möglichkeit zu fündigen zurück,
-wenn das Gemüth nicht auf das filcißigjie und wad)sams ste auf den HErrn
+wenn das Gemüth nicht auf das filcißigjie und wad)sams ste auf den Herrn
 gerichtet ist.

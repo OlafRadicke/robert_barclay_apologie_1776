@@ -7,7 +7,7 @@
 Aller wahre und angenehme Gottes - Dienst wird
 
 durd, die innerliche und unmittelbare Bewegung
-und Neigung feines eigenen Geistes volbracht, rrels
+und Neigung seines eigenen Geistes volbracht, rrels
 che weder an Derter, noch Zeiten, nod) auch an
 Personen gebunden ist. Denn ob wir ilin schon
 allewege verelren sollen, weil wir in steter Furdit
@@ -22,7 +22,7 @@ wenn es nöthig ist, darzu anzutrciben, davon er
  felbst der einzige geschickte Richter ist. Aller an:
  derer Gottes. Dienst, er geschebe mit Lob - Gesäns
  gen, Gebåt oder Predigen, die der Mensch nach eis
- genem Willen und Gefallen, und nach feiner eis
+ genem Willen und Gefallen, und nach seiner eis
  genen Bestimmung verrichtet, und nach Belieben
  anfangen und schliessen, thun oder lassen kan, wie
   er es selbst vor gut ansiehet : Es mogen dieselben
@@ -40,7 +40,7 @@ ter
 
 ter Gottes - Dienste eigenwillige Verehrung und Act. 2, 4. abscheuliche
 Abgötterey in den Augen Gottes, Joh?? 3; 6. welche nun an dicjem Tage
-feiner geistlichen Aufer- und 4, 21. stehung zu verleugnen, zu verwerfen
+seiner geistlichen Aufer- und 4, 21. stehung zu verleugnen, zu verwerfen
 und von uns Jud. 19. abzusondern sind: Ob es ihm schon (als er die Zeit
 Act. 17,23. der Unwissenheit übersehen, in ansehung der Einfatt und
 Aufrichtigkeit einiger frommen Herzen und seis nes eigenen unsduldigen

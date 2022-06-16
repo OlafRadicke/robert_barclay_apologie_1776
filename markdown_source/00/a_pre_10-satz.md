@@ -20,7 +20,7 @@ jeder wahrer Diener des Evangelii verordnet, zus bereitet, und in dem Werk des
 Dienstes ausges růjtet und erfüllet. Und durch die Leitung, Bes wegung und
 Ziehung dieser Gnade und dieses lichts, muß ein jeglicher Evangelischer und
 Christlicher Hirte bey seiner Arbeit und bey seinem Werk des Evangelii, fo
-wohl was den Drt betrift, wo er fein Amt nusrichten, als auch die Personen,
+wohl was den Drt betrift, wo er sein Amt nusrichten, als auch die Personen,
 des nen er fürstehen, und die Zeit, wenn erdienen fou, geleitet und verordnet
 werden. Wer diese Macht ůberkommen hat, der mag und soll das Evangelis um
 predigen, ob er schon keinen Befehl von Mens schen darzu erlanget hat, und
@@ -36,7 +36,7 @@ noch vielweniger aber dieselbe als ein Gewerbe oder Handthierung, Geld dadurch
 zu gewinnen, gebrauchen. Jedennoch aber, wenn Gott einen oder den andern von
 seinen Geschäften oder von seiner Profeßion, wodurch er seinen Uns terhalt
 erlanget, beruffen hat, so ist es nicht uns recht, wenn folche (nach der
-Freyheit, die ihnen der HErr in ihrem Gewissen ertheilet) von zeitlis dhen
+Freyheit, die ihnen der Herr in ihrem Gewissen ertheilet) von zeitlis dhen
 Dingen so viel, als ihnen nemlich zur Speis
 
 1

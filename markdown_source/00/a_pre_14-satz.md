@@ -21,7 +21,7 @@ tödten, Verjagen, Bes straffen (an Geld, Haab und Gütern) gefänglid) balten
 und andere dergleichen Gewaltthátigkeiten, womit die Leute, wegen der blossen
 Gewissens-Ules bung, oder unterschiedenen Meynung, oder äussers lichen
 Verehrung Gottes, angefochten werden, von dem mörderischen Geift Cains
-herrühret, und der Wahrheit entgegen ist. Jedoch jederzeit mit dies fein
+herrühret, und der Wahrheit entgegen ist. Jedoch jederzeit mit dies sein
 Vorbehalt, daß niemand unter dem Vorwand des Gerrissens seinem Nächsten an
 seinem Leib und Leben, Haab und Gutly zum Nachtheit handele. oder etwas
 vornelyme, so der mensd,lichen Gesells fchaft schädlich sey, oder dainit

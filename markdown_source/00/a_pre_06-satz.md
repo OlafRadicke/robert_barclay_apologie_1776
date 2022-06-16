@@ -9,7 +9,7 @@ Nach welchem Grund - Sak werden alle Einwürffe
 
 wider die Augemeinheit des Todes Christi leichts
 lich aufgelöset. So hat man auch nicht nöthig,
-feine Zuflucht erst zum Dienst der Engel und ders
+seine Zuflucht erst zum Dienst der Engel und ders
 jenigen andern wunderbaren Mittel zu nehmen, des
 ren sich Gott, ihrem Vorgeben nach, zu Offens
 barung der Lehre und Geschicht des Leidens Chrijii
@@ -28,7 +28,7 @@ ten der Welt leben, wo die äusserliche Predigt des
 Evangelii unbekannt ist. Denn hieraus folget, daß,
 gleichwie einige von den alten Philosophen möchten
 selig worden sein, also auch noch einige (welche
-durch die Vorsehung an diese entlegenen Theile
+durch die Vorsehung an diese entlegenen Teile
 der Welt verfekt worden, wo die historische Ers
 kenntniß mangeit,) des göttlichen Geheimnisses
 theilhaftig gemacht werden können, wenn sie die
@@ -41,11 +41,11 @@ gewisse Lehre angenommen wird, nemlich, daß ein
 Evangelisthes und feligmachendes Lidyt und Gnade
 in allen ist, so hat die Allgemeinheit der Liebe und
 Barmherzigkeit Gottes gegen alle Menschen (fo
-wohl in dem Tode feines geliebten Sohnes, als
+wohl in dem Tode seines geliebten Sohnes, als
 in der Offenbarung des Lidits im Herzen) ihre
 Richtigkeit, und stehet wider alle Einwürfe derer,
 die folche leugnen, fest und unbeweglich. Daruin
-bat Christus für alle den Tod geschmecket. Nicht Hebr. 2 9.
+bat Christus für alle den Tod geschmeckt. Nicht Hebr. 2 9.
 nur für allerley Arten der Menschen, wie einige auf
  eine eitle Weise vorgeben; sondern für einen jeg
 lichen von allen Arten. Die Wohlthat seiner
@@ -58,9 +58,9 @@ senschaft nothwendiger Weise ausgeschlossen sind.
 Wir gestehen ganz gerne, daß diese Wissenschaft
 und Erkenntnis sehr nüglich und beylsam ist, wir
 fagen nur, daß dieselbe solchen, denen sie Gott der
-HErr selbst vorenthalten hat, nicht unumgänglich
+Herr selbst vorenthalten hat, nicht unumgänglich
 nöthig rey. Denn solche können des Geheimnisses
-feines Todes theilhaftig gemacht werden, (ob sie
+seines Todes theilhaftig gemacht werden, (ob sie
 
 schon
 
@@ -71,7 +71,7 @@ geben, (ihr Herz zu ers leuchten,) in welchem Lichte die Gemeinsdift mit Vater
 und Sohn genosen wird. So, daß sie aus Gottlofen Leuten heilige Leute und
 Liebhaber derjes nigen Gewalt werden, durch deren innerliche und gelcime
 Kührungen sie sid) vom Bösen zum Guten bekehret fühlen, und lernen, andern zu
-thun, wie sie wollen, daß man ihnen thun folle. Wors innen, nach Christi
+thun, wie sie wollen, daß man ihnen thun solle. Wors innen, nach Christi
 selbst eigener Bekräftigung, alles begriffen ist. Gleichwie demnach diejenigen
 irrig und falsch gelehret, welche geleugnet haben, daß Christus für alle
 Menschen gestorben fey. Also haben auch diejenigen die Wahrlzeit nicht satts

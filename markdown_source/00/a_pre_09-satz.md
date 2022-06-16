@@ -8,7 +8,7 @@ Dbschon diese Gabe und innerliche Gnade Gottes
 zulänglich ist, die Seligkeit auszuwürken; fo kan sie doch bey denen, in
 welchen ihr widerstanden wird, zur Verdammiiß gereichen, gereichet ihnen
 auch würklich darzu. Ueber dieses können solche, in welchem selbe nur zum
-Theil gewürfet hat, sie zu reinigen und zu heiligen, um sie immer vollkommes
+Teil gewürfet hat, sie zu reinigen und zu heiligen, um sie immer vollkommes
 ner zu machen, durch Ungehorsam wieder daraus fallen, und solche auf Muthwillen
 ziehen, und also am Glauben Schiffbruch leiden. Wenn sie ges schmecker haben
 die himmlische Gabe, und des

@@ -11,7 +11,7 @@ Buchseite: 30
 
 GOer, der keinen Gefallen am Tode des Sünders
 
-hat, sondern will, daß er sich bekebre und lebe, Esech. 18. bat, nach seiner unendlichen Gútigkeit, die Welt
+hat, sondern will, daß er sich bekehre und lebe, Esech. 18. bat, nach seiner unendlichen Gútigkeit, die Welt
 
 also geliebet, daß er seinen eingebohrnen Sohn
 
@@ -28,7 +28,7 @@ Zeitlang in aller Herzen zur Seligkeit, wenn ihm
 nicht widerstanden wird, und bestrafet eines jeden
 Sünde, ist aucynicht weniger als der Saame der
 
-        Sünde allen gemein, weil es feinen Tod gekostet, da
+        Sünde allen gemein, weil es seinen Tod gekostet, da
 Hebr.2, er denselben vor alle geschmecker bat. Denn
 
 gleichwie sie in Adamalle sterben, also werden
