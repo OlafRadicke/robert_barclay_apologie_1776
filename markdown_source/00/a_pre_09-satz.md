@@ -5,7 +5,7 @@
 
 Dbschon diese Gabe und innerliche Gnade Gottes
 
-zulänglich ist, die Seligkeit auszuwürken; fo kan sie doch bey denen, in
+zulänglich ist, die Seligkeit auszuwürken; so kan sie doch bey denen, in
 welchen ihr widerstanden wird, zur Verdammiiß gereichen, gereichet ihnen
 auch würklich darzu. Ueber dieses können solche, in welchem selbe nur zum
 Teil gewürfet hat, sie zu reinigen und zu heiligen, um sie immer vollkommes

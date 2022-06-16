@@ -24,8 +24,8 @@ Cor. 151
 7.
 
 Gnade recht gebraucht haben, und an solchen Drs
-ten der Welt leben, wo die äusserliche Predigt des
-Evangelii unbekannt ist. Denn hieraus folget, daß,
+ten der Welt leben, wo die äußerliche Predigt des
+Evangelii unbekannt ist. Denn hieraus folgt, daß,
 gleichwie einige von den alten Philosophen möchten
 selig worden sein, also auch noch einige (welche
 durch die Vorsehung an diese entlegenen Teile
@@ -44,13 +44,13 @@ Barmherzigkeit Gottes gegen alle Menschen (fo
 wohl in dem Tode seines geliebten Sohnes, als
 in der Offenbarung des Lidits im Herzen) ihre
 Richtigkeit, und stehet wider alle Einwürfe derer,
-die folche leugnen, fest und unbeweglich. Daruin
+die solche leugnen, fest und unbeweglich. Daruin
 bat Christus für alle den Tod geschmeckt. Nicht Hebr. 2 9.
 nur für allerley Arten der Menschen, wie einige auf
  eine eitle Weise vorgeben; sondern für einen jeg
 lichen von allen Arten. Die Wohlthat seiner
 Aufopferung erstreckt sich nicht nur über solche, denen
-die äusserliche Geschicht seines Todes und Leidens,
+die äußerliche Geschicht seines Todes und Leidens,
 wie selbe in der Schrift aufgezeichnet, bekannt ist;
 sondern auch über diejenigen, welche durch einen uns
 vermeidlichen Zufall von der Wohithat dieser Wiß
@@ -76,7 +76,7 @@ selbst eigener Bekräftigung, alles begriffen ist. Gleichwie demnach diejenigen
 irrig und falsch gelehret, welche geleugnet haben, daß Christus für alle
 Menschen gestorben fey. Also haben auch diejenigen die Wahrlzeit nicht satts
 sam dargethan, die zmar zugestehen, daß Christus für alle gestorben fey, aber
-dennoch eine unums gångliche Nothwendigkeit der äusserlichen Ers Fánntniß
+dennoch eine unums gångliche Nothwendigkeit der äußerlichen Ers Fánntniß
 derselben beygefüget haben, Baferne es seis ne beylfame Wirkungen zur
 Seligkeit haben sols te. Worinnen die Remonstranten in Holland vornemlidy
 gefehlet, nebst vielen andern Wertheis digern der allgemeinen Erldsung, daß

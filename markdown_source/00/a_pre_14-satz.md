@@ -15,11 +15,11 @@ Act. 18,20.
 
 Lus, 9, 55.
 
-in fo grossem Ansehen, und habe noch fo viel Bot: Matth. 7, måßigkeit in
+in so grossem Ansehen, und habe noch so viel Bot: Matth. 7, måßigkeit in
 dieser Welt, anderer Leute Gewissen Tit. 3,10. zu zwingen. Daher alles
 tödten, Verjagen, Bes straffen (an Geld, Haab und Gütern) gefänglid) balten
 und andere dergleichen Gewaltthátigkeiten, womit die Leute, wegen der blossen
-Gewissens-Ules bung, oder unterschiedenen Meynung, oder äussers lichen
+Gewissens-Ules bung, oder verschiedenen Meinung, oder äussers lichen
 Verehrung Gottes, angefochten werden, von dem mörderischen Geift Cains
 herrühret, und der Wahrheit entgegen ist. Jedoch jederzeit mit dies sein
 Vorbehalt, daß niemand unter dem Vorwand des Gerrissens seinem Nächsten an

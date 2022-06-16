@@ -5,7 +5,7 @@
 ### Der 15. Satz: *Von Begrüssungen, Ergoglichkeiten, und dergleichen Dingen.*
 
 
-Da der fürnehmste Endzweck aller Religion ist, die Ephef.5,11
+Da der gewichtigste Endzweck aller Religion ist, die Ephef.5,11
 
 Menschen von dein Geist und eiteln Wandel diefer 1 Petr. 1, Welt zu
 erlósen, und in die innerliche Gemein: Joh. 5; 44. schaft mit Gott
@@ -32,7 +32,7 @@ Zeit zu verschwenden, und das Gemüth von dem Zeugs niß GÓttes in dem Herzen,
 und von der lebendia gen Empfindung seiner Furcht, und demjenigen
 Evangelischen Geist abzulciten, womit Christen gesalbet feyn sollen, und
 welcher zur Nüchternkeit, Ernsthaftigkeit und göttlichen Furcht leitet;
-und wenn wir darinnen bleiben, fo fpüren wir des Herrn Soegen, wie er alle
+und wenn wir darinnen bleiben, so fpüren wir des Herrn Soegen, wie er alle
 unsere Handlungen begleitet, in welchem wir unumgänglich verwickelt sind,
 um gebührende Sorge vor die Erhaltung des åusserlia chen Menschen zu tragen.
 
