@@ -11,7 +11,7 @@ Buchseite: 25 - 27
 Weil niemand den Vater Kennet, denn nur der [^a_pre_02-satz_01] 
 Sohn, und wem es der Sohn will offenbaren, 
 die Offenbarung des Sohnes aber in und 
-durch den heiligen Geist geschiehet; So ist es das 
+durch den heiligen Geist geschieht; So ist es das 
 Zeugnis des Geistes allein, wodurch die wahre Erkenntnis
 Gottes jederzeit geoffenbart worden, noch 
 geoffenbart wird, und nur allein geoffenbart werden

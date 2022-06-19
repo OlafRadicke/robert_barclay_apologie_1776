@@ -66,7 +66,7 @@ schon
 
 [ocr errors]
 
-fchon von der Historie nichts wissen,) wenn sie seinem Saamen und Licht Raum
+fchon von der Historie nichts wissen,) wenn sie seinem Samen und Licht Raum
 geben, (ihr Herz zu ers leuchten,) in welchem Lichte die Gemeinsdift mit Vater
 und Sohn genosen wird. So, daß sie aus Gottlofen Leuten heilige Leute und
 Liebhaber derjes nigen Gewalt werden, durch deren innerliche und gelcime

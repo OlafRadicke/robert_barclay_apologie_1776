@@ -3,6 +3,9 @@ content-0044.xml
 Buchseite 27
 -->
 
+[^a_pre_03-satz_01]: Jon. 16,13 "Wenn aber jener, der Geist der Wahrheit, gekommen ist, wird er euch in die ganze Wahrheit leiten; denn er wird nicht aus sich selbst reden, sondern was er hören wird, wird er reden, und das Kommende wird er euch verkündigen." 
+
+[^a_pre_03-satz_02]: Röm. 8,14 "Denn so viele durch den Geist Gottes geleitet werden, die sind Söhne Gottes."
 
 ### Der 3. Satz: *Von der Heiligen Schrift.*
 
@@ -29,8 +32,9 @@ Wahrheit hervor gekommen, welche in sich begreifen,
    und ihre Hirten geredet und geschrieben worden.
 
 Nichts destoweniger, weil sie nur eine Anzeige 
-der Quelle, und nicht die Quelle selbst sind, so sind <!-- seite 28 #TODO  -->
-auch nicht für den Hauptgrund aller Wahrheit und Erkenntnis, oder für die gleiche, ebens
+der Quelle, und nicht die Quelle selbst sind, so sind <!-- seite 28  -->
+auch nicht für den Hauptgrund aller Wahrheit 
+und Erkenntnis, oder für die gleiche, ebens
 maßige und erste Richtschnur des Glaubens
 und des Lebens zu halten. Da sie aber ein wahs
 res und getreues Zeugnis von dem ersten Grund
@@ -38,22 +42,18 @@ geben, so können sie, dessen ungeachtet, dennoch vor
 eine Veben-Regel geschåget werden, die dem
 Geist, von welchem sie alle ihr Fürtreflidskeit und
 Gewißheit haben, unterworfen ist. Denn
-gleichwie wir solche allein durch das innerliche Zeugs
-
-  niß des Geistes wahrhaftig erkennen; Also bezeus
-, gen sie, daß der Geist derjenige Wegweiser sey, von
-
-welchem die Seiligen in alle Wahrheit geleitet Soh. 16,13
-
-werden. Daher ist der Geist, nach dem Zeugnis Rom. 8. 14
-
+gleichwie wir solche allein durch das innerliche Zeugnis 
+des Geistes wahrhaftig erkennen; Also bezeugen 
+sie, daß der Geist derjenige Wegweiser sey, von
+welchem die Seiligen in alle Wahrheit geleitet 
+werden. Daher ist der Geist, nach dem Zeugnis
 der Schrift, der erste und vornehmste Leiter und
- Führer. Da wir nun die Sdyrift eben deswegen
+Führer. [^a_pre_03-satz_01] [^a_pre_03-satz_02] Da wir nun die Schrift eben deswegen
 annehmen und ihr glauben, weil sie von dem Geist
-herrúlyret, so ist auch der Geist noch ursprünglis
-cher und hauptsächlicher die Richtschnur, nach
-dem in den Schulen aufgenommenen Grund-Sat,
-propter quod unumquodque est tale, illud ip-
-fum eft magis cale: Dasjenige, weswegen ein
-Ding ein solches ist, ist an sich selbst noch viels
-mebr ein solches.
+herrührte, so ist auch der Geist noch ursprünglicher 
+und hauptsächlicher die Richtschnur, nach
+dem in den Schulen aufgenommenen Grundsatz,
+propter quod unumquodque est tale, illud ipfum 
+eft magis cale: Dasjenige, weswegen ein
+Ding ein solches ist, ist an sich selbst noch vielmehr 
+ein solches.

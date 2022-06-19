@@ -44,7 +44,7 @@ seiner geistlichen Aufer- und 4, 21. stehung zu verleugnen, zu verwerfen
 und von uns Jud. 19. abzusondern sind: Ob es ihm schon (als er die Zeit
 Act. 17,23. der Unwissenheit übersehen, in ansehung der Einfatt und
 Aufrichtigkeit einiger frommen Herzen und seis nes eigenen unsduldigen
-Saamens weicher unter der Lajt des Aberglaubens in der Menschen Herzen
+Samens weicher unter der Lajt des Aberglaubens in der Menschen Herzen
 gleidsam vergraben lag) möchte gefallen haben, die toðten und Dürren Gebeine
 anzublasen, und eis niges Athmen oder Seufzen in ihnen zu erivccken und
 zu erhören, so lange bis es lidhter würde, und der Tag heller hervor bråche.
