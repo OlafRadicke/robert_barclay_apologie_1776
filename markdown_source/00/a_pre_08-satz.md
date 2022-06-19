@@ -8,7 +8,8 @@ keit nicht zu sindigen. Bey welchem diese heilige und reine Geburt völlig hers
 Röm.6, 14
 
 für gebracht ist, bey denselben wird der Leib des Co- c.8,13. des und der Sünden
-gecreußigt und abgethan, und 6.6,2. 18. ihre Herzen mit der Wahrheit vereiniget
+gecreußigt und abgethan, und 6.6,2. 18. ihre Herzen mit der Wahrheit vereinigt
+
 und ders "Job. 316. selben gehorsam also, daß sie keinen Eingebungen oder
 Versuchungen des bösen Feindes Raum ges
 

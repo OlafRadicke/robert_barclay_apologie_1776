@@ -30,7 +30,7 @@ Desgleichen auch die unnüßlichen Spiele, nichtswürdigen Ers gösungen und
 losen Geschwise, Scherzen und Lustbarkeiten, so erfunden sind, die kojibare
 Zeit zu verschwenden, und das Gemüth von dem Zeugs niß GÓttes in dem Herzen,
 und von der lebendia gen Empfindung seiner Furcht, und demjenigen
-Evangelischen Geist abzulciten, womit Christen gesalbet feyn sollen, und
+Evangelischen Geist abzulciten, womit Christen gesalbet sein sollen, und
 welcher zur Nüchternkeit, Ernsthaftigkeit und göttlichen Furcht leitet;
 und wenn wir darinnen bleiben, so fpüren wir des Herrn Soegen, wie er alle
 unsere Handlungen begleitet, in welchem wir unumgänglich verwickelt sind,

@@ -45,7 +45,7 @@ wohl in dem Tode seines geliebten Sohnes, als
 in der Offenbarung des Lidits im Herzen) ihre
 Richtigkeit, und stehet wider alle Einwürfe derer,
 die solche leugnen, fest und unbeweglich. Daruin
-bat Christus für alle den Tod geschmeckt. Nicht Hebr. 2 9.
+hat Christus für alle den Tod geschmeckt. Nicht Hebr. 2 9.
 nur für allerley Arten der Menschen, wie einige auf
  eine eitle Weise vorgeben; sondern für einen jeg
 lichen von allen Arten. Die Wohlthat seiner
