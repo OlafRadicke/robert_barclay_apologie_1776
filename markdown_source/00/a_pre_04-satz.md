@@ -35,7 +35,7 @@ weil sie das natürliche Licht so hoch erheben.
 Wie auch die Papisten, und die meisten 
 unter den Protestanten, welche behaupten, daß 
 der Mensch, ohne die wahre Gnade Gottes, 
-ein rechter Diener des Evangelii sein könne. 
+ein rechter Diener des Evangelium sein könne. 
 Dessen ungeachtet wird dieser Same kleinen Kindern 
 nicht zugerechnet, bis sie durch Übertretung 
 sich wirklich mit demselben vereinigen. Denn [^a_pre_04-satz_02]
@@ -44,6 +44,6 @@ welche nach der Gewalt des Fürsten in der
 Luft wandeln, nemlich nach dem Geist, der 
 sein Werk hat in den Kindern des Unglaubens, 
 die daihren Wandel haben in den Lüsten 
-des Fleisches, und thun den Willen des Fleisches 
+des Fleisches, und tun den Willen des Fleisches 
 und der Vernunft. Ephes. 2. [^a_pre_04-satz_02]
 

@@ -23,7 +23,7 @@ andere
 C4
 
 andere dergleichen Begrüssungen, nebst allen thöricha ten und
-abergläubischen Formalitäten und Ceres monien, die darbey vorgehen: Weldie
+abergläubischen Formalitäten und Ceres monien, die darbei vorgehen: Weldie
 der Mensch alle in seinem aus der Art geschlagenen Zustand ers funden,
 seinen Stolz und Sochmuth indem Pomp und Pracht dieser Welt zu weiden.
 Desgleichen auch die unnüßlichen Spiele, nichtswürdigen Ers gösungen und

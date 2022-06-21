@@ -27,7 +27,7 @@ Wahrheit hervor gekommen, welche in sich begreifen,
    der Lehre Christi, wie solche in verschiedenen 
    herrlichen Erklärungen, Vermahnungen und Sprüchen 
    vorgetragen, und durch die Bewegung des 
-   Geistes Gottes, zu verschiedenen Zeiten und bey 
+   Geistes Gottes, zu verschiedenen Zeiten und bei 
    verschiedenen Gelegenheiten, an gewisse Gemeinen 
    und ihre Hirten geredet und geschrieben worden.
 

@@ -16,10 +16,10 @@ I Tim. 1,6.
 
 langet und geoffenbart wird; also wird auch durch die Gewalt und Kraft
 derselben, nachdem sie in dem Herzen geoffenbart und empfangen ist, ein
-jeder wahrer Diener des Evangelii verordnet, zus bereitet, und in dem Werk des
+jeder wahrer Diener des Evangelium verordnet, zus bereitet, und in dem Werk des
 Dienstes ausges rüjtet und erfüllet. Und durch die Leitung, Bes wegung und
 Ziehung dieser Gnade und dieses lichts, muß ein jeglicher Evangelischer und
-Christlicher Hirte bey seiner Arbeit und bey seinem Werk des Evangelii, so
+Christlicher Hirte bei seiner Arbeit und bei seinem Werk des Evangelium, so
 wohl was den Drt betrift, wo er sein Amt nusrichten, als auch die Personen,
 des nen er fürstehen, und die Zeit, wenn erdienen soll, geleitet und verordnet
 werden. Wer diese Macht überkommen hat, der mag und soll das Evangelis um
@@ -43,6 +43,6 @@ Dingen so viel, als ihnen nemlich zur Speis
 
 <!-- Seie 36; content-0054.xml -->
 
-fe und Kleidung nöthig sein mag, und ihnen von Denen, welchen sie das
+fe und Kleidung nötig sein mag, und ihnen von Denen, welchen sie das
 Geistliche mitgetheilet has ben freywillig und von Herzen dargereidet wird,
 annehinen.

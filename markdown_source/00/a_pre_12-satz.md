@@ -6,7 +6,7 @@
 
 Gleichwie ein Err und ein Glaube ist; also ist auch Ephef.4.5.
 
-eine Tauffe welche nicht das Abthun des Unfiats Rim.6;4. an Fleisch ist,
+eine Tauffe welche nicht das Abtun des Unfiats Rim.6;4. an Fleisch ist,
 sondern der Bund eines guten Ges Gal
 
 . 3, 27. wisens mit Gott, durch die Auferstehung Golf , 13

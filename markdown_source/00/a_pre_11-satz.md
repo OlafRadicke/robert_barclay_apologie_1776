@@ -18,13 +18,13 @@ wenn wir wollen, fondern wo und wenn wir, durch
  die geheimen Eingebungen seines Geistes, in uns
  sern Herzen darzu bewegt werden, welche Gott
  erhöret und annimmet, der miemals unterlasset,
-wenn es nöthig ist, darzu anzutrciben, davon er
+wenn es nötig ist, darzu anzutrciben, davon er
  selbst der einzige geschickte Richter ist. Aller an:
  derer Gottes. Dienst, er geschebe mit Lob - Gesäns
  gen, Gebåt oder Predigen, die der Mensch nach eis
  genem Willen und Gefallen, und nach seiner eis
  genen Bestimmung verrichtet, und nach Belieben
- anfangen und schliessen, thun oder lassen kan, wie
+ anfangen und schliessen, tun oder lassen kan, wie
   er es selbst vor gut ansiehet : Es mogen dieselben
  in einer vorgeschriebenen Formul, als das gemeine
  Kirchen-Gebåt, oder in solchen Gebätern bestehen,

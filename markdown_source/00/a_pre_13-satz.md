@@ -24,5 +24,5 @@ nidyt ges
 ringerm Ernst und Nachdruck geboten sind, als jene.
 
 Dieweil sie aber nur die Schatten besserer Gas
-ben gewesen, so hören sie bey denen auf, die das
+ben gewesen, so hören sie bei denen auf, die das
 Wesen selbst erlanget haben.
