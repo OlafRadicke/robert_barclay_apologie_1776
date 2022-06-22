@@ -28,7 +28,7 @@ der Mensch alle in seinem aus der Art geschlagenen Zustand ers funden,
 seinen Stolz und Sochmuth indem Pomp und Pracht dieser Welt zu weiden.
 Desgleichen auch die unnüßlichen Spiele, nichtswürdigen Ers gösungen und
 losen Geschwise, Scherzen und Lustbarkeiten, so erfunden sind, die kojibare
-Zeit zu verschwenden, und das Gemüth von dem Zeugs niß GÓttes in dem Herzen,
+Zeit zu verschwenden, und das Gemüt von dem Zeugs niß GÓttes in dem Herzen,
 und von der lebendia gen Empfindung seiner Furcht, und demjenigen
 Evangelischen Geist abzulciten, womit Christen gesalbet sein sollen, und
 welcher zur Nüchternkeit, Ernsthaftigkeit und göttlichen Furcht leitet;

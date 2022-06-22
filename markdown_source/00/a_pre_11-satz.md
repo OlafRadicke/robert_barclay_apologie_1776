@@ -14,7 +14,7 @@ allewege verelren sollen, weil wir in steter Furdit
 vor ihm wandeln müssen; so dürfen wir es doch
 nach der äußerlichen Bedeutung desselben im Ges
  båt, Lob und Predigten nicht verrichten, wo und
-wenn wir wollen, fondern wo und wenn wir, durch
+wenn wir wollen, sondern wo und wenn wir, durch
  die geheimen Eingebungen seines Geistes, in uns
  sern Herzen darzu bewegt werden, welche Gott
  erhöret und annimmet, der miemals unterlasset,
@@ -29,7 +29,7 @@ wenn es nötig ist, darzu anzutrciben, davon er
  in einer vorgeschriebenen Formul, als das gemeine
  Kirchen-Gebåt, oder in solchen Gebätern bestehen,
  die durch das natürliche Vermogen und Würken
- des Gemüths To fort aus dem Fopf hervor ges
+ des Gemüts To fort aus dem Fopf hervor ges
  bracht werden; aller solcher Gottes: Dienst, und
 
 alle solche Ausbrüche des eigenen Würkens, sind Ejech. 13.

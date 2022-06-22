@@ -44,5 +44,5 @@ Dingen so viel, als ihnen nemlich zur Speis
 <!-- Seie 36; content-0054.xml -->
 
 fe und Kleidung nötig sein mag, und ihnen von Denen, welchen sie das
-Geistliche mitgetheilet has ben freywillig und von Herzen dargereidet wird,
+Geistliche mitgetheilet has ben freiwillig und von Herzen dargereidet wird,
 annehinen.

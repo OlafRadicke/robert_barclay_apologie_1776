@@ -75,7 +75,7 @@ Hilfreiche Tools
 
 #### Unter Linux ####
 
-- calibre (eBook-Reader)
+- cal ihre (eBook-Reader)
 - sigil (WYSIWYG eBook-Editor)
 
 
