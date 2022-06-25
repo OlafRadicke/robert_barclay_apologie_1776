@@ -12,12 +12,17 @@ verständlichere.
 
 * Der Text wurde/wird behutsam in der Rechtschreibung soweit angepasst,  
   das es der Lesbarkeit dient.
+* (Heute) Ungebräuchliche bzw. unverständliche Wörter werden ersetzt.
+* Die Bibelstellen, auf die verwiesen werden, werden in Fussnoten ergänzt, um 
+  den Lesefluss zu unterstüzen.
+* Bei den Bibel-Zitaten wird keine Übersetzung bevorzugt. Sie sollte nur 
+  frei zugänglich sein und frei verwendet werden können. Dazu zählt die 
+  [Elberfelder Bibel von 1932](https://www.bibelkommentare.de/bibel/elb_1932)
 * Die Ausgabe von 1776 hat sehr viele Randbemerkungen
   die die Ausgabe von 1684 nicht hat. Diese sind in aller Regel aber nur 
   Zusammenfassungen der Kernaussagen des eigentlichen Textes. Bieten
   also keinen substanziellen Mehrwert und werden deshalb hier auch nicht
   übernommen.
-* [Index](INDEX.md)
 
 Lizenz
 ------
