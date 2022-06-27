@@ -25,5 +25,5 @@ herrühret, und der Wahrheit entgegen ist. Jedoch jederzeit mit dies sein
 Vorbehalt, daß niemand unter dem Vorwand des Gerrissens seinem Nächsten an
 seinem Leib und Leben, Haab und Gutly zum Nachtheit handele. oder etwas
 vornelyme, so der mensd,lichen Gesells fchaft schädlich sey, oder dainit
-nicht bestehen kan: In welchem Fall das Gefeß vor die Uebertreter ges geben,
+nicht bestehen kan: In welchem Fall das Gefeß vor die Übertreter ges geben,
 und Gerechtigkeit über alle zu handhaben ist, ohne einiges ansehen der Perfon.

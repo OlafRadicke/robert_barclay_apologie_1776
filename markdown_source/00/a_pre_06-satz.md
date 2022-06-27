@@ -26,7 +26,7 @@ Gnade recht gebraucht haben, und an solchen Orten
 der Welt leben, wo die äußerliche Predigt des
 Evangelium unbekannt ist. Denn hieraus folgt, daß,
 gleichwie einige von den alten Philosophen möchten
-selig worden sein, also auch noch einige (welche
+selig worden sein, deshalb auch noch einige (welche
 durch die Vorsehung an diese entlegenen Teile
 der Welt versetzt worden, wo die historische Erkenntnis 
 mangelt,) des göttlichen Geheimnisses

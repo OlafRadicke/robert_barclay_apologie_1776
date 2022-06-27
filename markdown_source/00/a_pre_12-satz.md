@@ -4,7 +4,7 @@
 ### Der 12. Staz: *Von der Tauffe.*
 
 
-Gleichwie ein Err und ein Glaube ist; also ist auch Ephef.4.5.
+Gleichwie ein Err und ein Glaube ist; deshalb ist auch Ephef.4.5.
 
 eine Tauffe welche nicht das Abtun des Unfiats Rim.6;4. an Fleisch ist,
 sondern der Bund eines guten Ges Gal

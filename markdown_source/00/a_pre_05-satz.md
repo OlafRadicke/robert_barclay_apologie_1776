@@ -21,7 +21,7 @@ Buchseite: 30
 Gott, der keinen Gefallen am Tode des Sünders
 hat, sondern will, daß er sich bekehre und lebe, 
 hat, nach seiner unendlichen Gütigkeit, die Welt
-also geliebt, daß er seinen eingeborenen Sohn
+deshalb geliebt, daß er seinen eingeborenen Sohn
 zum Licht gegeben, auf daß alle, die an ihn glauben (Joh. 3,16. [^a_pre_05-satz_01])
 das ewige Leben haben sollen. Dieses
 Licht erleuchtet alle Wienschen, die in diese Welt
@@ -33,6 +33,6 @@ nicht widerstanden wird, und bestraft eines jeden
 Sünde, ist auch nicht weniger als der Same der
 Sünde allen gemein, weil es seinen Tod gekostet, da
 er denselben vor alle geschmeckt hat (Hebr.2,9 [^a_pre_05-satz_04]). Denn 
-gleichwie sie in Adam alle sterben, also werden
+gleichwie sie in Adam alle sterben, deshalb werden
 sie in Christo alle lebendig gemacht werden. (1. Kor. 15,22 [^a_pre_05-satz_04])
 

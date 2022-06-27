@@ -14,7 +14,7 @@ Bey welchem diese heilige und reine Geburt völlig herfür
 gebracht ist, bei denselben wird der Leib des Todes 
 und der Sünden gekreuzigt und abgetan, und 
 ihre Herzen mit der Wahrheit vereinigt und derselben 
-gehorsam also, daß sie keinen Eingebungen 
+gehorsam deshalb, daß sie keinen Eingebungen 
 oder Versuchungen des bösen Feindes Raum geben [^a_pre_08-satz_01] [^a_pre_08-satz_02] [^a_pre_08-satz_03] [^a_pre_08-satz_04]
 <!-- Seite 34; content-0052.xml -->
 sondern von wirklicher Sünde und Übertretung 

@@ -25,4 +25,4 @@ ringerm Ernst und Nachdruck geboten sind, als jene.
 
 Dieweil sie aber nur die Schatten besserer Gas
 ben gewesen, so hören sie bei denen auf, die das
-Wesen selbst erlanget haben.
+Wesen selbst erlangt haben.

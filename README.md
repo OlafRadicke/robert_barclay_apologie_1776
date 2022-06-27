@@ -21,7 +21,7 @@ verständlichere.
 * Die Ausgabe von 1776 hat sehr viele Randbemerkungen
   die die Ausgabe von 1684 nicht hat. Diese sind in aller Regel aber nur 
   Zusammenfassungen der Kernaussagen des eigentlichen Textes. Bieten
-  also keinen substanziellen Mehrwert und werden deshalb hier auch nicht
+  deshalb keinen substanziellen Mehrwert und werden deshalb hier auch nicht
   übernommen.
 
 Lizenz

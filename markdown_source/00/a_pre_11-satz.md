@@ -16,9 +16,9 @@ nach der äußerlichen Bedeutung desselben im Ges
  båt, Lob und Predigten nicht verrichten, wo und
 wenn wir wollen, sondern wo und wenn wir, durch
  die geheimen Eingebungen seines Geistes, in uns
- sern Herzen darzu bewegt werden, welche Gott
+ sern Herzen dazu bewegt werden, welche Gott
  erhöret und annimmet, der miemals unterlasset,
-wenn es nötig ist, darzu anzutrciben, davon er
+wenn es nötig ist, dazu anzutrciben, davon er
  selbst der einzige geschickte Richter ist. Aller an:
  derer Gottes. Dienst, er geschebe mit Lob - Gesäns
  gen, Gebåt oder Predigen, die der Mensch nach eis
