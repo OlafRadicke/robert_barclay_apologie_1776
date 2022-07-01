@@ -1,48 +1,50 @@
 <!-- Seite 34; content-0052.xml -->
 
+
+[^a_pre_10-satz_01]: Matth. 10,8 "Heilet Kranke, [wecket Tote auf,] reiniget Aussätzige, treibet Dämonen aus; umsonst habt ihr empfangen, umsonst gebet."
+
 ### Der 10. Satz: *Von den Kirchen-Dienern, und Hirten der Gemeinen.*
 
 
-Gleichmie durch diese Gabe, oder Licht Gottes
-   alle wahre Erkenntnis in Geistlichen Dingen er:
-
-langet
-
-I Tim. 1,6.
-
-5.6
-
-<!-- Seie 35; content-0053.xml -->
-
-langet und geoffenbart wird; deshalb wird auch durch die Gewalt und Kraft
-derselben, nachdem sie in dem Herzen geoffenbart und empfangen ist, ein
-jeder wahrer Diener des Evangelium verordnet, zus bereitet, und in dem Werk des
-Dienstes ausges rüjtet und erfüllet. Und durch die Leitung, Bes wegung und
-Ziehung dieser Gnade und dieses lichts, muß ein jeglicher Evangelischer und
-Christlicher Hirte bei seiner Arbeit und bei seinem Werk des Evangelium, so
-wohl was den Drt betrift, wo er sein Amt nusrichten, als auch die Personen,
-des nen er fürstehen, und die Zeit, wenn erdienen soll, geleitet und verordnet
-werden. Wer diese Macht überkommen hat, der mag und soll das Evangelis um
-predigen, ob er schon keinen Befehl von Mens schen dazu erlangt hat, und
-keine menschliche Ges lehrsamkeit besiket. Als im Gegentheil diejenis gen,
-denen es an dem Zeugnis dieser göttlichen Gas be fehlet, sie mogen noch so
-gelehrt sein; und noch so viel Vollmacht von Menschen und Geineinen aufs
-zuweisen haben, sind für nichts besser als Betrüs ger, und keinesweges für
-wahre Diener des Evane gelii zu halten. Auch sollen diejenigen, die diese
-heis lige und unbefleckte Gabe empfangen haben, gleichs wie sie solche umsonst
-empfangen haben, deshalb auch dieselbe umsonst, ohne Miethe-Lohn oder vorher
-aus: Matth. 10, gedingte Besoldung und geschlossenen Vergleich, mittheilen,
-noch vielweniger aber dieselbe als ein Gewerbe oder Handthierung, Geld dadurch
-zu gewinnen, gebrauchen. Jedennoch aber, wenn Gott einen oder den andern von
-seinen Geschäften oder von seiner Profeßion, wodurch er seinen Uns terhalt
-erlangt, beruffen hat, so ist es nicht uns recht, wenn solche (nach der
-Freyheit, die ihnen der Herr in ihrem Gewissen ertheilet) von zeitlis dhen
-Dingen so viel, als ihnen nemlich zur Speis
-
-1
-
-<!-- Seie 36; content-0054.xml -->
-
-fe und Kleidung nötig sein mag, und ihnen von Denen, welchen sie das
-Geistliche mitgetheilet has ben freiwillig und von Herzen dargereidet wird,
-annehinen.
+Gleichwie durch diese Gabe, oder Licht Gottes
+alle wahre Erkenntnis in Geistlichen Dingen erlangt<!-- Seie 35; content-0053.xml -->
+und geoffenbart wird; deshalb wird auch durch 
+die Gewalt und Kraft derselben, nachdem sie in 
+dem Herzen geoffenbart und empfangen ist, ein
+jeder wahrer Diener des Evangelium verordnet, zubereitet, 
+und in dem Werk des Dienstes ausgerüstet 
+und erfüllt. Und durch die Leitung, Bewegung 
+und Ziehung dieser Gnade und dieses lichts, 
+muß ein jeglicher Evangelischer und Christlicher 
+Hirte bei seiner Arbeit und bei seinem Werk des 
+Evangelium, so wohl was den Drt betrifft, wo er 
+sein Amt ausrichten, als auch die Personen, denen 
+er fürstehen, und die Zeit, wenn er dienen soll, 
+geleitet und verordnet werden. Wer diese Macht 
+überkommen hat, der mag und soll das Evangelium
+predigen, ob er schon keinen Befehl von Menschen 
+dazu erlangt hat, und keine menschliche Gelehrsamkeit 
+besitzt. Als im Gegenteil diejenigen,
+denen es an dem Zeugnis dieser göttlichen Gabe 
+fehlt, sie mögen noch so gelehrt sein; und noch 
+so viel Vollmacht von Menschen und Gemeinen aufzuweisen 
+haben, sind für nichts besser als Betrüger, 
+und keinesweges für wahre Diener des Evangelium 
+zu halten. Auch sollen diejenigen, die diese heilige 
+und unbefleckte Gabe empfangen haben, gleichwie 
+sie solche umsonst empfangen haben, deshalb 
+dieselbe umsonst, ohne Honorar oder vorher ausgedingte
+Besoldung und geschlossenen Vergleich, 
+mitteilen, noch vielweniger aber dieselbe als ein 
+Gewerbe oder Handlung, Geld dadurch zu 
+gewinnen, gebrauchen.[^a_pre_10-satz_01] Jedennoch aber, wenn 
+Gott einen oder den andern von seinen Geschäften 
+oder von seiner Profession, wodurch er seinen Unterhalt
+erlangt, berufen hat, so ist es nicht unrecht, 
+wenn solche (nach der Freiheit, die ihnen 
+der Herr in ihrem Gewissen erteilt) von zeitlichen
+Dingen so viel, als ihnen nemlich zur Speise<!-- Seie 36; content-0054.xml -->
+und Kleidung nötig sein mag, und ihnen von 
+Denen, welchen sie das Geistliche mitgeteilt haben 
+freiwillig und von Herzen dargereicht wird,
+annehmen.

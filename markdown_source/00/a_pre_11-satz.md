@@ -25,10 +25,10 @@ wenn es nötig ist, dazu anzutrciben, davon er
  genem Willen und Gefallen, und nach seiner eis
  genen Bestimmung verrichtet, und nach Belieben
  anfangen und schliessen, tun oder lassen kan, wie
-  er es selbst vor gut ansiehet : Es mogen dieselben
+  er es selbst vor gut ansiehet : Es mögen dieselben
  in einer vorgeschriebenen Formul, als das gemeine
  Kirchen-Gebåt, oder in solchen Gebätern bestehen,
- die durch das natürliche Vermogen und Würken
+ die durch das natürliche Vermögen und Würken
  des Gemüts To fort aus dem Fopf hervor ges
  bracht werden; aller solcher Gottes: Dienst, und
 

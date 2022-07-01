@@ -16,7 +16,7 @@ nemlich die Tauffe des Geistes und Seuers, durch welche wir mit ihm
 begraben werden, auf daß wir, wenn wir von unsern Sünden abgewaschen und
 gereiniget sind, in einem 2Cor.1,17. neuen Leben wandeln; davon die Tauffe
 gos hannis eine Figur war, welche nur auf eine Zeitlang befohlen war, und
-nicht immerdar wahren sollte. Was die Kinder Tauffe betrift, ist solche
+nicht immerdar wahren sollte. Was die Kinder Tauffe betrifft, ist solche
 eine blosse Menschen - Sakung, wozu in der ganzen Schrift weder Gebot noch
 Exempel des Gebrauchs anzus treffen ist.
 
