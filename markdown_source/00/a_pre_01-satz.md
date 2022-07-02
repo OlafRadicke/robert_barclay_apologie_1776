@@ -1,6 +1,8 @@
 <!--
 OCR: content-0042.xml
 Buchseite: 25
+
+Notiz: Nicht 1:1 das gleiche wie im Kapitel. 
 -->
 
 [^a_pre_01-satz_01]: "denn die Worte, die du mir gegeben hast, habe ich ihnen gegeben, und sie haben sie angenommen und wahrhaftig erkannt, dass ich von dir ausgegangen bin, und haben geglaubt, dass du mich gesandt hast."
@@ -11,7 +13,7 @@ Buchseite: 25
 Weil in der wahren Erkenntnis Gottes die höchste
 Glückseligkeit besteht, (das ist aber das ewige Joh. 17,8.[^a_pre_01-satz_01]
 Leben, daß sie sich, der du allein wahrer Gott
-bist, und den du gesandt hast, Jesum Christum 
+bist, und den du gesandt hast, Jesus Christus 
 erkennen.) So ist der wahre und richtige
 Verstand dieses Ursprungs und Grundes der Erkenntnis
 vor allen Dingen zu wissen und zu glauben

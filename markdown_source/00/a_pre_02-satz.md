@@ -3,7 +3,7 @@ OCR: content-0042.xml - content-0044.xml
 Buchseite: 25 - 27
 -->
 
-[^a_pre_02-satz_01]: Matth. 11,27 "Alles ist mir übergeben worden von meinem Vater; und niemand erkennt den Sohn als nur der Vater, noch erkennt jemand den Vater als nur der Sohn, und der, dem der Sohn ⟨ihn⟩ offenbaren will."
+[^a_pre_02-satz_01]: Matth. 11,27 "Alles ist mir übergeben von meinem Vater; und niemand erkennt den Sohn, als nur der Vater, noch erkennt jemand den Vater, als nur der Sohn, und wem irgend der Sohn ihn offenbaren will."
 
 ### Der 2. Satz: *Von der innerlichen und unmittelbaren Offenbarung*
 

@@ -69,3 +69,9 @@ Bearbeitungsstände
 | 14      | :+1:            | :x:          | :x:                      | :x:                      |
 | 15      | :+1:            | :x:          | :x:                      | :x:                      |
 
+
+TODOs
+-----
+
+- Susammenfassungen in die Kapitel übertragen und löschen
+  Fertige übertragungen 1,2,3

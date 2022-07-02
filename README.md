@@ -11,7 +11,7 @@ verständlichere.
 ### Grundsätze und Konzepte der Edition ###
 
 * Der Text wurde/wird behutsam in der Rechtschreibung soweit angepasst,  
-  das es der Lesbarkeit dient.
+  wie sie der Lesbarkeit dient.
 * (Heute) Ungebräuchliche bzw. unverständliche Wörter werden ersetzt.
 * Die Bibelstellen, auf die verwiesen werden, werden in Fussnoten ergänzt, um 
   den Lesefluss zu unterstüzen.
