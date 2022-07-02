@@ -23,6 +23,9 @@ verständlichere.
   Zusammenfassungen der Kernaussagen des eigentlichen Textes. Bieten
   deshalb keinen substanziellen Mehrwert und werden deshalb hier auch nicht
   übernommen.
+* Das Kapitel mit der Zusammenfassung des Buches wurde entfernt, da es 
+  nur eine Dublette der Zusammenfassungen in den jeweiligen Kapiteln
+  war.
 
 Lizenz
 ------
@@ -35,6 +38,8 @@ This work is licensed under a
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 Creative Commons Attribution-ShareAlike 4.0 International License
 </a>.
+
+Siehe [LICENSE](LICENSE)
 
 Für Beitragende
 ---------------

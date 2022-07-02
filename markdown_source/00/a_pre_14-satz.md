@@ -8,7 +8,7 @@
 Nachdem sich Gott die Macht und Herrschaft über
 
 die Gewissen allein vorbehalten hat, als der diesels ben allein recht
-unterweisen und regieren kan; To ist es keinem andern vergönnet, er stehe
+unterweisen und regieren kan; so ist es keinem andern vergönnet, er stehe
 auch noch
 
 Act. 18,20.
