@@ -24,8 +24,8 @@ verständlichere.
   deshalb keinen substanziellen Mehrwert und werden deshalb hier auch nicht
   übernommen.
 * Das Kapitel mit der Zusammenfassung des Buches wurde entfernt, da es 
-  nur eine Dublette der Zusammenfassungen in den jeweiligen Kapiteln
-  war.
+  weitestgehend nur eine Dublette der Zusammenfassungen in den jeweiligen 
+  Kapiteln war.
 * Die doppele Kapitelüberschrift für den 5. und 6. Satz wurde entfernt
   da der Sinn sich nicht erschloss.
 
