@@ -3,9 +3,9 @@ OCR: content-0044.xml,content-0047.xml
 Buchseite: 28 - 29
 -->
 
-[^a_pre_04-satz_01]: Röm. 5,12-15 "Durch einen einzigen Menschen, nämlich durch Adam, ist die Sünde in die Welt gekommen und als Folge davon der Tod. Nun sind alle Menschen dem Tod ausgeliefert, denn alle haben auch selbst gesündigt. Demnach war die Sünde schon da, lange bevor Gott durch Mose das Gesetz gab. Aber wo kein Gesetz ist, kann auch keine Schuld angerechnet werden. Dennoch waren bereits in der Zeit von Adam bis Mose alle Menschen dem Tod verfallen, auch wenn sie nicht wie Adam gegen ein ausdrückliches Gebot von Gott verstießen. Adams Schuld hatte Folgen für alle Menschen. Insofern ist er das genaue Gegenbild zu Christus, der kommen sollte, um uns zu erlösen Freilich lässt sich die Erlösung, die uns Christus geschenkt hat, nicht mit Adams Verfehlung vergleichen. Denn durch das Vergehen des einen wurde die gesamte Menschheit dem Tod ausgeliefert; durch Jesus Christus aber, diesen einen Menschen, haben alle in überreichem Maß Gottes Barmherzigkeit und Liebe erfahren."
+[^a_pre_04-satz_01]: Röm. 5,12-15 "Darum, gleichwie durch einen Menschen die Sünde in die Welt gekommen, und durch die Sünde der Tod, und also der Tod zu allen Menschen durchgedrungen ist, weil sie alle gesündigt haben; (denn bis zu dem Gesetz war Sünde in der Welt; Sünde aber wird nicht zugerechnet, wenn kein Gesetz ist. Aber der Tod herrschte von Adam bis auf Moses, selbst über die, welche nicht gesündigt hatten in der Gleichheit der Übertretung Adams, der ein Vorbild des Zukünftigen ist. Ist nicht aber wie die Übertretung also auch die Gnadengabe? Denn wenn durch des Einen Übertretung die Vielen gestorben sind, so ist vielmehr die Gnade Gottes und die Gabe in Gnade, die durch einen Menschen, Jesum Christus, ist, gegen die Vielen überströmend geworden."
 
-[^a_pre_04-satz_02]: Eph. 2,1 "Auch euch ⟨hat er auferweckt⟩, die ihr tot wart in euren Vergehungen und Sünden,"
+[^a_pre_04-satz_02]: Eph. 2,1 "[Eph 2,1] auch euch, die ihr tot waret in euren Vergehungen und Sünden,"
 
 ### Der 4. Satz: *Vou dem Zustand des Menschen in dem Fall.*
 

@@ -12,7 +12,7 @@ Buchseite: 30
 [^a_pre_05-satz_04]: "Aber wir sehen, dass Gott seinen Sohn Jesus, der für eine kurze Zeit niedriger war als die Engel, mit Ruhm und Ehre gekrönt hat. Dies war der Lohn für sein Sterben am Kreuz. Denn Gott hat die Menschen so sehr geliebt, dass Jesus für alle den Tod erlitten hat."
 
 [^a_pre_05-satz_04]: "Wir alle müssen sterben, weil wir Nachkommen von Adam sind. Ebenso werden wir alle zu neuem Leben auferweckt, weil wir mit Christus verbunden sind."
-### Der 5. und 6. Satz: *Von der allgemeinen Erlösung durch Christum, und von dem heilsamen geistlichen und übernatürlichen Licht, das alle Menschen erleuchtet hat.* ###
+### Der 5. und 6. Satz: *Von der allgemeinen Erlösung durch Christus, und von dem heilsamen geistlichen und übernatürlichen Licht, das alle Menschen erleuchtet hat.* ###
 
 
 ### Der 5. Satz ###
@@ -31,7 +31,7 @@ und Gottseligkeit. Und dieses Licht leuchtet eine (Tit. 2,11 [^a_pre_05-satz_03]
 Zeitlang in aller Herzen zur Seligkeit, wenn ihm
 nicht widerstanden wird, und bestraft eines jeden
 Sünde, ist auch nicht weniger als der Same der
-Sünde allen gemein, weil es seinen Tod gekostet, da
+Sünde allengemein, weil es seinen Tod gekostet, da
 er denselben vor alle geschmeckt hat (Hebr.2,9 [^a_pre_05-satz_04]). Denn 
 gleichwie sie in Adam alle sterben, deshalb werden
 sie in Christo alle lebendig gemacht werden. (1. Kor. 15,22 [^a_pre_05-satz_04])

@@ -27,11 +27,11 @@ durch den Geist unser Gottes. Daher [^a_pre_07-satz_01]
 geschieht solches nicht durch unsere Werke, 
 die in unserm Willen gewirkt werden; auch nicht 
 einmal durch gute Werke, wenn sie an sich selbst 
-betrachtet werden: sondern durch Christum, 
+betrachtet werden: sondern durch Christus, 
 welcher beides die Gabe und der Geber oder die 
 Ursache ist, so die Wirkung in uns hervorbringt. 
 Denn gleichwie er uns versöhnt hat, als 
-wir nod, Feinde waren; deshalb macht er uns, 
+wir noch Feinde waren; deshalb macht er uns, 
 nach seiner Weisheit, auch selig, und rechtfertigt uns 
 auch auf diese Weise, wie der Apostel anderswo sagt, 
 nach seiner Barmherzigkeit macht er uns 

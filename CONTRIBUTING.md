@@ -74,4 +74,4 @@ TODOs
 -----
 
 - Susammenfassungen in die Kapitel übertragen und löschen
-  Fertige übertragungen 1,2,3
+  Fertige übertragungen 1,2,3,4,5

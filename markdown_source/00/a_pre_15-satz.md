@@ -7,7 +7,7 @@
 
 Da der gewichtigste Endzweck aller Religion ist, die Ephef.5,11
 
-Menschen von dein Geist und eiteln Wandel diefer 1 Petr. 1, Welt zu
+Menschen von dein Geist und eiteln Wandel dieser 1 Petr. 1, Welt zu
 erlósen, und in die innerliche Gemein: Joh. 5; 44. schaft mit Gott
 einzuführen; D! wohl uns, und Jer. 10, 3. aber wohl, wenn wir allezeit
 in seiner Furcht er: Matth. 15; funden werden! Damenbero sind alle die
