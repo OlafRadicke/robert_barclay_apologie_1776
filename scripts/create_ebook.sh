@@ -1,7 +1,7 @@
 #!/bin/bash
 
 mkdir -p ./var
-
+rm ./var/apologie_r_barclay.epub
 pandoc \
   markdown_source/*/*.md \
   -o ./var/apologie_r_barclay.epub
