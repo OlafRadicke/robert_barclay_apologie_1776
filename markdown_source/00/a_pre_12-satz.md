@@ -12,7 +12,7 @@ sondern der Bund eines guten Ges Gal
 . 3, 27. wisens mit Gott, durch die Auferstehung Golf , 13
 
 . Jesu Christi. Und diese Tauffe ist eine reine und geistliche Tauffe,
-nemlich die Tauffe des Geistes und Seuers, durch welche wir mit ihm
+nämlich die Tauffe des Geistes und Seuers, durch welche wir mit ihm
 begraben werden, auf daß wir, wenn wir von unsern Sünden abgewaschen und
 gereiniget sind, in einem 2Cor.1,17. neuen Leben wandeln; davon die Tauffe
 gos hannis eine Figur war, welche nur auf eine Zeitlang befohlen war, und
