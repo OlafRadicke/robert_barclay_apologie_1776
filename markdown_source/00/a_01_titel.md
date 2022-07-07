@@ -1,2 +1,2 @@
-APOLOGIE ODER VERTEIDIGUNGSSCHRIFT DER WAHREN CHRISTLICHEN GOTTESGELAHRHEIT
-===========================================================================
+<!-- APOLOGIE ODER VERTEIDIGUNGSSCHRIFT DER WAHREN CHRISTLICHEN GOTTESGELAHRHEIT
+=========================================================================== -->
