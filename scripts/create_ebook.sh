@@ -23,6 +23,9 @@ cat markdown_source/14/*.md >> ./var/joined_code.md
 cat markdown_source/15/*.md >> ./var/joined_code.md
 wc -l ./var/joined_code.md
 
+rm -rvf ./var/pics
+rsync -rv pics/ ./var/pics
+
 pandoc \
   ./var/joined_code.md \
   -o ./var/apologie_r_barclay.epub \
@@ -30,10 +33,10 @@ pandoc \
   -f commonmark_x \
   --toc-depth=2 \
   --epub-cover-image=pics/barclay.png
-  # -t epub2 
+  # -t epub2
 
 
 
-# okular ./var/apologie_r_barclay.epub 
+# okular ./var/apologie_r_barclay.epub
 /usr/bin/com.github.johnfactotum.Foliate ./var/apologie_r_barclay.epub
 # /usr/bin/com.github.babluboy.bookworm ./var/apologie_r_barclay.epub
