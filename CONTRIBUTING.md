@@ -74,7 +74,9 @@ den Randnotizen um Bibelstellen, werden diese als Fußnoten beibehalten.
 gekennzeichnet und mit Fußnote versehen. Wenn später ein Mitarbeiter mit
 Griechisch-Kenntnissen die Stellen lesen und übertragen kann, wird das noch
 ergänzt. In der Regel kann nicht davon ausgegangen werden, das der Leser
-Griechisch-Kenntnissen hat.
+Griechisch-Kenntnissen hat. Von dem Zitate in Griechischer Schrift wird
+ein Screenshoot gemacht und in Verzeichnis */pics* abgelegt, unter den namen
+der Fußnote, mit der die Stelle dokumentiert ist. Z.B. *pics/footnote-b_02_02_12.png*.
 
 
 Scripts
@@ -111,24 +113,24 @@ Hilfreiche Tools
 Bearbeitungsstände
 ------------------
 
-| Kapitel | OCR-Übertragung | Formatierung | 1. Rechtschreibkorrektur | 2. Rechtschreibkorrektur |
-|---------|-----------------|--------------|--------------------------|--------------------------|
-| Vorwort | :x:             | :x:          | :x:                      | :x:                      |
-| 1       | :+1:            | :x:          | :x:                      | :x:                      |
-| 2       | :+1:            | :x:          | :x:                      | :x:                      |
-| 3       | :+1:            | :X:          | :x:                      | :x:                      |
-| 4       | :+1:            | :X:          | :x:                      | :x:                      |
-| 5       | :+1:            | :x:          | :x:                      | :x:                      |
-| 6       | :+1:            | :x:          | :x:                      | :x:                      |
-| 7       | :+1:            | :x:          | :x:                      | :x:                      |
-| 8       | :+1:            | :x:          | :x:                      | :x:                      |
-| 9       | :+1:            | :x:          | :x:                      | :x:                      |
-| 10      | :+1:            | :x:          | :x:                      | :x:                      |
-| 11      | :+1:            | :x:          | :x:                      | :x:                      |
-| 12      | :+1:            | :x:          | :x:                      | :x:                      |
-| 13      | :+1:            | :x:          | :x:                      | :x:                      |
-| 14      | :+1:            | :x:          | :x:                      | :x:                      |
-| 15      | :+1:            | :x:          | :x:                      | :x:                      |
+| Kapitel | OCR-Übertragung | Formatierung | 1. Rechtschreibkorrektur | 2. Recht.korr. |
+|---------|-----------------|--------------|--------------------------|----------------|
+| Vorwort | :x:             | :x:          | :x:                      | :x:            |
+| 1       | :+1:            | :x:          | :x:                      | :x:            |
+| 2       | :+1:            | :x:          | :x:                      | :x:            |
+| 3       | :+1:            | :X:          | :x:                      | :x:            |
+| 4       | :+1:            | :X:          | :x:                      | :x:            |
+| 5       | :+1:            | :x:          | :x:                      | :x:            |
+| 6       | :+1:            | :x:          | :x:                      | :x:            |
+| 7       | :+1:            | :x:          | :x:                      | :x:            |
+| 8       | :+1:            | :x:          | :x:                      | :x:            |
+| 9       | :+1:            | :x:          | :x:                      | :x:            |
+| 10      | :+1:            | :x:          | :x:                      | :x:            |
+| 11      | :+1:            | :x:          | :x:                      | :x:            |
+| 12      | :+1:            | :x:          | :x:                      | :x:            |
+| 13      | :+1:            | :x:          | :x:                      | :x:            |
+| 14      | :+1:            | :x:          | :x:                      | :x:            |
+| 15      | :+1:            | :x:          | :x:                      | :x:            |
 
 
 TODOs
