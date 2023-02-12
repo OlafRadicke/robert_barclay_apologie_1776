@@ -13,10 +13,11 @@ Erstens
 -------
 
 Robert Barclay verteidigt sich gegen Kritik seiner Zeit.
-Die Positionen die dabei anderen Konfessionen zugeschrieb
-werden, können heute keinen bestand mehr haben, den die
-Konfessionen haben sich weiter entwickelt. So wurde das
-Dogma der Päpstliche Unfehlbarkeit erst 1870 verkündet.
+Es könnte sein, das die Positionen die dabei anderen Konfessionen
+zugeschrieb werden, heute keinen bestand mehr haben, den
+auch die anderen Konfessionen haben sich weiter entwickelt.
+So wurde z.B. das Dogma der Päpstliche Unfehlbarkeit erst 1870
+verkündet. Also nach der entstehung dieses Textes.
 
 Zweitens
 --------
