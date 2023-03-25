@@ -23,7 +23,7 @@ DER 2. SATZ *Von der innerlichen und unmittelbaren Offenbarung.*
 Zusammenfassung
 ---------------
 
-Weil niemand den Vater Kennet, denn nur der
+Weil niemand den Vater Kennt, denn nur der
 ```
 
 Jeder **Paragraph** bekommt eine Eigene Textdatei. Alle **Kapitel** bekommen

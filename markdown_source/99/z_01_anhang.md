@@ -4,6 +4,60 @@ Anhang
 Themenübersicht / Kernaussagen
 ------------------------------
 
+### 01
+
+> “Da die höchste Glückseligkeit in der wahren Erkenntnis
+> Gottes besteht, [...] so ist der wahre und richtige
+> Verstand, den man sich von dem Ursprung und Grund dieser
+> Erkenntnis zu machen hat, das Allernotwendigste [...].”
+
+### 02
+
+> “Weil niemand den Vater Kennt, denn nur der Sohn, und wem
+> es der Sohn will offenbaren, die Offenbarung des Sohnes
+> aber in und durch den heiligen Geist geschieht; So ist es
+> das Zeugnis des Geistes allein, wodurch die wahre Erkenntnis
+> Gottes jederzeit offenbart worden, noch offenbart wird,
+> und nur allein offenbart werden kann.”
+### 03
+
+> “[Die Bibel ist] Eine getreue historische Erzählung der Taten des
+>  Volks Gottes, zu verschiedenen Zeiten, mit vielen sonderbaren
+> und merkwürdigen Umstanden der göttlichen Vorsehung, so dieselben
+> begleitet. [...] Nichts destoweniger, weil sie nur eine Anzeige
+> der Quelle, und nicht die Quelle selbst sind, so sind auch nicht
+> für den Hauptgrund aller Wahrheit und Erkenntnis, oder für die
+> gleiche, ebenmaßige und erste Richtschnur des Glaubens und des
+> Lebens zu halten.
+
+### 06
+
+> Wir gestehen ganz gerne, daß diese Wissenschaft
+> und Erkenntnis sehr nützlich und heilsam ist, wir
+> sagen nur, daß dieselbe solchen, denen sie Gott der
+> Herr selbst vorenthalten hat, nicht unumgänglich
+> nötig sei. Denn solche können des Geheimnisses
+> seines Todes teilhaftig gemacht werden, (ob sie<!-- seite 32 -->
+> schon von der Historie nichts wissen,) wenn sie seinem
+> Samen und Licht Raum geben, (ihr Herz zu erleuchten,)
+> in welchem Lichte die Gemeinschaft mit
+> Vater und Sohn genossen wird. So, daß sie aus
+> gottlosen Leuten heilige Leute und Liebhaber derjenigen
+> Gewalt werden, durch deren innerliche und
+> geheime Kührungen sie sich vom Bösen zum Guten
+> bekehrt fühlen, und lernen, andern zu tun,
+> wie sie wollen, daß man ihnen tun solle. Worin,
+> nach Christi selbst eigener Bekräftigung,
+> alles begriffen ist. Gleichwie demnach diejenigen
+> irrig und falsch gelehrt, welche geleugnet haben,
+> daß Christus für alle Menschen gestorben sei. Also
+> haben auch diejenigen die Wahrheit nicht sattsam
+> dargetan, die zwar zugestehen, daß Christus
+> für alle gestorben sei, aber dennoch eine unumgängliche
+> Notwendigkeit der äußerlichen Erkenntnis
+> derselben beigefügt haben, sofern es seine
+> heilsame Wirkungen zur Seligkeit haben sollte.
+
 ### 07.02
 
 Die Katholiken glauben, das der Papst und der Klerus die Verdienste von Jesus
@@ -46,7 +100,7 @@ Zitat:
 > willig und bereit, uns unsere Missetaten zu vergeben,
 > und uns anzunehmen.
 
-Zwei Stadien der Erlösung:S
+Zwei Stadien der Erlösung:
 
 > Wir betrachten demnach unsere Erlösung in einem
 > zweifachen [...] Zustand [...]
@@ -60,3 +114,17 @@ Zwei Stadien der Erlösung:S
 > kennen, welche und reinigt, läutert und von der Macht
 > des Verderbens  befreit, und uns in die Vereinigung,
 > Gnade, Huld und Freundschaft mit Gott einführt.
+
+Vereinigung und Gemeinschaft mit Gott
+
+> Durch die Zweite bezeugen wir, daß diese Fähigkeit,
+> oder dieses Vermögen, wirklich zur Tat gebracht
+> worden; wodurch wir, wenn wir die Frucht
+> seines Todes annehmen und derselben nicht wiederstehen,
+> nämlich das Licht, den Geist, und die Gnade
+> Christi, so in uns offenbart ist, eine wirkliche, wahre
+> und innerliche Erlösung von der Gewalt und Herrschaft
+> der Sünde bezeugen, und besitzen, und deshalb wirklich
+> und wahrhaftig erlöst, gerechtfertigt und gerecht
+> werden, und zu einer empfindlichen Vereinigung und
+> Gemeinschaft mit Gott gelangen.
