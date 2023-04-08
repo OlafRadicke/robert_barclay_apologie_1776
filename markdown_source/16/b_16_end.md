@@ -9,7 +9,7 @@ em ihr Begrif, dm sie sich von Gott machen, wie er über den Wols ten figet, wen
 
 fübs
 <!-- seite 795 -->
-fühleten und empfänden, daß er ihnen nahe sei: So haben sie boshaft lyieraus zu schliesen gesucht, als ob wir keinen andern Gott, ausser dem, der in uns wäre, erkenneten. Weil wir den Leuten sagen, daß es das innerliche Licht, und das inns wendige Gelege und nicht der aufserliche Buchs stabe sei, so ihnen ihren Zustand recht zu erkennen geben, und sie aus allem Uebel hinaus leiten köns ne; so geben sie vor, wir verkleinerten die Heil. Schrift, und zogen derselben unsere eigenen Eins bildungen für. Weil wir ihnen unter Augen fiele len, was massen ihnen ilyr äußerliches Geschwat vom Glauben, von Christi äußerlichem Leben, Leis den und Sterben, und Auferstehung, so wenig hels fen, und vor Gott so wenig zur Rechtfertigung dienen werde, als den Juden ihr mündliches Ges plårr: Sier ist des Serrn Temipel! Bier ist Des Herren Tempel! Sondern daß sie Christus in ihnen, den sie gecreutiget, deshalb erkennen müssten, daß er in ihnen auferstanden sei, sie gerecht mache, und von ihren Sünden erlose; so sprechen sie, wir leugneten das Leben, wie auch das Leiden und Sters
+fühleten und empfänden, daß er ihnen nahe sei: So haben sie boshaft lyieraus zu schliesen gesucht, als ob wir keinen andern Gott, ausser dem, der in uns wäre, erkenneten. Weil wir den Leuten sagen, daß es das innerliche Licht, und das inns wendige Gelege und nicht der aufserliche Buchs stabe sei, so ihnen ihren Zustand recht zu erkennen geben, und sie aus allem Uebel hinaus leiten köns ne; so geben sie vor, wir verkleinerten die Heil. Schrift, und zogen derselben unsere eigenen Eins bildungen für. Weil wir ihnen unter Augen fiele len, was massen ihnen ilyr äußerliches Geschwat vom Glauben, von Christi äußerlichem Leben, Leis den und Sterben, und Auferstehung, so wenig hels fen, und vor Gott so wenig zur Rechtfertigung dienen werde, als den Juden ihr mündliches Ges plårr: Sier ist des Herren Temipel! Bier ist Des Herren Tempel! Sondern daß sie Christus in ihnen, den sie gecreutiget, deshalb erkennen müssten, daß er in ihnen auferstanden sei, sie gerecht mache, und von ihren Sünden erlose; so sprechen sie, wir leugneten das Leben, wie auch das Leiden und Sters
 
 ben Christi, nebst der Rechtfertigung durch sein 28 Blut, und der daher erlangten Vergebung der Sún:
 
@@ -29,7 +29,7 @@ mel, 380le, und jüngstem Gericht so unbefonnen ins Selag hinein plaudern hören
 
 noch
 <!-- seite 797 -->
-noch auch die Gewalt beides derMenschen und Teus fel vermögenid sein soll, das kleine Fünklein so ers sühienen ist, auszulöschen; sondern es soll zunehmen, bis es alles, was sich ihm wiederseßen will, vers zehret hat. Der Mund des Serrn bats ges
+noch auch die Gewalt beides derMenschen und Teus fel vermögenid sein soll, das kleine Fünklein so ers sühienen ist, auszulöschen; sondern es soll zunehmen, bis es alles, was sich ihm wiederseßen will, vers zehret hat. Der Mund des Herren bats ges
 
 Tage. Ja, der, welcher in einem kleinen Übers 2 bleibfel aufgestanden ist, wird mit eben demselben
 
