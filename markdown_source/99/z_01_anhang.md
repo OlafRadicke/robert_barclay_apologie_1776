@@ -128,3 +128,29 @@ Vereinigung und Gemeinschaft mit Gott
 > und wahrhaftig erlöst, gerechtfertigt und gerecht
 > werden, und zu einer empfindlichen Vereinigung und
 > Gemeinschaft mit Gott gelangen.
+
+### 07.04
+
+> Erstlich, dass der Gehorsam, das Leiden
+> und der Tod Christi dasjenige ist, wodurch die
+> Seele Vergebung der Sünden erlangt, und die
+> Ursache, wodurch diese Gnade verschafft wird,
+> durch deren innerliche Wirkung Christus innerlich
+> eine Gestalt gewinnt, und die Seele ihm
+> gleich, und deshalb gerecht und gerechtfertigt wird.
+> und in Ansehung dieser Fähigkeit und angebotenen
+> Gnade wird demnach gesagt, daß Gott versöhnet
+> sei. Nicht, als ob er wirklich versöhnt ware,
+> oder wirklich rechtfertige, oder jemand vor gerecht
+> halte, so lange er in seinen Sünden würklch, unrein
+> und ungerecht bleibt.
+
+> Zweitens, daß es durch diese innerliche Geburt
+> Christi im Menschen geschieht, daß der Mensch
+> gerecht gemacht, und deshalb also von Gott
+> darvor geachtet wird. Deshalb werden wir
+> dadurch (Damit wir deutlich von der Sache reden)
+> und zwar nicht eher, als bis solche in uns hervor gebracht
+> ist, formell oder würklich, (wenn wir ja
+> dies Wort gebrauchen müssen,) in den Augen Gottes
+> gerechtfertigt.
