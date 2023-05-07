@@ -154,3 +154,28 @@ Vereinigung und Gemeinschaft mit Gott
 > ist, formell oder würklich, (wenn wir ja
 > dies Wort gebrauchen müssen,) in den Augen Gottes
 > gerechtfertigt.
+
+
+### 07.05
+
+> Denn da Christus gesagt
+> es ist vollbracht, und sein Werk bereits über sechzehn
+> hundert Jahre vollendet: Da er die Erlösung damals
+> so völlig geleistet, und einen jeden, der selig wer
+> den soll, wirklich versöhnte hat: Indem er ihnen nicht
+> nur allein die Gnadentür geöffnet, und ihnen das
+> Opfer seines Leibes dargeboten, wodurch sie, wenn
+> sie Busse tun, Vergebung der Sünden erlangen mögen,
+> und ihnen ein Maß seiner Gnade mitteilte, wodurch
+> sie ihre Sünden erkennen und bereuen können;
+> sondern sie auch wirklich, entweder ehe sie noch glauben,
+> (wie die Antinomianer sagen,) oder nachdem sie der
+> Wahrheit der Historie des Leidens und Sterbens
+> Christi Beifall geben, oder mit der Wassertaufe besprengt
+> worden, rechtfertigt und gerecht macht,
+> weil sie dessen ungeachtet noch immer in der Tat ungerecht
+> sind, deshalb, daß Christus jetzt nichts mehr zu ihrer
+> Versöhnung und Rechtfertigung zu tun oder auf sich zu
+> nehmen habe; so ist alles dasjenige in der Bibel, was
+> von den Lehrpunkten und Geboten handelt, unnütze
+> und vergeblich.
