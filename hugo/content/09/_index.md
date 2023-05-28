@@ -1,6 +1,13 @@
+---
+title: '9. Von der Beharrlichkeit in der Gnade Gottes, und der Möglichkeit solche wieder zu verlieren.'
+description: ""
+weight: 10
+Bearbeitungsstand: "1.Durchsicht"
+Schlagworte:
+  - 'zusammenfassung'
+  - 'Gnade'
+---
 
-DER 9. SATZ *Von der Beharrlichkeit in der Gnade Gottes, und der Möglichkeit solche wieder zu verlieren.*
-=========================================================================================================
 
 Zusammenfassung
 ---------------

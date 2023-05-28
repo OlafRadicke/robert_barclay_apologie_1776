@@ -1,11 +1,14 @@
+---
+title: '5. Von der allgemeinen Erlösung durch Christus, und von dem heilsamen geistlichen und übernatürlichen Licht, das alle Menschen erleuchtet hat.'
+description: ""
+weight: 6
+Bearbeitungsstand: "1.Durchsicht"
+Schlagworte:
+  - 'zusammenfassung'
+---
 
 <!-- Seite 162 -->
 
-DER 5. und 6. SATZ: *Von der allgemeinen Erlösung durch Christus, und von dem heilsamen geistlichen und übernatürlichen Licht, das alle Menschen erleuchtet hat.*
-=================================================================================================================================================================
-
-DER 5. SATZ
-===========
 
 Zusammenfassung
 ---------------

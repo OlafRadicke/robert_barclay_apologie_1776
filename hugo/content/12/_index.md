@@ -1,8 +1,13 @@
-
+---
+title: '12. Von der Taufe.'
+description: ""
+weight: 13
+Bearbeitungsstand: "1.Durchsicht"
+Schlagworte:
+  - 'zusammenfassung'
+  - 'Taufe'
+---
 <!-- Seite 567 -->
-
-DER 12. SATZ: *Von der Taufe*
-=============================
 
 Zusammenfassung
 ---------------

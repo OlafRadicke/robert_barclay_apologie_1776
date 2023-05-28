@@ -1,6 +1,16 @@
+---
+title: '14. Von der Gewalt der Bürgerlichen Obrigkeit in Sachen, die bloß die Religion und das Gewissen angehen.'
+description: ""
+weight: 15
+Bearbeitungsstand: "1.Durchsicht"
+Schlagworte:
+  - 'zusammenfassung'
+  - 'Gewalt'
+  - 'Staat'
+  - 'Regierung'
+---
 <!-- seite 671 -->
-DER 14. SATZ: *Von der Gewalt der Bürgerlichen Obrigkeit in Sachen, die bloß die Religion und das Gewissen angehen.*
-====================================================================================================================
+
 
 Zusammenfassung
 ---------------

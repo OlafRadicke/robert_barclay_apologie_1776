@@ -1,7 +1,13 @@
-<!-- Seite 109 ,  content-0095.xml-->
+---
+title: '3. Von der heiligen Schrift.'
+description: ""
+weight: 4
+Bearbeitungsstand: "1.Durchsicht"
+Schlagworte:
+  - 'zusammenfassung'
+---
 
-DER 3. SATZ: *Von der heiligen Schrift.*
-========================================
+<!-- Seite 109 ,  content-0095.xml-->
 
 Zusammenfassung
 ---------------

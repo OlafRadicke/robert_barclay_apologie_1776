@@ -1,7 +1,13 @@
+---
+title: '7. Von der Rechtfertigung.'
+description: ""
+weight: 8
+Bearbeitungsstand: "1.Durchsicht"
+Schlagworte:
+  - 'zusammenfassung'
+  - 'Rechtfertigung'
+---
 <!-- Seite 277 -->
-
-DER 7. SATZ: *Von der Rechtfertigung*
-=====================================
 
 Zusammenfassung
 ---------------

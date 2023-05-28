@@ -1,23 +1,28 @@
-
+---
+title: '8. Von der Vollkommenheit, oder Möglichkeit nicht zu sündigen.'
+description: ""
+weight: 9
+Bearbeitungsstand: "1.Durchsicht"
+Schlagworte:
+  - 'zusammenfassung'
+  - 'Vollkommenheit'
+---
 <!-- Seite 338 -->
 
-DER 8. SATZ: *Von der Vollkommenheit, oder Möglichkeit nicht zu sündigen.*
-==========================================================================
- 
 Zusammenfassung
 ---------------
 
 Bei welchem diese heilige und reine Geburt völlig herfür
-gebracht ist, bei denselben wird der Leib des Todes 
-und der Sünden gekreuzigt und abgetan, und 
-ihre Herzen mit der Wahrheit vereinigt und derselben 
-gehorsam deshalb, daß sie keinen Eingebungen 
+gebracht ist, bei denselben wird der Leib des Todes
+und der Sünden gekreuzigt und abgetan, und
+ihre Herzen mit der Wahrheit vereinigt und derselben
+gehorsam deshalb, daß sie keinen Eingebungen
 oder Versuchungen des bösen Feindes Raum geben [^a_pre_08-satz_01] [^a_pre_08-satz_02] [^a_pre_08-satz_03] [^a_pre_08-satz_04]
-sondern von wirklicher Sünde und Übertretung 
-der Gebote Gottes frei, und solcher Gestalt 
+sondern von wirklicher Sünde und Übertretung
+der Gebote Gottes frei, und solcher Gestalt
 vollkommen werden. jedoch lässt diese Vollkommenheit
-noch immer ein Wachstum zu; es 
-bleibt eine Möglichkeit zu sündigen zurück, wenn 
+noch immer ein Wachstum zu; es
+bleibt eine Möglichkeit zu sündigen zurück, wenn
 das Gemüt nicht auf das fliesegeste und wachsamste auf den Herrn
 gerichtet ist.
 

@@ -1,7 +1,13 @@
+---
+title: '13. Von der Gemeinschaft, Geniesung oder Teilhaftigwerdung des Leibes und Bluts Christi.'
+description: ""
+weight: 14
+Bearbeitungsstand: "1.Durchsicht"
+Schlagworte:
+  - 'zusammenfassung'
+  - 'Abendmahl'
+---
 <!-- Seite 615 -->
-
-DER 13. SATZ: *Von der Gemeinschaft, Geniesung oder Teilhaftigwerdung des Leibes und Bluts Christi*
-===================================================================================================
 
 Zusammenfassung
 ---------------

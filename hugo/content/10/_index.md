@@ -1,8 +1,13 @@
-
+---
+title: '10. Von den Kirchen-Dienern, und Hirten der Gemeinen.'
+description: ""
+weight: 11
+Bearbeitungsstand: "1.Durchsicht"
+Schlagworte:
+  - 'zusammenfassung'
+  - 'Kirchen-Dienern'
+---
 <!-- Seite 377 -->
-
-DER 10. SATZ: *Von den Kirchen-Dienern, und Hirten der Gemeinen.*
-=================================================================
 
 Zusammenfassung
 ---------------

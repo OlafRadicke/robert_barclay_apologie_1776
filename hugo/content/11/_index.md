@@ -1,8 +1,13 @@
-
+---
+title: '11. Von dem Gottesdienst.'
+description: ""
+weight: 12
+Bearbeitungsstand: "1.Durchsicht"
+Schlagworte:
+  - 'zusammenfassung'
+  - 'Gottesdienst'
+---
 <!-- Seite 477 -->
-
-DER 11. SATZ: *Von dem Gottesdienst.*
-=====================================
 
 Zusammenfassung
 ---------------

@@ -1,9 +1,13 @@
+---
+title: '15. Von Begrüssungen, Ergötzlichkeiten, und dergleichen Dingen.'
+description: ""
+weight: 16
+Bearbeitungsstand: "1.Durchsicht"
+Schlagworte:
+  - 'zusammenfassung'
+  - 'Begrüßung'
+---
 
-
-
-
-DER 15. SATZ: *Von Begrüssungen, Ergötlichkeiten, und dergleichen Dingen.* <!-- seite 710 -->
-==========================================================================
 
 Zusammenfassung
 ---------------

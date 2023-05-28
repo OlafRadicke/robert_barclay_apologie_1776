@@ -1,7 +1,13 @@
-<!-- Seite 163 -->
+---
+title: '6. Von der allgemeinen Erlösung durch Christus, und von dem heilsamen geistlichen und übernatürlichen Licht, das alle Menschen erleuchtet hat.'
+description: ""
+weight: 7
+Bearbeitungsstand: "1.Durchsicht"
+Schlagworte:
+  - 'zusammenfassung'
+---
 
-DER 6. SATZ
-===========
+<!-- Seite 163 -->
 
 Zusammenfassung
 ---------------
