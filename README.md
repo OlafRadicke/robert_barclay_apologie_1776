@@ -42,12 +42,23 @@ Um die letzten beiden Bedingungen zu erfüllen muss der Hugo-Aufruf wie folgt la
 
 ```bash
 hugo \
-  --source ./hugo-docu \
+  --source ./hugo \
   --baseURL  https://olafradicke.github.io/robert_barclay_apologie_1776 \
   --destination ../docs
 ```
 
+Lokale Vorschau
+---------------
 
+Für eine Vorschau, kann der eingebaute Webserver verwendet werden: In dem man
+
+```bash
+$ hugo \
+    --source ./hugo \
+    server
+```
+
+aufruft. Danach kannst du die URL http://localhost:1313/ in deinem Browser aufrufen um die Vorschau zu sehen.
 
 Lizenz
 ------
