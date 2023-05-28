@@ -29,6 +29,15 @@ verständlichere.
 * Die doppele Kapitelüberschrift für den 5. und 6. Satz wurde entfernt
   da der Sinn sich nicht erschloss.
 
+Entwicklungsumgebung vorbereiten
+--------------------------------
+
+```bash
+git clone git@github.com:OlafRadicke/robert_barclay_apologie_1776.git
+cd /robert_barclay_apologie_1776
+git submodule update --init --recursive --remote
+```
+
 Online version per GitHub pages
 -------------------------------
 

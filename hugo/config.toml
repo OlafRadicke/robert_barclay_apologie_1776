@@ -28,6 +28,10 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
     [markup.goldmark.renderer]
       unsafe = true
 
+[taxonomies]
+  tag = 'Schlagworte'
+  category = 'Bearbeitungsstand'
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
