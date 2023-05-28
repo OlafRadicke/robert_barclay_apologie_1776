@@ -25,7 +25,7 @@ nach des Apostels Worten: Ihr seid abgewaschen,
 ihr seid geheiligt, ihr seid gerecht worden
 durch den Namen des Herren Jesus, und
 durch den Geist unseres Gottes, 1 Cor. 6,11.[^b_07_00_01].
-Daber geschiet es nicht durch gute Werke, die
+Daber geschieht es nicht durch gute Werke, die
 in unserm Willen hervor gebracht werden, noch
 auch durch gute Werke, wie sie an sich selbst bes
 trachtet werden, sondern durch Christus, der

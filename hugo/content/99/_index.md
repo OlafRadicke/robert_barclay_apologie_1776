@@ -21,7 +21,7 @@ Themenübersicht / Kernaussagen
 
 > “Weil niemand den Vater Kennt, denn nur der Sohn, und wem
 > es der Sohn will offenbaren, die Offenbarung des Sohnes
-> aber in und durch den heiligen Geist geschiet; So ist es
+> aber in und durch den heiligen Geist geschieht; So ist es
 > das Zeugnis des Geistes allein, wodurch die wahre Erkenntnis
 > Gottes jederzeit offenbart worden, noch offenbart wird,
 > und nur allein offenbart werden kann.”
@@ -152,7 +152,7 @@ Vereinigung und Gemeinschaft mit Gott
 > und ungerecht bleibt.
 
 > Zweitens, daß es durch diese innerliche Geburt
-> Christi im Menschen geschiet, daß der Mensch
+> Christi im Menschen geschieht, daß der Mensch
 > gerecht gemacht, und deshalb also von Gott
 > darvor geachtet wird. Deshalb werden wir
 > dadurch (Damit wir deutlich von der Sache reden)
