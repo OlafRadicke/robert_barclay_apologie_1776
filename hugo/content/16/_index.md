@@ -2,7 +2,7 @@
 title: '16. Der Abschluss.'
 description: ""
 weight: 17
-Bearbeitungsstand: "1.Durchsicht"
+Bearbeitungsstand: "Rohdaten"
 Schlagworte: {}
 ---
 <!-- seite 794 -->
