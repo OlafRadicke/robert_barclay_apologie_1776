@@ -43,4 +43,4 @@ bandele, oder etwas vornelyme, so der menschlichen
 Gesellschaft schädlich sei, oder damit nicht bestehen
 kan: In welchem Fall das Gesetz für die Über-
 treter gegeben, und Gerechtigkeit über alle zu hands
-haben ist, obne einiges ansehen der Person.
+haben ist, ohne einiges ansehen der Person.
