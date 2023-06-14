@@ -157,7 +157,7 @@ Vereinigung und Gemeinschaft mit Gott
 > darvor geachtet wird. Deshalb werden wir
 > dadurch (Damit wir deutlich von der Sache reden)
 > und zwar nicht eher, als bis solche in uns hervor gebracht
-> ist, formell oder würklich, (wenn wir ja
+> ist, formell oder wirklich, (wenn wir ja
 > dies Wort gebrauchen müssen,) in den Augen Gottes
 > gerechtfertigt.
 
