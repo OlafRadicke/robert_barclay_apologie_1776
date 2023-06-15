@@ -137,7 +137,7 @@ Vereinigung und Gemeinschaft mit Gott
 
 ### 07.04
 
-> Erstlich, dass der Gehorsam, das Leiden
+>  zu erst, dass der Gehorsam, das Leiden
 > und der Tod Christi dasjenige ist, wodurch die
 > Seele Vergebung der Sünden erlangt, und die
 > Ursache, wodurch diese Gnade verschafft wird,
