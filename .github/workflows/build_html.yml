@@ -12,7 +12,7 @@ jobs:
       - run: scripts/install_hugo.sh
       - run: echo "This job's status is ${{ job.status }}."
       - run: |
-              hugo \
+              ./cache/hugo \
                 --source ./hugo \
                 --baseURL  https://olafradicke.github.io/robert_barclay_apologie_1776 \
                 --destination ../docs
