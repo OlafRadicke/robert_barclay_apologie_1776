@@ -1,11 +1,11 @@
 Notizen zu Dingen die Mir auffielen
 ===================================
 
-Ökumene, Tolleranz und Offenheit
+Ökumene, Toleranz und Offenheit
 --------------------------------
 
-Es wird also betont wie wichtig die persönliche offenbarung (inneres Licht)
-ist für die erlösung. Es wird an anderen Konfessionen kritisiert,
+Es wird also betont wie wichtig die persönliche Offenbarung (inneres Licht)
+ist für die Erlösung. Es wird an anderen Konfessionen kritisiert,
 das sie dem Inneren Licht keine Bedeutung oder Beachtung zukommen
 lassen. Es wird aber auch festgestellt, das es in anderen Konfessionen
 trotzdem immer wieder Menschen gab, die sich vom inneren Licht habe

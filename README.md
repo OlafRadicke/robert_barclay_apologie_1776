@@ -86,4 +86,5 @@ Siehe [LICENSE](LICENSE)
 Für Beitragende
 ---------------
 
-Siehe: [CONTRIBUTING.md](CONTRIBUTING.md)
+Siehe: [CONTRIBUTING](CONTRIBUTING/_index.md)
+und: [TODO.md](TODO.md)
