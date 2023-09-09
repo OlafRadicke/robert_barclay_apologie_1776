@@ -24,7 +24,7 @@ Autoren
 | Autor       | Robert Barclay |
 | Herausgeber | Olaf Radicke   |
 | Editor      | Olaf Radicke   |
-  {{< /table >}}
+{{< /table >}}
 
 Rechte
 ------
