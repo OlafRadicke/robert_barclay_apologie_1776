@@ -16,7 +16,7 @@ tar -xvzf ./${CACHE_DIR}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz \
   -C ${CACHE_DIR}
 ./${CACHE_DIR}/hugo version
 
-ls -lah ./hugo/themes
+# ls -lah ./hugo/themes
 
 git clone https://github.com/vantagedesign/ace-documentation.git ./themes/ace-documentation
 
