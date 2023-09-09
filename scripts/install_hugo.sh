@@ -15,3 +15,10 @@ curl -L ${DOWNLOAD_HOST}/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.g
 tar -xvzf ./${CACHE_DIR}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz \
   -C ${CACHE_DIR}
 ./${CACHE_DIR}/hugo version
+
+ls -lah ./themes
+
+git clone https://github.com/vantagedesign/ace-documentation.git ./themes/ace-documentation
+
+
+ls -lah ./themes
