@@ -1,3 +1,5 @@
+/* ----------------- blockquote ----------------------- */
+
 blockquote{
 	display:block;
 	background: #fff;
@@ -57,3 +59,4 @@ blockquote{
   blockquote em{
 	font-style: italic;
   }
+

@@ -18,13 +18,13 @@ verständlichere.
 Autoren
 -------
 
-
+{{< table style="table-striped" >}}
 | Rolle       | Name           |
 |-------------|----------------|
 | Autor       | Robert Barclay |
 | Herausgeber | Olaf Radicke   |
 | Editor      | Olaf Radicke   |
-
+{{< /table >}}
 
 Rechte
 ------
