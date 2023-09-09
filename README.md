@@ -52,7 +52,7 @@ Um die letzten beiden Bedingungen zu erfüllen muss der Hugo-Aufruf wie folgt la
 ```bash
 hugo \
   --source ./hugo \
-  --baseURL  https://olafradicke.github.io/robert_barclay_apologie_1776 \
+  --baseURL  https://olafradicke.github.io/robert_barclay_apologie_1776/ \
   --destination ../docs
 ```
 
