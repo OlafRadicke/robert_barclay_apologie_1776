@@ -15,7 +15,7 @@ Zusammenfassung
 Aller wahre und angenehme Gottesdienst wird
 durch, die innerliche und unmittelbare Bewegung
 und Neigung seines eigenen Geistes vollbracht, welche
-weder an Orte, noch Zeiten, noch auch an
+weder an Ort, noch Zeiten, noch auch an
 Personen gebunden ist. Denn ob wir ihn schon
 allewege verehren sollen, weil wir in steter Furcht
 vor ihm wandeln müssen; so dürfen wir es doch

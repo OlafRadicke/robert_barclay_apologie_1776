@@ -20,7 +20,7 @@ andern wunderbaren Mittel zu nehmen, deren
 sich Gott, ihrem Vorgeben nach, zu Offenbarung
 der Lehre und Geschichte des Leidens Christi
 bei denen bedienen soll, welche die erste allgemeine<!-- seite 31 -->
-Gnade recht gebraucht haben, und an solchen Orten
+Gnade recht gebraucht haben, und an solchen Ortn
 der Welt leben, wo die äußerliche Predigt des
 Evangelium unbekannt ist. Denn hieraus folgt, daß,
 gleichwie einige von den alten Philosophen möchten
@@ -119,11 +119,11 @@ nicht zu behaupten,
     notwendiger Weise auf ihren bösen Wegen
     zu wandeln, damit sie seine Gerechtigkeit deshalb
     ergreifen möge. Daher Gott nicht nur zuließ,
-    daß sie an vielen Orten der Welt, durch Entziehung
+    daß sie an vielen Ortn der Welt, durch Entziehung
     der Predigt des Evangelium und der Erkenntnis
     Christi, diesem Elend unterworfen werden;
 <!-- Seite 166 -->
-    sondern auch an denjenigen Orten, wo das Evangelium
+    sondern auch an denjenigen Ortn, wo das Evangelium
     gepredigt, und die Seligkeit durch Christus
     angeboten werde. Denn ob er sie schon öffentlich
     einlade, so verdamme er sie dennoch ihres

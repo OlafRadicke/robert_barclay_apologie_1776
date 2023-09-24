@@ -14,7 +14,7 @@ verständlichere.
   wie sie der Lesbarkeit dient.
 * (Heute) Ungebräuchliche bzw. unverständliche Wörter werden ersetzt.
 * Die Bibelstellen, auf die verwiesen werden, werden in Fussnoten ergänzt, um
-  den Lesefluss zu unterstüzen.
+  den Lesefluss zu unterstützen.
 * Bei den Bibel-Zitaten wird keine Übersetzung bevorzugt. Sie sollte nur
   frei zugänglich sein und frei verwendet werden können. Dazu zählt die
   [Elberfelder Bibel von 1932](https://www.bibelkommentare.de/bibel/elb_1932)
