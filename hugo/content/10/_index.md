@@ -35,7 +35,7 @@ Als im Gegenteil diejenigen, denen es an
 dem Zeugnis dieser göttlichen Gabe fehlt, sie mögen
 noch so gelehrt sein; und noch so viel Vollmacht
 von Menschen und Gemeinen aufzuweisen haben, sind
-für nichts besser als Betrüger, und keinesweges
+für nichts besser als Betrüger, und keineswegs
 für wahre Diener des Evangelium zu halten. Auch
 sollen diejenigen, die diese heilige und unbefleckte
 Gabe empfangen haben, gleichwie sie solche umsonst
