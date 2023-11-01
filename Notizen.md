@@ -59,7 +59,7 @@ In Kapitel 2, Paragraph II. erster Absatz
     Bekennern der Christlichen Religion zu
     aller Zeiten zugestanden worden. Denn weil dieselben
     aufrichtigen Herzens gewesen, und den Herrn mit
-    Ernst gesucht haben, (ob sie schon unter den Nachtheilen
+    Ernst gesucht haben, (ob sie schon unter den Nachteilen
     und allgemeinen Irrtümern ihrer unterschiedenen
     Sekten und Zeiten gestanden,) so ist doch der
     wahre Samen in ihnen von der Liebe Gottes, der
