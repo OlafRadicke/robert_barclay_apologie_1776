@@ -69,6 +69,13 @@ $ hugo \
 
 aufruft. Danach kannst du die URL http://localhost:1313/ in deinem Browser aufrufen um die Vorschau zu sehen.
 
+CI/CD
+-----
+
+Github action baut den statischen HTLM code automatisch nach einem
+commit. Siehe [.github/workflows/build_html.yml](.github/workflows/build_html.yml)
+
+
 Lizenz
 ------
 
