@@ -9,10 +9,12 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 2
-      - run: git checkout HEAD^
-      - run: scripts/install_hugo.sh
-      - run: echo "This job's status is ${{ job.status }}."
-      - run: |
+      - name: switch to HEAD
+        run: git checkout HEAD^
+      - name: install Hugo
+        run: scripts/install_hugo.sh
+      - name: build HTML
+        run: |
               ./cache/hugo \
                 --source ./hugo \
                 --baseURL  https://olafradicke.github.io/robert_barclay_apologie_1776 \
