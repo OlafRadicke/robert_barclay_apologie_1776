@@ -44,8 +44,8 @@ der Quelle, und nicht die Quelle selbst sind, so sind <!-- seite 28  -->
 auch nicht für den Hauptgrund aller Wahrheit
 und Erkenntnis, oder für die gleiche, ebenmaßige
 und erste Richtschnur des Glaubens
-und des Lebens zu halten. Da sie aber ein wahs
-res und getreues Zeugnis von dem ersten Grund
+und des Lebens zu halten. Da sie aber ein
+wahres und getreues Zeugnis von dem ersten Grund
 geben, so können sie, dessen ungeachtet, dennoch vor
 eine Veben-Regel geschäget werden, die dem
 Geist, von welchem sie alle ihr Fürtreflidskeit und
