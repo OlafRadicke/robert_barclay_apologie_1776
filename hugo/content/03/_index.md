@@ -56,7 +56,7 @@ sie, daß der Geist derjenige Wegweiser sei, von
 welchem die Heiligen in alle Wahrheit geleitet
 werden. Daher ist der Geist, nach dem Zeugnis
 der Schrift, der erste und vornehmste Leiter und
-Führer. [^a_pre_03-satz_01] [^a_pre_03-satz_02] Da wir nun die Schrift eben deswegen
+Führer. Da wir nun die Schrift eben deswegen
 annehmen und ihr glauben, weil sie von dem Geist
 herrührte, so ist auch der Geist noch ursprünglicher
 und hauptsächlicher die Richtschnur, nach
