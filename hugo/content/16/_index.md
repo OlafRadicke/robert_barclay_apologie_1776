@@ -7,7 +7,7 @@ Schlagworte: {}
 ---
 <!-- seite 794 -->
 
-Sofern du dir, aufrichtig gesinneter Leser
+Sofern du dir, aufrichtig gesinnter Leser
 in der Furcht des Herrrn fürnimmst, diesen
 dir allhier vorgelegten Entwurf der Religion zu
 betrachten, und dabei beherzigst, wie genau derselbe
