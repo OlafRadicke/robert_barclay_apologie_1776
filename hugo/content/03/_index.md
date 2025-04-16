@@ -49,7 +49,7 @@ wahres und getreues Zeugnis von dem ersten Grund
 geben, so können sie, dessen ungeachtet, dennoch vor
 eine Veben-Regel geschäget werden, die dem
 Geist, von welchem sie alle ihr Fürtreflidskeit und
-Gewißheit haben, unterworfen ist. Denn
+Gewissheit haben, unterworfen ist. Denn
 gleichwie wir solche allein durch das innerliche Zeugnis
 des Geistes wahrhaftig erkennen; Also bezeugen
 sie, daß der Geist derjenige Wegweiser sei, von
