@@ -1,43 +1,66 @@
-baseURL = 'https://olafradicke.github.io/robert_barclay_apologie_1776/'
-languageCode = 'de-de'
-title = 'Apologie von Robert Barclay in der Übersetzung von 1776'
+baseURL = "https://olafradicke.github.io/robert_barclay_apologie_1776/"
 
+languageCode = "de-de"
 DefaultContentLanguage = "de"
-# site_logo = '/images/Mastodon_logo.svg'
-theme = "ace-documentation"
-pygmentsCodeFences = true
-pygmentsStyle = "monokailight"
+title = "Apologie  von Robert Barclay in der Übersetzung von 1776"
+theme = "hugo-theme-techdoc"
 
-defaultContentLanguage = "de"
-defaultContentLanguageInSubdir= false
-enableMissingTranslationPlaceholders = false
+name = "Apologie  von Robert Barclay in der Übersetzung von 1776"
+license = "Creative Commons Legal Code"
+licenselink = "https://github.com/OlafRadicke/robert_barclay_apologie_1776/blob/add-hugo/LICENSE"
+description = "Apologie von Robert Barclay in der Übersetzung von 1776"
+homepage = "https://github.com/OlafRadicke/robert_barclay_apologie_1776"
+repo = "https://github.com/OlafRadicke/robert_barclay_apologie_1776"
+tags = ["Documentation", "Docs", "Responsive", "Google analytics", "Table Of Contents"]
+features = ["documentation", "menu"]
+min_version = "0.60.0"
 
-# Enable Google Analytics by entering your tracking id
-googleAnalytics = ""
-enableRobotsTXT = true
 
 [params]
-ordersectionsby = "weight" # ordersectionsby = "title"
-disableSearch = false # default is false
-disableReadmoreNav = false # set true to hide prev/next navigation, default is false
-highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
-menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
-custom_css = ["css/custom.css"]
+    # Documentation Menu section
+    # Menu style settings
+    menu_style = "slide-menu" #"open-menu" # "open-menu" or "slide-menu" or "" blank is as no sidebar
 
+
+[author]
+  name = "Robert Barclay"
+  homepage = "https://de.wikipedia.org/wiki/Robert_Barclay_(Qu%C3%A4ker)"
+
+
+# Markup configure section
+# See https://gohugo.io/getting-started/configuration-markup/
 [markup]
-  [markup.goldmark]
+    defaultMarkdownHandler = "goldmark"
     [markup.goldmark.renderer]
-      unsafe = true
-
-[taxonomies]
-  tag = 'Schlagworte'
-  category = 'Bearbeitungsstand'
+        unsafe= true
+    [markup.tableOfContents]
+        startLevel = 2
+        endLevel = 6
+        ordered = false
 
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+    home = ["HTML", "RSS", "Algolia"]
 
+# Algolia Search configure section
+[outputFormats.Algolia]
+    baseName = "algolia"
+    mediaType = "application/json"
+    isPlainText = true
+    notAlternative = true
 
-[[menu.shortcuts]]
-name = "Zum Git-Repo"
-url = "https://github.com/OlafRadicke/robert_barclay_apologie_1776"
-weight = 1
+[params.algolia]
+    vars = [
+        "title",
+        "summary",
+        "content",
+        "date",
+        "publishdate",
+        "description",
+        "permalink",
+        "keywords",
+        "lastmod",
+    ]
+    params = [
+        "tags",
+        "categories",
+    ]
