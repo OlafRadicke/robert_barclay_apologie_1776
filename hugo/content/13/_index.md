@@ -1,5 +1,6 @@
 ---
-title: '13. Von der Gemeinschaft, Geniesung oder Teilhaftigwerdung des Leibes und Bluts Christi.'
+title: '13. Über die Eucharistie'
+#title: '13. Von der Gemeinschaft, Geniesung oder Teilhaftigwerdung des Leibes und Bluts Christi.'
 description: ""
 weight: 14
 Bearbeitungsstand: "1.Durchsicht"

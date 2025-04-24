@@ -1,5 +1,6 @@
 ---
-title: '5. Von der allgemeinen Erlösung durch Christus, und von dem heilsamen geistlichen und übernatürlichen Licht, das alle Menschen erleuchtet hat.'
+title: '5. Über die Erlösung'
+# title: '5. Von der allgemeinen Erlösung durch Christus, und von dem heilsamen geistlichen und übernatürlichen Licht, das alle Menschen erleuchtet hat.'
 description: ""
 weight: 6
 Bearbeitungsstand: "1.Durchsicht"

@@ -1,5 +1,6 @@
 ---
-title: '4. Von dem Zustand des Menschen in dem Fall.'
+title: '4. Über die Sünde'
+# title: '4. Von dem Zustand des Menschen in dem Fall.'
 description: ""
 weight: 5
 Bearbeitungsstand: "1.Durchsicht"

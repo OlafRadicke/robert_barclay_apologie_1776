@@ -1,5 +1,6 @@
 ---
-title: '14. Von der Gewalt der Bürgerlichen Obrigkeit in Sachen, die bloß die Religion und das Gewissen angehen.'
+title: '14. Uber die Staatsgewalt'
+# title: '14. Von der Gewalt der Bürgerlichen Obrigkeit in Sachen, die bloß die Religion und das Gewissen angehen.'
 description: ""
 weight: 15
 Bearbeitungsstand: "1.Durchsicht"

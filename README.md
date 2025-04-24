@@ -64,6 +64,7 @@ Für eine Vorschau, kann der eingebaute Webserver verwendet werden: In dem man
 ```bash
 $ hugo \
     --source ./hugo \
+    --destination ../docs \
     server
 ```
 

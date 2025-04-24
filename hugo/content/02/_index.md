@@ -1,5 +1,6 @@
 ---
-title: '2. Von der innerlichen und unmittelbaren Offenbarung.'
+title: '2. Von der Offenbarung.'
+# title: '2. Von der innerlichen und unmittelbaren Offenbarung.'
 description: ""
 weight: 3
 Bearbeitungsstand: "1.Durchsicht"

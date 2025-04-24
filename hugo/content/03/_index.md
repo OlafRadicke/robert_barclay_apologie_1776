@@ -1,5 +1,6 @@
 ---
-title: '3. Von der heiligen Schrift.'
+title: '3. Über die Bibel'
+# title: '3. Von der heiligen Schrift.'
 description: ""
 weight: 4
 Bearbeitungsstand: "1.Durchsicht"

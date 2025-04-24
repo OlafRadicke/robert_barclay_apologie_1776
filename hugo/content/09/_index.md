@@ -1,5 +1,6 @@
 ---
-title: '9. Von der Beharrlichkeit in der Gnade Gottes, und der Möglichkeit solche wieder zu verlieren.'
+title: '9. Über den Abfall von der Vollkommenheit'
+# title: '9. Von der Beharrlichkeit in der Gnade Gottes, und der Möglichkeit solche wieder zu verlieren.'
 description: ""
 weight: 10
 Bearbeitungsstand: "1.Durchsicht"
