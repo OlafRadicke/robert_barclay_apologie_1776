@@ -1,4 +1,0 @@
-[submodule "ace-documentation"]
-	path = hugo/themes/ace-documentation
-	url = git@github.com:OlafRadicke/ace-documentation.git
-	branch = taxonomie-support
