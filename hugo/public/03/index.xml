@@ -2,95 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3. Von der heiligen Schrift. on Apologie von Robert Barclay in der Übersetzung von 1776</title>
-    <link>https://olafradicke.github.io/robert_barclay_apologie_1776/03/</link>
+    <link>http://localhost:1313/robert_barclay_apologie_1776/03/</link>
     <description>Recent content in 3. Von der heiligen Schrift. on Apologie von Robert Barclay in der Übersetzung von 1776</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://olafradicke.github.io/robert_barclay_apologie_1776/03/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="http://localhost:1313/robert_barclay_apologie_1776/03/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3.1</title>
-      <link>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_01/</link>
+      <link>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_01/</guid>
+      <guid>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_01/</guid>
       <description>Der erste Teil dieses Satzes hat keiner Vertheidigung nötig, sondern ist nur eine gute Vertheidigung für uns, und wird unter andern vielen Verleumdungen, womit wir zum öftern beschmißet werden, auch diejenige mit ausfegen helfen, da mnan uns beschuldiget, als ob mir Verachter der Schrift waren, und dieselbe zu verkleinern und gar zu leugnen sudyten. Denn er erhellt aus demjenigen, was wir davon behaupten, klar, wie hoch wir solche schäßen; indem wir sie (ohne allem Betrug und ohne alle Zweydeutigkeit) für die fürtreflichjten Schriften in der ganzen Welt achten: Welchen nicht nur keine andern Schriften vorzuziehen, sondern auch, aus vielen Ursadjen, auf keinerlei Weise zu vergleichen sind.</description>
     </item>
-
     <item>
       <title>3.2</title>
-      <link>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_02/</link>
+      <link>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_02/</guid>
-      <description>Denn ob wir schon die Bücher der H. Schrift für himmlische und göttliche Schriften erkennen; ob wir schon zugesthen, daß ihr Gebrauch der Kirche Christi sehr tröstlich und nötig sei; ob wir uns schon darüber verwundern, und den Herrn für seine wunderbare Fürsebung preisen, daß er diese Schriften, durch, eine so lange Nacht des Abfalls, so rein und unverfälscht erhalten, damit sie ein Zeugnis der Wahrheit, auch wider die Gottlosigkeit und Greuel derjenigen selbst sein möchten, deren er sich als Werkzeuge zu ihrer Erhaltung bedient: So, daß sie soldie bewahret, ein Zeuge wider, sie selbst zu sein; ob wir schon, sage ich, dieses alles zugestehen, so können wir sie doch nicht den gewichtigsten Haupt-Ouell aller Wahrheit und Erkenntnis noch auch die erste und richtigste Regeldes Glaubens und Lebens nennen, weil der gewichtigste Haupt-Quell die Wahrheit selbst sein muß, das ist, derjenige, dessen Gewißheit und Ansehen auf keinem andern berubet.</description>
+      <guid>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_02/</guid>
+      <description>Denn ob wir schon die Bücher der H. Schrift für himmlische und göttliche Schriften erkennen; ob wir schon zugesthen, daß ihr Gebrauch der Kirche Christi sehr tröstlich und nötig sei; ob wir uns schon darüber verwundern, und den Herrn für seine wunderbare Fürsebung preisen, daß er diese Schriften, durch, eine so lange Nacht des Abfalls, so rein und unverfälscht erhalten, damit sie ein Zeugnis der Wahrheit, auch wider die Gottlosigkeit und Greuel derjenigen selbst sein möchten, deren er sich als Werkzeuge zu ihrer Erhaltung bedient: So, daß sie soldie bewahret, ein Zeuge wider, sie selbst zu sein; ob wir schon, sage ich, dieses alles zugestehen, so können wir sie doch nicht den gewichtigsten Haupt-Ouell aller Wahrheit und Erkenntnis noch auch die erste und richtigste Regeldes Glaubens und Lebens nennen, weil der gewichtigste Haupt-Quell die Wahrheit selbst sein muß, das ist, derjenige, dessen Gewissheit und Ansehen auf keinem andern berubet.</description>
     </item>
-
     <item>
       <title>3.3</title>
-      <link>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_03/</link>
+      <link>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_03/</guid>
-      <description>Drittens, dasjenige, was den Christen zu einer Regel oder Nichtschnur, zu einem Wegweiser und Führer gegeben ist, das muß notwendig so vollkommen sein, daß es klar und deutlich zeige, und sie leite und regiere, wie sie sich in allen Dingen und bei allen vorfallenden Begebenheiten verhalten sollen.
-Nun kommen aber, in Ansehung ihrer Umstände, viel hundert Dinge vor, die diesen oder jenen Christen insbesondere angehen, weßwegen keine besondere Regel in der Schrift gegeben isi.</description>
+      <guid>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_03/</guid>
+      <description>Drittens, dasjenige, was den Christen zu einer Regel oder Nichtschnur, zu einem Wegweiser und Führer gegeben ist, das muß notwendig so vollkommen sein, daß es klar und deutlich zeige, und sie leite und regiere, wie sie sich in allen Dingen und bei allen vorfallenden Begebenheiten verhalten sollen.&#xA;Nun kommen aber, in Ansehung ihrer Umstände, viel hundert Dinge vor, die diesen oder jenen Christen insbesondere angehen, weswegen keine besondere Regel in der Schrift gegeben isi.</description>
     </item>
-
     <item>
       <title>3.4</title>
-      <link>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_04/</link>
+      <link>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_04/</guid>
-      <description>Dasjenige kan, lektens, nicht die gewichtigste Regel und Richtschnur sein, welches sich nicht insgemein auf ein jedes insbesondere erstrecket, das solches nötig hat, die erwünschte Wúrkung hervor zu bringen; und von dessen Gebrauch viele, die dod) zur sichtbaren Kirche gehören, ja, mit gutem Grund für Auserwählet zu achten, (wegen eines unschuldigen und unsündliden Gebrechens, oder einer natürlichen, jedoch unschädlichen und untadelhaften Unvollkommenheit) notwendiger Weise und zwar entweder gänzlich, oder doch zum wenigsten von dem unmittelbaren Gebrauch desselben, ausgeschlossen sind.</description>
+      <guid>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_04/</guid>
+      <description>Dasjenige kan, lektens, nicht die gewichtigste Regel und Richtschnur sein, welches sich nicht insgemein auf ein jedes insbesondere erstrecket, das solches nötig hat, die erwünschte Wúrkung hervor zu bringen; und von dessen Gebrauch viele, die doch zur sichtbaren Kirche gehören, ja, mit gutem Grund für Auserwählet zu achten, (wegen eines unschuldigen und unsündliden Gebrechens, oder einer natürlichen, jedoch unschädlichen und untadelhaften Unvollkommenheit) notwendiger Weise und zwar entweder gänzlich, oder doch zum wenigsten von dem unmittelbaren Gebrauch desselben, ausgeschlossen sind.</description>
     </item>
-
     <item>
       <title>3.5</title>
-      <link>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_05/</link>
+      <link>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_05/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_05/</guid>
-      <description>Wenn man mich nun fraget, ob ich denn die Schrift hierdurch ganz ungewiss und unnütz zu machen gedenke?
-So antworte ich, ganz und gar nicht. Der Satz selbst weist aus, wie hoch ich selbige schage. Und wenn dem Geist, von weldjem sie herrülyret, derjenige Platz nur eingeräumet wird, den ihm die Schrift selbst gebietet, so will ich der Schrift den andern Platz willig abtreten, welches so viel ist als sie selbst verlangt.</description>
+      <guid>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_05/</guid>
+      <description>Wenn man mich nun fraget, ob ich denn die Schrift hierdurch ganz ungewiss und unnütz zu machen gedenke?&#xA;So antworte ich, ganz und gar nicht. Der Satz selbst weist aus, wie hoch ich selbige schage. Und wenn dem Geist, von weldjem sie herrülyret, derjenige Platz nur eingeräumt wird, den ihm die Schrift selbst gebietet, so will ich der Schrift den andern Platz willig abtreten, welches so viel ist als sie selbst verlangt.</description>
     </item>
-
     <item>
       <title>3.6</title>
-      <link>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_06/</link>
+      <link>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_06/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_06/</guid>
+      <guid>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_06/</guid>
       <description>So haben wir dann gezeigt, wie nützlich und dienlich die beilige Schrift, in Ansehung der vorhergedachten Punkte, in der Kirche Gottes sei, wenn sie durch Leitung und Beistand des Geistes, recht gebraucht wird. Daher wir dieselbe für eine Neben-Regel halten. Da über dieses fast von allen zugestanden wird, daß sie, durch Eingebung des heiligen Geistes geschrieben, und daß die Irrtümer, die sich vielleicht durch die Verderbniß der Zeiten könnten einigeschlichen haben, keineswegs von solcher Wichtigkeit sind, daß nicht ein zulängliches klares Zeugnis, in Ansehung aller wesentlichen Stücke des Christlichen Glaubens, übrig geblieben wäre.</description>
     </item>
-
     <item>
       <title>7.7</title>
-      <link>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_07/</link>
+      <link>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_07/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_07/</guid>
-      <description>Ihr erster Einwurf wird gemeiniglich aus Jesaiá 8, 20. Hergenommen. Nach dem Gesetz und Zeugnis, werden sie das nicht sagen, so wers den sie die Morgen-Röthe nicht haben. (Oder wie es nach dem Englisden beisset: Haciy dem Befes und Zeugnis, wenn sie nicht nach diesem Wort reden, so rubret es daher, daß kein Licht in ihnen ift.) Nun behaupten sie, dieses Gefeß, dieses Zeugnis und dieses Wort sei die Schrift.</description>
+      <guid>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_07/</guid>
+      <description>Ihr erster Einwurf wird gemeiniglich aus Jesaiá 8, 20. Hergenommen. Nach dem Gesetz und Zeugnis, werden sie das nicht sagen, so wers den sie die Morgen-Röthe nicht haben. (Oder wie es nach dem Englisden heisst: Haciy dem Befes und Zeugnis, wenn sie nicht nach diesem Wort reden, so rubret es daher, daß kein Licht in ihnen ift.) Nun behaupten sie, dieses Gesetz, dieses Zeugnis und dieses Wort sei die Schrift.</description>
     </item>
-
     <item>
       <title>3.8</title>
-      <link>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_08/</link>
+      <link>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_08/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_08/</guid>
-      <description>Ihr Dritter Einwurf ist aus diesen Worten gezogen, Ap. Gesch. 17, II. Diese waren edler, als diejenigen in Thessalonicha, weil sie das Wort mit willigem Gemüt aufnahmen, und täglich in der Schrift forscheten, ob sichs deshalb verhielte.
-Hier, sprechen sie, werden die Berrhoenfer gelobet, daß sie in der Schrift geforschet, und solche zu ihrer Kichtschnur gemacht haben.
-Antwort; daß die Schrift entweder die gewichtigste oder einzige Regel und Richtschnur sei, wird hier: aus keinesweges folgen; so wird auch ihr Forschen in der Schrift so wenig, als daß sie deswegen gelobet werden, dergleichen mit sich bringen.</description>
+      <guid>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_08/</guid>
+      <description>Ihr Dritter Einwurf ist aus diesen Worten gezogen, Ap. Gesch. 17, II. Diese waren edler, als diejenigen in Thessalonicha, weil sie das Wort mit willigem Gemüt aufnahmen, und täglich in der Schrift forscheten, ob sichs deshalb verhielte.&#xA;Hier, sprechen sie, werden die Berrhoenfer gelobet, daß sie in der Schrift geforschet, und solche zu ihrer Kichtschnur gemacht haben.&#xA;Antwort; daß die Schrift entweder die gewichtigste oder einzige Regel und Richtschnur sei, wird hier: aus keineswegs folgen; so wird auch ihr Forschen in der Schrift so wenig, als daß sie deswegen gelobet werden, dergleichen mit sich bringen.</description>
     </item>
-
     <item>
       <title>3.9</title>
-      <link>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_09/</link>
+      <link>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_09/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://olafradicke.github.io/robert_barclay_apologie_1776/03/b_03_09/</guid>
-      <description>Der letzte Einwurf, und welcher, dem ersten Ansehen nach, am wichtigsten zu sein scheint, ist dieser:
-Wenn die Schrift nicht die richtigste, gewichtigste und einzige Richtschnur ist, so würde folgen, daß die Schrift nicht vollständig, noch auch der Canon oder die Regül erfüllt wäre. Und wenn die Menschen jetzt noch unmittelbar durch den Geist geleitet und regieret werden, so mögen sie neue Schrift hinzutun, so mit der alten in gleichem Ansehen steht.</description>
+      <guid>http://localhost:1313/robert_barclay_apologie_1776/03/b_03_09/</guid>
+      <description>Der letzte Einwurf, und welcher, dem ersten Ansehen nach, am wichtigsten zu sein scheint, ist dieser:&#xA;Wenn die Schrift nicht die richtigste, gewichtigste und einzige Richtschnur ist, so würde folgen, daß die Schrift nicht vollständig, noch auch der Canon oder die Regül erfüllt wäre. Und wenn die Menschen jetzt noch unmittelbar durch den Geist geleitet und regieret werden, so mögen sie neue Schrift hinzutun, so mit der alten in gleichem Ansehen steht.</description>
     </item>
-
   </channel>
 </rss>

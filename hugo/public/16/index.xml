@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>16. Der Abschluss. on Apologie von Robert Barclay in der Übersetzung von 1776</title>
-    <link>https://olafradicke.github.io/robert_barclay_apologie_1776/16/</link>
+    <link>http://localhost:1313/robert_barclay_apologie_1776/16/</link>
     <description>Recent content in 16. Der Abschluss. on Apologie von Robert Barclay in der Übersetzung von 1776</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://olafradicke.github.io/robert_barclay_apologie_1776/16/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="http://localhost:1313/robert_barclay_apologie_1776/16/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

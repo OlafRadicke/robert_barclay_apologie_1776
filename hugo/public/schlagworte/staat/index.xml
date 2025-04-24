@@ -2,18 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Staat on Apologie von Robert Barclay in der Übersetzung von 1776</title>
-    <link>https://olafradicke.github.io/robert_barclay_apologie_1776/schlagworte/staat/</link>
+    <link>http://localhost:1313/robert_barclay_apologie_1776/schlagworte/staat/</link>
     <description>Recent content in Staat on Apologie von Robert Barclay in der Übersetzung von 1776</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://olafradicke.github.io/robert_barclay_apologie_1776/schlagworte/staat/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="http://localhost:1313/robert_barclay_apologie_1776/schlagworte/staat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>14. Von der Gewalt der Bürgerlichen Obrigkeit in Sachen, die bloß die Religion und das Gewissen angehen.</title>
-      <link>https://olafradicke.github.io/robert_barclay_apologie_1776/14/</link>
+      <link>http://localhost:1313/robert_barclay_apologie_1776/14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://olafradicke.github.io/robert_barclay_apologie_1776/14/</guid>
+      <guid>http://localhost:1313/robert_barclay_apologie_1776/14/</guid>
       <description>Zusammenfassung Nachdem sich Gott die Macht und Herrschaft über die Gewissen allein vorbehalten hat, als der diesels ben allein recht unterweisen und regieren kan; so Luc. 9,55. ist es keinem andern vergönnet, er stehe auch noch in so großem Ansehen, und habe noch so viel Bots Matth. 7 máßigkeit in dieser Welt, anderer Leute Gewissen 12. 29. zu zwingen. Daher alles Todten, Verjagen, Bes strafen (an Geld, Sjaab und Gütern) gefänglich balten und andere dergleichen Gewaltthätigkeiten,</description>
     </item>
-    
   </channel>
 </rss>
