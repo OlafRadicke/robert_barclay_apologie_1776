@@ -1,4 +1,5 @@
-baseURL = "https://olafradicke.github.io/robert_barclay_apologie_1776/"
+#baseURL = "https://olafradicke.github.io/robert_barclay_apologie_1776/"
+baseURL = "https://apologie.the-independent-friend.de"
 
 languageCode = "de-de"
 DefaultContentLanguage = "de"
