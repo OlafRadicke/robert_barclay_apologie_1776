@@ -22,7 +22,6 @@ Autoren
 | Rolle       | Name           |
 |-------------|----------------|
 | Autor       | Robert Barclay |
-| Herausgeber | Olaf Radicke   |
 | Editor      | Olaf Radicke   |
 
 
@@ -30,6 +29,11 @@ Rechte
 ------
 
 Creative Commons Attribution-ShareAlike 4.0 International License
+
+Git-Repo
+--------
+
+[github.com/OlafRadicke/robert_barclay_apologie_1776](https://github.com/OlafRadicke/robert_barclay_apologie_1776)
 
 Verzeichnisse
 -------------
