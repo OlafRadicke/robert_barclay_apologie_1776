@@ -22,8 +22,7 @@ min_version = "0.60.0"
     # Menu style settings
     menu_style = "slide-menu" #"open-menu" # "open-menu" or "slide-menu" or "" blank is as no sidebar
 
-[Params.Author] # Used in authorbox
-  name = "Robert Barclay"
+
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
@@ -39,26 +38,27 @@ min_version = "0.60.0"
 [outputs]
     home = ["HTML", "RSS", "Algolia"]
 
-# Algolia Search configure section
-[outputFormats.Algolia]
-    baseName = "algolia"
-    mediaType = "application/json"
-    isPlainText = true
-    notAlternative = true
+# # Algolia Search configure section
+# [outputFormats.Algolia]
+#     baseName = "algolia"
+#     mediaType = "application/json"
+#     isPlainText = true
+#     notAlternative = true
 
-[params.algolia]
-    vars = [
-        "title",
-        "summary",
-        "content",
-        "date",
-        "publishdate",
-        "description",
-        "permalink",
-        "keywords",
-        "lastmod",
-    ]
-    params = [
-        "tags",
-        "categories",
-    ]
+# [params.algolia]
+#     vars = [
+#         "title",
+#         "summary",
+#         "content",
+#         "date",
+#         "publishdate",
+#         "description",
+#         "permalink",
+#         "keywords",
+#         "lastmod",
+#     ]
+#     params = [
+#         "tags",
+#         "categories",
+#     ]
+
