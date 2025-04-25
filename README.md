@@ -1,12 +1,31 @@
 Apologie von Robert Barclay in der Übersetzung von 1776
 =======================================================
 
+
+- [Apologie von Robert Barclay in der Übersetzung von 1776](#apologie-von-robert-barclay-in-der-übersetzung-von-1776)
+  - [Über dieses Projekt](#über-dieses-projekt)
+    - [Grundsätze und Konzepte der Edition](#grundsätze-und-konzepte-der-edition)
+  - [Entwicklungsumgebung vorbereiten](#entwicklungsumgebung-vorbereiten)
+  - [Online version per GitHub pages](#online-version-per-github-pages)
+  - [Lokale Vorschau](#lokale-vorschau)
+  - [CI/CD](#cicd)
+  - [Lizenz](#lizenz)
+  - [Für Beitragende](#für-beitragende)
+
+
+Über dieses Projekt
+-------------------
+
 ![pics/barclay.png](pics/barclay.png)
 
 Der Text basiert auf die Digitalisierung von Google und der OCR von Google.
 Der Eingescannte Text ist eine übersetzung von 1776. Es gibt noch eine ältere
 übersetzung von 1684. Diese von 1776 scheint mir aber die besser
 verständlichere.
+
+Der aktuelle Stand wird immer mal wieder auf die Seite [https://apologie.the-independent-friend.de/](https://apologie.the-independent-friend.de/) synchronisiert.
+
+
 
 ### Grundsätze und Konzepte der Edition ###
 

@@ -7,6 +7,11 @@ Schlagworte:
   - 'zusammenfassung'
   - 'Gottesdienst'
 ---
+
+{{< panel status="notice" title="Bearbeitungsstand" >}}Status: 1.Durchsicht
+
+Text wurde noch nicht gesichtet, Formatierung gesetzt und erste Korrekturen gemacht.{{< /panel >}}
+
 <!-- Seite 477 -->
 
 Zusammenfassung
