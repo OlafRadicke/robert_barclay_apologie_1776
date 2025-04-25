@@ -22,11 +22,8 @@ min_version = "0.60.0"
     # Menu style settings
     menu_style = "slide-menu" #"open-menu" # "open-menu" or "slide-menu" or "" blank is as no sidebar
 
-
-[author]
+[Params.Author] # Used in authorbox
   name = "Robert Barclay"
-  homepage = "https://de.wikipedia.org/wiki/Robert_Barclay_(Qu%C3%A4ker)"
-
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
