@@ -8,6 +8,9 @@ Schlagworte:
   - 'zusammenfassung'
 ---
 
+{{< panel status="notice" title="Bearbeitungsstand" >}}Status: 1.Durchsicht
+Text wurde noch nicht gesichtet, Formatierung gesetzt und erste Korrekturen gemacht.{{< /panel >}}
+
 <!-- Seite 109 ,  content-0095.xml-->
 
 Zusammenfassung
@@ -34,7 +37,7 @@ Wahrheit hervor gekommen, welche in sich begreifen,
 3. Ein völliges und weitläufiges Zeugnis aller
    Hauptstücke und gewichtigsten Grund - Säße
    der Lehre Christi, wie solche in verschiedenen
-   herrlichen Erklärungen, Vermahnungen und Sprüchen
+   herrlichen Erklärungen, Ermahnungen und Sprüchen
    vorgetragen,<!-- Seite 110 -->und durch die Bewegung des
    Geistes Gottes, zu verschiedenen Zeiten und bei
    verschiedenen Gelegenheiten, an gewisse Gemeinen

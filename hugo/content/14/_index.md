@@ -10,6 +10,8 @@ Schlagworte:
   - 'Staat'
   - 'Regierung'
 ---
+
+{{< panel status="warning" title="warning" >}}Rohdaten: Text wurde noch nicht gesichtet und korreliert.{{< /panel >}}
 <!-- seite 671 -->
 
 

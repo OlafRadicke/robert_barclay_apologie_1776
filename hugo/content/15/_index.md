@@ -9,6 +9,8 @@ Schlagworte:
   - 'Begrüßung'
 ---
 
+{{< panel status="warning" title="warning" >}}Rohdaten: Text wurde noch nicht gesichtet und korreliert.{{< /panel >}}
+
 
 Zusammenfassung
 ---------------
