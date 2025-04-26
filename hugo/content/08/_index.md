@@ -3,8 +3,8 @@ title: '8. Über die Vollkommenheit'
 # title: '8. Von der Vollkommenheit, oder Möglichkeit nicht zu sündigen.'
 description: ""
 weight: 9
-Bearbeitungsstand: "1.Durchsicht"
-Schlagworte:
+categories: "1.Durchsicht"
+tags:
   - 'zusammenfassung'
   - 'Vollkommenheit'
 ---

@@ -11,8 +11,8 @@ Dokuments vermerkt. Beispiel:
 title: '2.2'
 description: ""
 weight: 2
-Bearbeitungsstand: "1.Durchsicht"
-Schlagworte: {}
+categories: "1.Durchsicht"
+tags: {}
 ---
 ```
 
@@ -37,7 +37,7 @@ Dient dazu die Reihenfolge der Dokumente zu bestimmen.
 Bearbeitungsstände
 ------------------
 
-Der Bezeichner "Bearbeitungsstand:" sollte einer der folgenden Werte haben.
+Der Bezeichner "categories:" sollte einer der folgenden Werte haben.
 
 | Wert          | Kommentar |
 | rohdaten      | Die unveränderten Daten, so wie die Texterkennung es erfasst hat |

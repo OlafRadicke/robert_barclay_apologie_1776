@@ -12,10 +12,16 @@ licenselink = "https://github.com/OlafRadicke/robert_barclay_apologie_1776/blob/
 description = "Apologie von Robert Barclay in der Übersetzung von 1776"
 homepage = "https://github.com/OlafRadicke/robert_barclay_apologie_1776"
 repo = "https://github.com/OlafRadicke/robert_barclay_apologie_1776"
-tags = ["Documentation", "Docs", "Responsive", "Google analytics", "Table Of Contents"]
+# tags = ["Documentation", "Docs", "Responsive", "Google analytics", "Table Of Contents"]
 features = ["documentation", "menu"]
 min_version = "0.60.0"
 
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+#   Bearbeitungsstand = 'Bearbeitungsstand'
+#   category = 'Schlagworte'
 
 [params]
     # Documentation Menu section
@@ -36,7 +42,7 @@ min_version = "0.60.0"
         ordered = false
 
 [outputs]
-    home = ["HTML", "RSS", "Algolia"]
+    home = ["HTML", "RSS"] #, "Algolia"]
 
 # # Algolia Search configure section
 # [outputFormats.Algolia]

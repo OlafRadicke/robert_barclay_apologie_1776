@@ -38,3 +38,5 @@ Git-Repo
 Verzeichnisse
 -------------
 
+- [Categories](./categories/)
+- [Tags](./tags/)

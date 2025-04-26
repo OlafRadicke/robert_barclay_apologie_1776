@@ -2,8 +2,8 @@
 title: 'Extrakt'
 description: ""
 weight: 1
-Bearbeitungsstand: "1.Durchsicht"
-Schlagworte:
+categories: "1.Durchsicht"
+tags:
   anhang
 ---
 

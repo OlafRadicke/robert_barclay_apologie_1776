@@ -3,8 +3,8 @@ title: '15. Über Sitten und Gebräuche'
 # title: '15. Von Begrüssungen, Ergötzlichkeiten, und dergleichen Dingen.'
 description: ""
 weight: 16
-Bearbeitungsstand: "1.Durchsicht"
-Schlagworte:
+categories: "1.Durchsicht"
+tags:
   - 'zusammenfassung'
   - 'Begrüßung'
 ---

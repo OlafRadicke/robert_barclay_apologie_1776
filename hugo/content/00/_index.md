@@ -2,7 +2,7 @@
 title: "Vorwort und Anmerkung"
 description: ""
 weight: 1
-Bearbeitungsstand: "1.Durchsicht"
+categories: "1.Durchsicht"
 ---
 
 

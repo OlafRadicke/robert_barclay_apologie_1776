@@ -2,8 +2,8 @@
 title: '7. Von der Rechtfertigung.'
 description: ""
 weight: 8
-Bearbeitungsstand: "1.Durchsicht"
-Schlagworte:
+categories: "1.Durchsicht"
+tags:
   - 'zusammenfassung'
   - 'Rechtfertigung'
 ---

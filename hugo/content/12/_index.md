@@ -2,8 +2,8 @@
 title: '12. Von der Taufe.'
 description: ""
 weight: 13
-Bearbeitungsstand: "1.Durchsicht"
-Schlagworte:
+categories: "1.Durchsicht"
+tags:
   - 'zusammenfassung'
   - 'Taufe'
 ---

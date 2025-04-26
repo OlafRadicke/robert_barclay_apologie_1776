@@ -3,8 +3,8 @@ title: '10. Über die Ämter in Gemeinden'
 # title: '10. Von den Kirchen-Dienern, und Hirten der Gemeinen.'
 description: ""
 weight: 11
-Bearbeitungsstand: "1.Durchsicht"
-Schlagworte:
+categories: "1.Durchsicht"
+tags:
   - 'zusammenfassung'
   - 'Kirchen-Dienern'
 ---

@@ -2,8 +2,8 @@
 title: '11. Von dem Gottesdienst.'
 description: ""
 weight: 12
-Bearbeitungsstand: "1.Durchsicht"
-Schlagworte:
+categories: "1.Durchsicht"
+tags:
   - 'zusammenfassung'
   - 'Gottesdienst'
 ---

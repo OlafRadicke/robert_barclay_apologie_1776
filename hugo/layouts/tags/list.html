@@ -1,0 +1,12 @@
+{{- define "main" -}}
+<h1>Alle Tags</h1>
+<ul>
+  {{ range .Site.Taxonomies.tags }}
+    <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
+  {{ end }}
+</ul>
+{{- partial "table-of-contents.html" . -}}
+{{- .Content -}}
+{{- partial "edit-meta.html" . -}}
+{{- partial "pagination.html" . -}}
+{{- end -}}

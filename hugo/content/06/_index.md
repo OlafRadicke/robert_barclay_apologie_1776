@@ -3,8 +3,8 @@ title: '6. Über die Gnade'
 # title: '6. Von der allgemeinen Erlösung durch Christus, und von dem heilsamen geistlichen und übernatürlichen Licht, das alle Menschen erleuchtet hat.'
 description: ""
 weight: 7
-Bearbeitungsstand: "1.Durchsicht"
-Schlagworte:
+categories: "1.Durchsicht"
+tags:
   - 'zusammenfassung'
 ---
 

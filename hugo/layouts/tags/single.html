@@ -1,0 +1,12 @@
+{{- define "main" -}}
+<h1>Seiten mit dem Tag: {{ .Title }}</h1>
+<ul>
+  {{ range .Pages }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+{{- partial "table-of-contents.html" . -}}
+{{- .Content -}}
+{{- partial "edit-meta.html" . -}}
+{{- partial "pagination.html" . -}}
+{{- end -}}
