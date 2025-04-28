@@ -76,5 +76,5 @@ Tag heller hervor bräche.  [^a_pre_11-satz_03] [^a_pre_11-satz_04] [^a_pre_11-s
 
 [^a_pre_11-satz_05]: Judas 19 "Diese sind es, die sich absondern, natürliche Menschen, die den Geist nicht haben."
 
-[^a_pre_11-satz_03]: Apost. 17,23 "Denn als ich umherging und die Gegenstände eurer Verehrung betrachtete, fand ich auch einen Altar, an welchem die Aufschrift war: Dem unbekannten Gott. Den ihr nun, ohne ihn zu kennen, verehret, diesen verkündige ich euch."
+[^a_pre_11-satz_03]: Apost. 17,23 "Denn als ich umherging und die Gegenstände eurer Verehrung betrachtete, fand ich auch einen Altar, an welchem die Aufschrift war: Dem unbekannten Gott. Den ihr nun, ohne ihn zu kennen, verehrt, diesen verkündige ich euch."
 

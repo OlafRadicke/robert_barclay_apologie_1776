@@ -29,7 +29,7 @@ deren Früchte genügsam zu erkennen geben,
 daß es ihnen an der Kraft desjenigen mangelt, dessen
 Namen sie führen. Und dennoch sind viele darunter
 dermassen in ihre leere Gestalten und Schatten
-verliebet, daß sie nicht ablassen, und deswegen
+verliebt, daß sie nicht ablassen, und deswegen
 zu verlästern, daß wir ihnen das Wesen anpreisen,
 und sie zu demselben berufen, als ob wir die wahre
 Gestalt, und den äußerlichen Teil des Christentums
