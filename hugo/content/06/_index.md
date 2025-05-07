@@ -154,7 +154,7 @@ worden, daß man kaum noch etwas, so noch
 nicht gesagt worden, beifügen kan; so will ich mich
 deswegen desto kürzer fassen. Dieweil sie mir aber
 gleichsam allhier bei meinem Vorhaben gerade entgegen
-steht, so kan ich sie auch nicht gänzlich unberührt
+steht, so kann ich sie auch nicht gänzlich unberührt
 hingehen lassen.
 
 

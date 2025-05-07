@@ -30,7 +30,7 @@ es, daß nicht nur ihre Worte und Werke, sondern
 auch alle ihre Gedanken, ihr Dichten und Trachten
 böse sind, in den Augen Gottes, immerdar,
 weil solche von diesem verderbten und bösen Samen
-herrühren. Deshalb kan der Mensch, so
+herrühren. Deshalb kann der Mensch, so
 lange er in diesem Zustande ist, nichts recht erkennen,
 ja, auch seine Gedanken und Begriffe von
 Gott, und geistlichen Dingen, sind so wohl ihm
